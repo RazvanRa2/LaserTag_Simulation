@@ -1,0 +1,217 @@
+6
+10 9 7 11 7 
+10 6 9 7 8 
+9 6 8 7 11 
+7 9 8 6 6 
+11 7 7 6 10 
+7 8 11 6 10 
+11 7
+Andrei George Andreea Codrin Diana Alexandru Matei Mihaela Elena Ana Adrian 
+Marian Daniel Florin Cristina Ionut Mihai Alexandra 
+JOC_1
+3: Florin
+2: Elena
+George -> Ana
+Mihai -> George
+Diana -> Daniel
+Ionut -> Cristina
+5: Mihai
+4: Diana
+2: Adrian
+2: Alexandru
+Florin -> Adrian
+3: Codrin
+4: Matei
+Alexandra -> Ana
+Alexandru -> Diana
+2: George
+1: Florin
+Andreea -> George
+2: Marian
+Mihaela -> Cristina
+Codrin -> Elena
+Marian -> Diana
+Ionut -> Codrin
+3: Andrei
+3: Codrin
+Alexandru -> Adrian
+Matei -> Florin
+Mihai -> Andrei
+Alexandru -> Andrei
+Elena -> Daniel
+5: Mihai
+Elena -> Alexandra
+3: Andreea
+Mihai -> Alexandru
+Mihai -> Andreea
+1: Elena
+Mihai -> Andreea
+4: Elena
+1: Codrin
+Elena -> Ionut
+3: Matei
+1: Marian
+Alexandra -> Ionut
+Florin -> Marian
+Mihaela -> Florin
+2: Marian
+Codrin -> Elena
+Alexandru -> Marian
+2: Alexandra
+Alexandra -> Codrin
+Mihai -> Mihaela
+0: Mihai
+Matei -> Alexandra
+5: Matei
+4: Mihaela
+5: Mihaela
+Mihaela -> Matei
+Mihai -> Mihaela
+Mihai -> Matei
+Alexandru -> Mihai
+Mihai -> Alexandru
+JOC_2
+George -> Mihai
+4: Mihai
+Andrei -> Mihaela
+2: Florin
+Cristina -> Ana
+Florin -> Andrei
+5: Florin
+3: Andrei
+Codrin -> Daniel
+Andreea -> Alexandra
+4: Matei
+Elena -> Andreea
+2: Codrin
+Daniel -> Codrin
+Mihaela -> Ionut
+Alexandru -> Andrei
+Ana -> Cristina
+0: Ionut
+Mihai -> Matei
+Andreea -> Alexandru
+Cristina -> Ana
+George -> Codrin
+Marian -> Adrian
+Ionut -> Diana
+1: Ionut
+2: Alexandra
+2: Mihai
+5: Elena
+Matei -> Florin
+Marian -> Mihaela
+5: Matei
+0: Ionut
+Cristina -> Ionut
+Mihai -> Alexandra
+George -> Andreea
+Adrian -> George
+Daniel -> Adrian
+Alexandru -> Daniel
+George -> Matei
+3: Cristina
+George -> Marian
+Mihai -> Cristina
+4: Marian
+Marian -> Elena
+4: Florin
+Diana -> Marian
+Elena -> Mihai
+Florin -> Alexandru
+Florin -> Elena
+4: Florin
+3: George
+Florin -> Diana
+George -> Florin
+JOC_3
+3: Adrian
+Mihai -> Alexandra
+Alexandra -> Andreea
+Andrei -> Daniel
+5: Matei
+4: Mihai
+5: Mihai
+Andrei -> Mihai
+3: Florin
+2: Marian
+Mihai -> Adrian
+Matei -> Mihaela
+George -> Mihaela
+Adrian -> Marian
+3: Alexandra
+4: Daniel
+Andreea -> George
+Ionut -> Ana
+Mihai -> Diana
+Adrian -> Matei
+Andreea -> George
+1: Florin
+5: Alexandra
+3: Ionut
+Mihai -> Alexandru
+3: Daniel
+Andreea -> Matei
+0: Elena
+Alexandra -> Codrin
+Daniel -> Andrei
+Florin -> Andreea
+Florin -> Ana
+Mihai -> Andrei
+Alexandra -> Codrin
+Elena -> Cristina
+Cristina -> Elena
+Mihai -> Adrian
+Diana -> Elena
+Cristina -> Alexandra
+Florin -> Alexandru
+0: Marian
+5: Ionut
+Cristina -> Diana
+JOC_4
+Alexandru -> Codrin
+Mihai -> Adrian
+Ana -> Daniel
+Florin -> Diana
+0: Ana
+Marian -> Andreea
+Matei -> George
+Codrin -> Daniel
+Codrin -> Cristina
+Andreea -> George
+Florin -> Mihaela
+Mihaela -> Codrin
+4: Matei
+3: Marian
+Florin -> Elena
+Andrei -> Alexandra
+3: Marian
+0: Andreea
+3: Andreea
+0: Matei
+5: Adrian
+Florin -> Andrei
+Diana -> Andreea
+Mihai -> Marian
+Alexandru -> Mihai
+Marian -> Ionut
+Florin -> Elena
+1: Matei
+Mihai -> Mihaela
+Ana -> Cristina
+Matei -> Mihai
+0: Florin
+Diana -> Ana
+4: Ionut
+Matei -> Florin
+Alexandru -> Ionut
+Marian -> Adrian
+Marian -> Andrei
+Florin -> Ana
+Alexandru -> Florin
+Alexandra -> Matei
+Marian -> Diana
+Matei -> Alexandru
+Alexandru -> Marian
+Alexandra -> Alexandru
+END_CHAMPIONSHIP

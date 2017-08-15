@@ -1,0 +1,30 @@
+3
+3 3
+3 3
+3 3
+3 3
+George Ana Codrin
+Matei Diana Elena
+JOC_1
+George -> Diana
+1: Ana
+0: Codrin
+0: Elena
+Elena -> Ana
+Elena -> Codrin
+2: Matei
+George -> Elena
+Elena -> George
+2: Elena
+George -> Ana
+Codrin -> Diana
+2: Matei
+Matei -> Codrin
+Matei -> George
+JOC_2
+0: Matei
+2: Codrin
+Codrin -> Matei
+Codrin -> Elena
+Ana -> Codrin
+END_CHAMPIONSHIP

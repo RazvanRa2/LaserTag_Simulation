@@ -1,0 +1,2 @@
+Done processing ./tema2
+Total errors found: 0

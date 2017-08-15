@@ -1,0 +1,602 @@
+10
+6 7 5 8 5 6 7 9 6 
+6 7 5 9 8 6 5 6 7 
+7 7 6 8 7 9 7 5 7 
+5 5 6 7 5 9 7 7 8 
+8 9 8 7 7 8 6 6 7 
+5 8 7 5 7 8 6 9 9 
+6 6 9 9 8 8 8 9 5 
+7 5 7 7 6 6 8 8 6 
+9 6 5 7 6 9 9 8 5 
+6 7 7 8 7 9 5 6 5 
+19 33
+Daniel Florin Cristina Andrei George Andreea Ionut Mihai Alexandra Codrin Marian Diana Alexandru Matei Mihaela Marius Elena Ana Adrian 
+Iuliana Mirela Madalina Roxana Florentina Georgiana Nicoleta Oana Maria Stefan Bogdan Daniela Nicolae Vasile Mariana Ioana Cristian Gabriel Anamaria Gabriela Constantin Gheorghe Simona Anca Ion Alina Ioan Irina Valentin Iulian Adriana Ionela Catalin 
+JOC_1
+Iuliana -> Mihaela
+Florentina -> Adriana
+Ion -> Marian
+Ionut -> Mihai
+Anca -> Gabriela
+4: Andreea
+7: Adriana
+Codrin -> Ion
+Andreea -> Stefan
+9: Adriana
+Alexandru -> Irina
+Catalin -> Mihaela
+5: Marian
+8: Alina
+Gheorghe -> Florin
+Bogdan -> Diana
+1: Anca
+1: Mirela
+4: Codrin
+Alina -> Mirela
+9: Daniela
+Ion -> Gabriela
+6: Valentin
+4: Vasile
+Matei -> Daniela
+Cristian -> Adrian
+0: Madalina
+Oana -> Irina
+Alexandru -> Ioana
+8: Andreea
+3: Andreea
+4: Georgiana
+Nicoleta -> Daniel
+Maria -> Alexandra
+Oana -> Elena
+Cristian -> Ana
+Elena -> Roxana
+7: Ioana
+Daniela -> Oana
+Alina -> Alexandru
+Ana -> Codrin
+Daniela -> Georgiana
+Maria -> Ana
+Ionut -> Gabriel
+4: Elena
+9: Bogdan
+Ioana -> Matei
+Alexandru -> Vasile
+Florentina -> Stefan
+3: Adriana
+0: Gheorghe
+0: Ion
+Ioana -> Florin
+Mariana -> Ioana
+Mariana -> Codrin
+Anamaria -> Alexandra
+Iuliana -> Elena
+Daniel -> Oana
+3: Bogdan
+Cristian -> Daniel
+0: George
+Roxana -> Madalina
+Ion -> Maria
+6: Andreea
+Constantin -> Adriana
+Simona -> Matei
+Anamaria -> Mihai
+Alexandru -> Ionut
+2: George
+Iuliana -> Andrei
+Daniela -> Catalin
+Marian -> Marius
+Marian -> Ionela
+Catalin -> Marius
+Ioan -> Andrei
+1: Alina
+2: Mirela
+0: Gheorghe
+George -> Daniela
+Alexandru -> George
+4: Cristina
+1: Marian
+Ionela -> Cristina
+9: Alina
+0: Constantin
+Cristian -> Andreea
+Diana -> Iulian
+Alexandru -> Nicoleta
+Mariana -> Catalin
+Nicolae -> Diana
+Ionut -> Anca
+Ionela -> Cristina
+0: George
+Roxana -> Gabriel
+Madalina -> Nicoleta
+Marian -> Anamaria
+3: Georgiana
+Valentin -> Andreea
+Georgiana -> Mirela
+Ionut -> Georgiana
+8: Madalina
+8: Ioan
+4: George
+Marian -> Ionela
+Alexandru -> Alina
+8: Mariana
+5: Mariana
+Adrian -> Marian
+9: Gheorghe
+9: Madalina
+Iuliana -> Nicolae
+9: Madalina
+Madalina -> Alexandru
+Iuliana -> George
+1: Ionut
+2: Madalina
+Anca -> Nicolae
+Adrian -> Iulian
+Ioan -> Mariana
+Vasile -> Constantin
+2: Mariana
+Anca -> Simona
+8: Gheorghe
+Ioan -> Valentin
+Roxana -> Bogdan
+6: Anca
+Ion -> Madalina
+9: Adrian
+5: Ion
+3: Roxana
+Ioan -> Alina
+7: Bogdan
+Ionut -> Iuliana
+Adrian -> Iuliana
+Ion -> Ioan
+Ion -> Ionut
+Anca -> Constantin
+8: Vasile
+Ioan -> Cristian
+Bogdan -> Ioan
+Bogdan -> Anca
+Mariana -> Maria
+2: Ion
+5: Gheorghe
+4: Roxana
+Cristian -> Gheorghe
+4: Mariana
+5: Cristian
+Mariana -> Vasile
+Bogdan -> Gheorghe
+Florentina -> Valentin
+Simona -> Bogdan
+Roxana -> Simona
+0: Anamaria
+3: Cristian
+1: Florentina
+1: Roxana
+4: Adrian
+Cristian -> Anamaria
+Cristian -> Adrian
+JOC_2
+Matei -> Maria
+3: Oana
+2: Anamaria
+9: Catalin
+4: Adrian
+5: Vasile
+Ionut -> Daniela
+Marius -> Ionela
+Ioan -> Daniela
+1: Matei
+Daniel -> Ionela
+Ana -> Marius
+5: Mihaela
+Alina -> Marian
+3: Bogdan
+Nicolae -> Florin
+Catalin -> George
+Irina -> Gabriel
+Ioana -> Bogdan
+Ioana -> Iuliana
+Ionut -> Mirela
+Cristina -> Adrian
+Gheorghe -> Adriana
+Catalin -> Anca
+Mihai -> Ioan
+8: Constantin
+2: Ioana
+Andreea -> Florin
+Bogdan -> Diana
+3: Alexandra
+7: Madalina
+Nicoleta -> Ioana
+Mihaela -> Codrin
+Diana -> Mihaela
+6: Mirela
+Ion -> Gabriela
+Gabriel -> Mihai
+Catalin -> Alexandra
+2: Valentin
+Adrian -> Anamaria
+Cristian -> Ana
+Gabriel -> Ioan
+1: Vasile
+3: Cristina
+7: Nicoleta
+Adrian -> Gabriel
+Anamaria -> Elena
+Cristina -> Valentin
+Georgiana -> Adrian
+Iulian -> Valentin
+1: Constantin
+Anamaria -> Bogdan
+Anca -> Oana
+Gheorghe -> Marius
+George -> Anamaria
+0: Florentina
+Codrin -> Iulian
+8: Ana
+Simona -> Madalina
+0: Matei
+8: Florentina
+Georgiana -> Andrei
+Mirela -> Ana
+1: George
+Roxana -> George
+Ionut -> Iulian
+Mirela -> Diana
+Anca -> Elena
+7: Gabriela
+Andrei -> Ioana
+Catalin -> Maria
+5: Matei
+6: Mihaela
+8: Ionut
+8: Mihai
+Anca -> Andreea
+Andrei -> Nicoleta
+3: Anca
+Vasile -> Andreea
+Constantin -> Mariana
+2: Marian
+Alina -> Marian
+Irina -> Daniel
+Mihaela -> Florentina
+Anca -> Cristina
+7: Cristina
+Nicolae -> Alexandru
+Mihaela -> Stefan
+Alexandra -> Iuliana
+3: Ionut
+0: Cristian
+Matei -> Cristina
+4: Ionut
+Georgiana -> Ionut
+9: Constantin
+6: Irina
+Alexandru -> Nicolae
+Roxana -> Codrin
+Georgiana -> Alexandru
+Anca -> Alina
+Stefan -> Irina
+3: Georgiana
+9: Mihaela
+3: Matei
+0: Ionut
+Ionut -> Constantin
+Mihai -> Catalin
+0: Florentina
+Madalina -> Matei
+Oana -> Mihai
+9: Ion
+4: Daniel
+1: Adriana
+Alexandra -> Catalin
+4: Florentina
+Oana -> Stefan
+Georgiana -> Adriana
+Andrei -> Madalina
+8: Matei
+7: Alina
+Gabriela -> Daniel
+Nicolae -> Oana
+Andrei -> Ionut
+Matei -> Gheorghe
+Alexandra -> Mirela
+Matei -> Mihaela
+Gabriela -> Nicolae
+Florentina -> Anca
+Alexandra -> Matei
+0: Simona
+Simona -> Alina
+Florentina -> Andrei
+Alexandra -> Roxana
+Georgiana -> Ion
+Cristian -> Mariana
+Gheorghe -> Alexandra
+JOC_3
+9: Anamaria
+4: Georgiana
+Vasile -> Anamaria
+Ionut -> Valentin
+3: Andreea
+7: George
+9: Andrei
+Alexandru -> Bogdan
+Daniela -> George
+4: Vasile
+Codrin -> Ioana
+5: Anamaria
+Mirela -> Codrin
+2: Adrian
+Mirela -> Cristina
+0: Ana
+Anamaria -> Mihai
+Diana -> Andreea
+1: Mihai
+7: Mihai
+2: Matei
+Marius -> George
+8: Matei
+6: Vasile
+7: Mihaela
+Gabriela -> Matei
+Ana -> Iulian
+7: Mihai
+6: Florin
+Cristian -> Adrian
+1: Adriana
+Mihai -> Adriana
+2: Madalina
+Mihaela -> Cristina
+Vasile -> Marius
+Valentin -> Florin
+Roxana -> Daniela
+Florentina -> Stefan
+Florentina -> Codrin
+1: Oana
+4: Ion
+3: Elena
+Gabriel -> Florentina
+Nicolae -> Constantin
+Florin -> Nicoleta
+2: Constantin
+4: Cristian
+Ioana -> Gheorghe
+0: Daniel
+6: Ioan
+3: Mariana
+Anca -> Alina
+Elena -> Anca
+9: Ionut
+Diana -> Ioana
+Andrei -> Daniela
+4: Maria
+Ana -> Nicoleta
+Andrei -> Iulian
+Bogdan -> Madalina
+Cristian -> Daniel
+7: Roxana
+3: Diana
+Gabriel -> Maria
+Mihai -> Andreea
+Mariana -> Cristian
+Nicolae -> Florin
+Mihai -> Cristian
+Andrei -> Adrian
+Alina -> Andrei
+6: Simona
+Ionela -> Alina
+Catalin -> Vasile
+4: Nicolae
+Constantin -> Alexandru
+Mirela -> Alexandru
+5: Anamaria
+Stefan -> Marius
+Anamaria -> Mihai
+Andrei -> Elena
+Nicolae -> Valentin
+6: Matei
+Maria -> Gheorghe
+Irina -> Catalin
+Ionut -> Irina
+Daniel -> Ionut
+5: Mirela
+Ana -> Vasile
+Elena -> Constantin
+6: Maria
+2: Ionut
+2: Gabriela
+Diana -> Gabriela
+Anamaria -> Diana
+4: Irina
+Oana -> Gabriela
+3: Mirela
+Mirela -> Ioan
+Andrei -> Mirela
+Elena -> Nicolae
+Gabriel -> Mariana
+Elena -> Mihaela
+4: Elena
+Adriana -> Oana
+Alexandra -> Ion
+Stefan -> Catalin
+8: Stefan
+3: Iuliana
+Nicolae -> Ionut
+3: Madalina
+Roxana -> Ion
+7: Alexandra
+Ana -> Madalina
+Anca -> Andrei
+1: Bogdan
+1: Anamaria
+Ana -> Maria
+Diana -> Matei
+Mariana -> Stefan
+Bogdan -> Roxana
+2: Nicolae
+Daniel -> Georgiana
+Elena -> Iuliana
+Marian -> Bogdan
+Adriana -> Anamaria
+Anca -> Simona
+Iuliana -> Ioan
+Iuliana -> Adriana
+Diana -> Ana
+Elena -> Mihaela
+Irina -> Mirela
+Elena -> Irina
+Ionela -> Daniel
+6: Diana
+Mariana -> Diana
+Gabriel -> Marian
+Roxana -> Anca
+Nicolae -> Alexandra
+4: Iuliana
+2: Nicolae
+Oana -> Elena
+Marian -> Iuliana
+Simona -> Roxana
+1: Oana
+0: Nicolae
+2: Mariana
+Simona -> Ana
+4: Florentina
+6: Alexandra
+Mariana -> Florentina
+8: Mariana
+Marian -> Oana
+Alexandra -> Georgiana
+Simona -> Alexandra
+Marian -> Nicolae
+8: Mariana
+4: Ionela
+0: Mariana
+Marian -> Mariana
+Gabriel -> Marian
+JOC_4
+Ionut -> Daniela
+1: Ionut
+Ionela -> Cristina
+Oana -> Mihaela
+5: Elena
+Ionut -> Matei
+0: Georgiana
+Ion -> Marius
+5: Stefan
+4: Codrin
+Oana -> Florin
+0: Catalin
+Ioan -> Ana
+2: Anca
+8: Maria
+8: Irina
+Georgiana -> Madalina
+Georgiana -> Elena
+Ana -> Catalin
+Constantin -> Diana
+Daniela -> Daniel
+Ana -> Nicolae
+Mirela -> Ana
+Mihaela -> Catalin
+Mihaela -> Florin
+Anamaria -> Nicoleta
+Diana -> Andrei
+Gheorghe -> Cristina
+0: Ion
+8: Gabriela
+1: Bogdan
+9: Alexandra
+Andreea -> Gheorghe
+Codrin -> Daniel
+8: Anca
+Bogdan -> Codrin
+Maria -> Diana
+Adriana -> Gabriela
+6: Madalina
+Andreea -> Ioan
+0: Adrian
+Adrian -> Ionela
+Andreea -> Mihai
+Adrian -> Anamaria
+Marius -> Gheorghe
+4: Andreea
+Adriana -> Anamaria
+Bogdan -> Ion
+Ion -> Mihaela
+Anca -> Alexandru
+5: Cristian
+0: Anca
+0: Ionut
+6: Nicolae
+Simona -> Marian
+Adriana -> George
+Iuliana -> Anca
+3: Bogdan
+Elena -> Mariana
+Madalina -> Iuliana
+9: Nicoleta
+Roxana -> Adrian
+6: Iuliana
+4: Georgiana
+6: Adrian
+George -> Nicoleta
+Andrei -> Alexandra
+Gabriela -> Irina
+8: Alina
+Mirela -> Georgiana
+Adriana -> Iuliana
+5: Alexandru
+Bogdan -> Ioana
+Andreea -> Ioana
+3: Alexandru
+7: Daniela
+3: Mirela
+Andrei -> Mariana
+Andrei -> Roxana
+7: Valentin
+9: Anca
+1: Gabriel
+7: Ion
+Adriana -> Ionut
+Gabriela -> Codrin
+0: Vasile
+Maria -> Marius
+0: Elena
+9: Gabriel
+2: Roxana
+Gabriela -> Maria
+Irina -> Elena
+0: Alina
+3: Maria
+Maria -> Stefan
+6: Ion
+Ionut -> Georgiana
+Maria -> Matei
+Alexandra -> Gabriel
+0: Roxana
+6: Gabriela
+Daniela -> Simona
+Ioan -> Irina
+0: Madalina
+Roxana -> Andreea
+Andrei -> Vasile
+Alexandru -> Adriana
+Alina -> Alexandru
+Ionela -> Constantin
+Andrei -> Valentin
+Ionut -> Cristian
+6: Valentin
+8: Ionut
+Iulian -> Mirela
+6: Ioan
+Gabriel -> Marian
+0: Cristian
+Daniela -> Alexandra
+9: Cristian
+Constantin -> Mihai
+8: Andrei
+6: Gabriela
+Florentina -> Andreea
+Valentin -> Vasile
+8: Ionela
+8: Gabriel
+Anca -> Ionut
+END_CHAMPIONSHIP

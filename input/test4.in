@@ -1,0 +1,133 @@
+5
+15 10 12 10 
+15 11 13 10 
+10 11 11 12 
+12 13 11 12 
+10 10 12 12 
+7 7
+Mihaela Matei Alexandru Codrin Diana George Ana 
+Ionut Andrei Mihai Adrian Elena Alexandra Andreea 
+JOC_1
+George -> Adrian
+0: Mihai
+George -> Ana
+Mihai -> Matei
+Adrian -> Codrin
+Alexandra -> George
+4: Matei
+4: Adrian
+Matei -> Mihai
+Adrian -> Alexandru
+1: Matei
+Ionut -> Alexandru
+George -> Mihai
+Matei -> Andreea
+Codrin -> Adrian
+Diana -> George
+3: Mihaela
+Ionut -> Codrin
+Ionut -> Ana
+Elena -> Mihaela
+Andreea -> Mihaela
+3: Matei
+Diana -> Ionut
+Diana -> Ionut
+1: Andreea
+1: Elena
+4: Alexandra
+Matei -> Elena
+1: Alexandra
+Matei -> Elena
+Matei -> Diana
+Alexandra -> Andrei
+Andrei -> Alexandra
+Alexandra -> Matei
+3: Andreea
+1: Andreea
+4: Diana
+3: Andreea
+3: Diana
+4: Diana
+Alexandra -> Diana
+JOC_2
+Andreea -> Matei
+Codrin -> Alexandra
+3: Adrian
+4: Diana
+0: Andreea
+Diana -> Adrian
+3: George
+Ionut -> Codrin
+0: Alexandru
+Ionut -> George
+1: Ana
+Ana -> Ionut
+Mihaela -> Alexandra
+4: Matei
+Mihai -> Mihaela
+Mihai -> Codrin
+1: Matei
+Ionut -> Alexandru
+Adrian -> George
+Ana -> Andrei
+Mihaela -> Andrei
+0: Elena
+Elena -> Matei
+3: Diana
+Alexandru -> Elena
+Ana -> Mihaela
+4: Andreea
+Adrian -> Andreea
+Alexandru -> Adrian
+0: Alexandru
+Mihai -> Andreea
+Alexandru -> Diana
+1: Alexandru
+Mihai -> Alexandru
+Elena -> Diana
+Elena -> Ana
+Ana -> Ionut
+Ana -> Mihai
+Ana -> Elena
+Mihai -> Ana
+JOC_3
+Ana -> Alexandru
+Codrin -> Andreea
+1: Andrei
+2: Alexandru
+0: Ionut
+Codrin -> Adrian
+Codrin -> Elena
+3: Codrin
+Alexandru -> Mihai
+Alexandru -> Elena
+4: Mihai
+0: Andreea
+Andreea -> Mihai
+Adrian -> Diana
+Matei -> Alexandru
+Mihaela -> Matei
+Alexandra -> Mihaela
+Ana -> Alexandra
+Matei -> Andrei
+Ionut -> Diana
+Mihaela -> Andrei
+Andreea -> George
+Ionut -> Matei
+Ionut -> Codrin
+Codrin -> Adrian
+Alexandra -> Codrin
+1: George
+2: Andreea
+Andreea -> Ana
+3: George
+3: Alexandra
+4: Andreea
+George -> Ionut
+3: Andreea
+1: Ionut
+George -> Ionut
+4: Alexandra
+0: Mihaela
+Alexandra -> Ana
+END_CHAMPIONSHIP

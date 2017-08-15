@@ -1,0 +1,29 @@
+3
+2 2
+2 2
+2 2
+2 1
+Codrin Ana
+Elena
+JOC_1
+Codrin -> Ana
+Ana -> Elena
+Codrin -> Elena
+JOC_2
+0: Elena
+1: Elena
+Elena -> Codrin
+2: Codrin
+Codrin -> Elena
+Elena -> Ana
+2: Ana
+Ana -> Elena
+JOC_3
+2: Elena
+Codrin -> Elena
+Elena -> Codrin
+0: Ana
+1: Ana
+Ana -> Elena
+JOC_4
+END_CHAMPIONSHIP

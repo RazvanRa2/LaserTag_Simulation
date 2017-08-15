@@ -1,0 +1,11704 @@
+20
+8 9 10 13 9 10 9 9 9 8 11 12 9 10 7 10 11 9 11 
+8 8 10 9 7 12 11 12 8 7 11 10 8 7 11 12 9 7 12 
+9 8 7 12 13 13 7 10 11 10 7 13 12 7 12 7 7 12 12 
+10 10 7 8 11 9 13 12 9 13 9 12 13 10 11 9 8 9 8 
+13 9 12 8 7 9 9 8 7 13 11 12 12 11 11 8 10 13 10 
+9 7 13 11 7 9 7 11 11 11 11 7 10 12 9 12 7 9 12 
+10 12 13 9 9 9 9 12 8 10 11 7 13 9 10 10 13 12 11 
+9 11 7 13 9 7 9 13 10 13 13 12 8 10 9 8 11 8 11 
+9 12 10 12 8 11 12 13 13 13 13 11 7 9 10 8 13 9 7 
+9 8 11 9 7 11 8 10 13 12 11 13 8 8 10 7 9 7 13 
+8 7 10 13 13 11 10 13 13 12 8 7 8 8 10 7 10 11 13 
+11 11 7 9 11 11 11 13 13 11 8 8 8 7 10 12 9 8 12 
+12 10 13 12 12 7 7 12 11 13 7 8 8 10 11 12 12 11 9 
+9 8 12 13 12 10 13 8 7 8 8 8 8 11 7 8 10 7 8 
+10 7 7 10 11 12 9 10 9 8 8 7 10 11 8 11 9 11 13 
+7 11 12 11 11 9 10 9 10 10 10 10 11 7 8 9 7 12 10 
+10 12 7 9 8 12 10 8 8 7 7 12 12 8 11 9 10 10 12 
+11 9 7 8 10 7 13 11 13 9 10 9 12 10 9 7 10 8 13 
+9 7 12 9 13 9 12 8 9 7 11 8 11 7 11 12 10 8 13 
+11 12 12 8 10 12 11 11 7 13 13 12 9 8 13 10 12 13 13 
+80 80
+Camelia Alin Florina Viorel Liliana Razvan Vlad Ovidiu Ciprian Monica Radu Claudia Loredana Cosmin Lucian Ionel Claudiu Raluca Iuliana Mirela Carmen Oana Irina Roxana Mihai Catalina Ioan Anca Simona Cristian Daniel Andrei Robert Valentina Andreea Ionut Alexandra Gabriel Codrin Marian Matei Alexandru Ion Catalin Cristina Daniela Mihaela Elena Gabriela Diana Anamaria George Ana Florin Adrian Vasile Maria Dumitru Ioana Mariana Constantin Sorin Gheorghe Laura Nicoleta Georgiana Bogdan Madalina Nicolae Ramona Valentin Adriana Iulian Corina Ionela Marius Stefan Iulia Alina Florentina 
+Geanina Marin Gheorghita Tiberiu Emanuel Anisoara Tunde Kinga Adelina Ecaterina Lenuta Emil Costin Dorin Laszlo Melinda Eniko Florian Lidia Mihail Nicusor Katalin Paula Ileana Costel Rodica Angela Marinela Victor Petronela Lavinia Danut Zoltan Vasilica Dragos Liviu Ancuta Luminita Mircea Dorina Ilie Violeta Andrea Petru Zsolt Eugen Dan Tudor Adina Istvan Mihaita Erika Silvia Teodora Georgian Silviu Marilena Laurentiu Bianca Petrica Georgeta Viorica Sergiu Veronica Cornelia Emilia Timea Attila Levente Octavian Cornel Csaba Stefania Sorina Teodor Sebastian Szabolcs Paul Aurelia Andra 
+JOC_1
+Daniela -> Georgeta
+Dumitru -> Mihaita
+Zoltan -> Elena
+Marius -> Victor
+Claudia -> Mihaela
+Mirela -> Razvan
+8: Luminita
+4: Laszlo
+Cristian -> Ancuta
+Teodora -> Valentin
+Dragos -> Marius
+Istvan -> Emilia
+9: Sorina
+Ileana -> Georgiana
+Vasilica -> Levente
+Mariana -> Vasilica
+Dorin -> Sorin
+Mihaita -> Kinga
+Petrica -> Loredana
+Florin -> Silviu
+Razvan -> Alina
+Loredana -> Eugen
+1: Cosmin
+Mihail -> Ionela
+Ioana -> Elena
+Valentina -> Silvia
+Andrei -> Marinela
+11: Mihail
+Lidia -> Roxana
+Anamaria -> Mariana
+Costel -> Marius
+Vasilica -> Raluca
+16: Gheorghe
+15: Silviu
+Stefan -> Sebastian
+Teodora -> Gheorghe
+Andrea -> Claudiu
+Istvan -> Robert
+0: Petronela
+Ion -> Anisoara
+Andrea -> Gheorghita
+Stefania -> Liliana
+Razvan -> Cornelia
+Marinela -> Mihai
+Bogdan -> Iulian
+Marin -> Daniel
+10: Robert
+11: Andreea
+Attila -> Codrin
+13: Lucian
+Silvia -> Gabriela
+Gheorghe -> Ionut
+7: Ileana
+Catalin -> Adina
+Anisoara -> Irina
+Luminita -> Cristian
+Constantin -> Simona
+Ioana -> Emanuel
+4: Dumitru
+Alina -> Liviu
+10: Cornelia
+Costin -> Ion
+Vasilica -> Mihai
+18: Victor
+14: Levente
+Roxana -> Tunde
+Erika -> Florin
+George -> Lavinia
+5: Mihaita
+0: Madalina
+Zsolt -> Rodica
+5: Ecaterina
+Alina -> Teodora
+Alexandru -> Katalin
+5: Aurelia
+19: Erika
+Corina -> Sebastian
+Oana -> Lenuta
+Emilia -> Geanina
+4: Nicusor
+Florina -> Georgiana
+Gheorghe -> Dorin
+3: Aurelia
+Zoltan -> Mirela
+Stefan -> Vasile
+Tudor -> Zoltan
+Melinda -> Gheorghe
+Timea -> Codrin
+Madalina -> Aurelia
+Maria -> Iuliana
+Adina -> Mihaela
+14: Irina
+Nicolae -> Razvan
+Ancuta -> Erika
+15: Loredana
+14: Anamaria
+Costel -> Stefania
+12: Geanina
+12: Angela
+Gheorghita -> Bogdan
+Ovidiu -> Dragos
+11: Nicoleta
+Mihaita -> Cristian
+Octavian -> Iulia
+Oana -> Zsolt
+3: Liliana
+Octavian -> Gheorghita
+Lenuta -> Mariana
+Ancuta -> Melinda
+Zoltan -> Simona
+Stefania -> Anca
+18: Octavian
+6: Adriana
+14: Veronica
+9: Andrea
+Geanina -> Ana
+Ramona -> Marian
+Timea -> Valentina
+Petrica -> Cosmin
+12: Ancuta
+Claudia -> Andra
+Ecaterina -> Monica
+Bianca -> Daniel
+Ion -> Csaba
+11: Levente
+13: Timea
+Sorina -> Alina
+Claudiu -> Liviu
+Robert -> Silvia
+Catalin -> Loredana
+Iulian -> Eniko
+Zoltan -> Robert
+Dragos -> Ionut
+Ana -> Aurelia
+Silviu -> Alin
+Marin -> Adrian
+2: Melinda
+19: Costel
+Zsolt -> Ramona
+18: Dan
+Costin -> Claudia
+Petrica -> Ana
+Raluca -> Dorina
+6: Ionela
+Istvan -> Camelia
+Ioana -> Ion
+Teodor -> Cristina
+Viorel -> Ovidiu
+Iulian -> Laurentiu
+Radu -> Marilena
+12: Valentin
+Nicusor -> Adina
+Sergiu -> Cosmin
+19: Alexandra
+2: Victor
+2: Eugen
+Cornelia -> Madalina
+Nicolae -> Adrian
+0: Victor
+1: Iuliana
+Ionela -> Emanuel
+13: Paul
+Adriana -> Vasilica
+Rodica -> Georgian
+3: Florina
+18: Anisoara
+Violeta -> Dragos
+Radu -> Octavian
+3: Stefania
+Irina -> Lavinia
+Marilena -> Irina
+Mihail -> Vasile
+Stefan -> Georgeta
+9: Matei
+Laszlo -> Andrei
+Violeta -> Petru
+Zoltan -> Monica
+Nicusor -> Oana
+Vlad -> Viorica
+5: Laurentiu
+Andrea -> Nicoleta
+1: Luminita
+17: Ileana
+Kinga -> Timea
+Emilia -> Mirela
+14: Violeta
+Tudor -> Ovidiu
+Istvan -> Claudiu
+16: Paula
+Mircea -> Ciprian
+4: Levente
+9: Cornelia
+2: Victor
+Ioana -> Dorin
+Sergiu -> Viorel
+7: Andreea
+Sergiu -> Violeta
+Anisoara -> Iuliana
+2: Valentina
+8: Petrica
+Melinda -> Gabriel
+16: Laurentiu
+Teodor -> Iulia
+Madalina -> Laurentiu
+6: Geanina
+17: Emilia
+Cornel -> Catalin
+George -> Corina
+Alexandra -> Lidia
+12: Tiberiu
+8: Silviu
+Ionela -> Violeta
+Ioan -> Petrica
+13: Daniela
+Georgian -> Anca
+Emil -> Florin
+Sergiu -> Andreea
+Radu -> Dorina
+12: Eniko
+Paul -> Oana
+19: Zoltan
+Paul -> Lucian
+Ioan -> Katalin
+Cristina -> Emil
+7: Istvan
+Paula -> Valentin
+Silviu -> Cristina
+Anamaria -> Zsolt
+Ciprian -> Octavian
+12: Petronela
+Paula -> Victor
+Daniela -> Paula
+Kinga -> Corina
+Andra -> Alexandru
+5: Dan
+Laura -> Costel
+Silviu -> Adriana
+Emilia -> Catalina
+Szabolcs -> Iulian
+Emil -> Nicolae
+Angela -> Levente
+Zoltan -> Catalina
+Daniela -> Raluca
+Florentina -> Luminita
+Adriana -> Diana
+Timea -> Stefan
+Camelia -> Ilie
+Luminita -> Gabriel
+Lucian -> Camelia
+Csaba -> Ionel
+Petronela -> Nicolae
+19: Danut
+15: Ilie
+7: Andrea
+7: Constantin
+Timea -> Marinela
+Erika -> Roxana
+Ancuta -> Nicoleta
+Ionel -> Anamaria
+3: Andreea
+14: Florentina
+13: Szabolcs
+Timea -> Ilie
+9: Paul
+Ramona -> Laura
+Alexandra -> Radu
+George -> Teodor
+Erika -> Claudia
+4: Ecaterina
+7: Diana
+Petrica -> Constantin
+Teodor -> Florina
+Georgian -> Teodor
+George -> Mihail
+Dan -> Veronica
+9: Tudor
+Sergiu -> Ioana
+Sorina -> Andrei
+Daniela -> Paula
+Ciprian -> Alin
+Sorina -> Radu
+19: Dan
+Constantin -> Emil
+Laura -> Paul
+Ciprian -> Teodora
+Ramona -> Laszlo
+Paul -> Andreea
+Anamaria -> Melinda
+Sorina -> Florentina
+Florian -> Alexandra
+1: Gabriela
+Madalina -> Viorica
+Szabolcs -> Lucian
+19: Diana
+16: Lenuta
+Anamaria -> Bianca
+14: Anisoara
+9: Liliana
+Catalin -> George
+2: Ionela
+Tiberiu -> Bianca
+Geanina -> Maria
+Attila -> Carmen
+Madalina -> Veronica
+15: Lidia
+15: Petronela
+Anamaria -> Zoltan
+Luminita -> Ioana
+0: Petronela
+Ramona -> Cornelia
+Tunde -> Silviu
+Angela -> Ciprian
+Sorin -> Erika
+9: Stefan
+13: Costin
+Istvan -> Andra
+13: Lidia
+12: Geanina
+Attila -> Sorin
+Mircea -> Valentina
+3: Laszlo
+Diana -> Mircea
+Maria -> Lenuta
+3: Dan
+Laszlo -> Stefan
+Anisoara -> Ionela
+Catalin -> Costel
+Tunde -> Ileana
+Paul -> Sorina
+Csaba -> Alexandra
+Stefania -> Florina
+George -> Marin
+1: Vlad
+Gabriela -> Cornel
+Gabriela -> Costin
+Luminita -> Adriana
+Diana -> Laszlo
+Angela -> Kinga
+Matei -> Danut
+5: Ionel
+11: Viorel
+Petru -> Dan
+Petronela -> Viorel
+5: Timea
+Petrica -> Madalina
+1: Sergiu
+12: Daniela
+Vlad -> Tudor
+Cornel -> Angela
+Ancuta -> Catalin
+9: Ileana
+Petrica -> Ioan
+Mircea -> George
+Dumitru -> Dan
+Petrica -> Alexandru
+Sergiu -> Attila
+Petrica -> Sorina
+Florian -> Rodica
+Carmen -> Adelina
+Daniela -> Timea
+Geanina -> Matei
+11: Ecaterina
+18: Dumitru
+Angela -> Ionel
+2: Daniela
+Emilia -> Dumitru
+Carmen -> Nicusor
+Carmen -> Luminita
+1: Bogdan
+Dumitru -> Anisoara
+1: Nicusor
+Szabolcs -> Vlad
+Emilia -> Costin
+13: Tunde
+Constantin -> Angela
+Laura -> Andrea
+Georgian -> Maria
+12: Marin
+Adelina -> Eugen
+Anamaria -> Danut
+Daniela -> Georgian
+Laura -> Ancuta
+Ileana -> Vlad
+Csaba -> Eniko
+Csaba -> Gabriela
+Constantin -> Sergiu
+Stefania -> Liliana
+Anamaria -> Attila
+Tudor -> Paul
+16: Petrica
+Mircea -> Szabolcs
+Nicusor -> Szabolcs
+4: Constantin
+Csaba -> Marian
+Ioan -> Carmen
+Matei -> Florentina
+Ioan -> Stefania
+Ioan -> Sergiu
+Dumitru -> Andrea
+Bogdan -> Ecaterina
+Adelina -> Tiberiu
+Tudor -> Mihaita
+4: Tunde
+Florian -> Diana
+Istvan -> Csaba
+16: Ioan
+Laura -> Mircea
+Petrica -> Anamaria
+12: Istvan
+13: Adelina
+Ioan -> Tiberiu
+Adelina -> Laura
+4: Ecaterina
+Ramona -> Cornel
+Lidia -> Ramona
+Matei -> Ileana
+Petronela -> Mihail
+Bogdan -> Emilia
+Petrica -> Lidia
+Ioan -> Adelina
+Daniela -> Tunde
+Daniela -> Dumitru
+Florian -> Matei
+Petrica -> Constantin
+Petrica -> Petronela
+Geanina -> Bogdan
+Istvan -> Daniela
+4: Marin
+Ecaterina -> Petrica
+Istvan -> Ioan
+9: Daniela
+Petronela -> Ecaterina
+Istvan -> Daniela
+JOC_2
+Georgeta -> Florina
+Erika -> Anamaria
+Lenuta -> Mihaela
+Radu -> Nicolae
+Bianca -> Constantin
+5: Oana
+Csaba -> Alin
+Cornelia -> Irina
+Valentina -> Lavinia
+10: Attila
+0: Ovidiu
+Alin -> Aurelia
+Camelia -> Eniko
+16: Mariana
+1: Catalina
+Viorel -> Constantin
+14: Catalina
+Florin -> Cornel
+Zoltan -> Marin
+Daniela -> Dorina
+3: Viorel
+4: Florina
+10: Lavinia
+Georgeta -> Diana
+6: Viorel
+16: Paul
+Andrea -> Mihail
+Lucian -> Katalin
+2: Valentin
+Erika -> Diana
+6: Rodica
+Nicolae -> Iuliana
+14: Danut
+0: Irina
+3: Iulian
+Adrian -> Szabolcs
+17: Irina
+Camelia -> Florian
+Marin -> Ovidiu
+4: Laura
+Ioan -> Petronela
+16: Ancuta
+4: Bogdan
+Mihaita -> Ciprian
+15: Dan
+Razvan -> Georgian
+Andreea -> Petronela
+16: Silviu
+Corina -> Teodor
+12: Alina
+Andra -> Dumitru
+Sorina -> Gheorghe
+10: Raluca
+Florentina -> Sergiu
+17: Razvan
+17: Cristian
+14: Angela
+17: Robert
+Valentina -> Ancuta
+Attila -> Sorin
+16: Daniela
+Simona -> Bogdan
+Ioan -> Sergiu
+Erika -> Anca
+Sorina -> Sorin
+1: Istvan
+Silviu -> Mihai
+Florian -> Ovidiu
+Dorin -> Florentina
+9: Kinga
+Daniel -> Veronica
+Ionela -> Teodora
+0: Ioana
+Veronica -> Maria
+Nicoleta -> Camelia
+7: Georgian
+Victor -> George
+Cosmin -> Vasilica
+Stefan -> Timea
+Ioana -> Mihaita
+Dumitru -> Adina
+16: Eugen
+Lucian -> Melinda
+Aurelia -> Ilie
+7: Simona
+Emanuel -> Catalin
+18: Catalina
+Paula -> Mihai
+Liviu -> Anamaria
+Szabolcs -> Dumitru
+3: Camelia
+3: Mihail
+13: Silviu
+13: Mihaita
+6: Mirela
+Cornelia -> Catalina
+1: Monica
+2: Veronica
+Ionut -> Alexandru
+Marian -> Mircea
+Mihaita -> Iuliana
+5: Stefania
+Elena -> Erika
+9: Eugen
+Cristina -> Cornelia
+8: Iulia
+Silvia -> Monica
+11: Bogdan
+7: Camelia
+Adriana -> Octavian
+Tunde -> Ioan
+7: Ioan
+Alin -> Cornelia
+2: Dan
+Irina -> Nicusor
+Ionela -> Dorina
+8: Simona
+10: Alexandru
+Veronica -> Marian
+Zsolt -> Ioana
+3: Cornel
+Cristina -> Adelina
+Danut -> Eugen
+Radu -> Catalina
+10: Corina
+Valentina -> Teodora
+Sorina -> Adrian
+Cristina -> Emil
+4: Iulian
+Ancuta -> Mihaela
+Paula -> Oana
+5: Florin
+5: Ramona
+16: Madalina
+Corina -> Irina
+Adina -> Andreea
+Luminita -> Gheorghe
+17: Viorel
+Paula -> Andreea
+Tiberiu -> Costel
+Adriana -> Danut
+Elena -> Katalin
+Ilie -> Andra
+2: Stefan
+15: Madalina
+9: Roxana
+Ioana -> Octavian
+Lidia -> Corina
+17: Ramona
+9: Radu
+Anca -> Loredana
+Mircea -> Ioana
+Iulian -> Violeta
+8: Cosmin
+Ramona -> Roxana
+2: Angela
+11: Adriana
+10: Mihaita
+6: Oana
+2: Cristian
+Ioan -> Szabolcs
+12: Ana
+15: Ecaterina
+1: Alina
+Eniko -> Ciprian
+Oana -> Florian
+17: Victor
+15: Marin
+Oana -> Georgian
+4: Emilia
+Ramona -> Ancuta
+Corina -> Istvan
+Codrin -> Zsolt
+17: Georgiana
+12: Liviu
+Ioan -> Silvia
+Claudia -> Nicolae
+17: Radu
+Attila -> Anca
+Kinga -> Florentina
+Viorica -> Ana
+9: Angela
+Madalina -> Liviu
+Paula -> Sebastian
+Claudia -> Aurelia
+Adina -> Matei
+Ioan -> Catalin
+Levente -> Istvan
+Laura -> Stefan
+0: Dorin
+Eniko -> Vlad
+Petru -> Claudiu
+Oana -> Alexandra
+19: Costel
+Tunde -> Zsolt
+Ana -> Andrei
+4: Emilia
+Iulia -> Lenuta
+9: Alexandru
+Sorina -> Claudiu
+Costin -> Robert
+Radu -> Marinela
+Gabriel -> Dragos
+19: Ramona
+Valentina -> Emil
+8: Camelia
+19: Vasilica
+0: Daniela
+2: Emilia
+Emilia -> Vlad
+Erika -> Viorel
+Levente -> Stefan
+9: Andrea
+Alin -> Petrica
+Alin -> Emanuel
+Andrea -> Cosmin
+Bianca -> Raluca
+12: Loredana
+9: Nicoleta
+Monica -> Matei
+15: Laurentiu
+16: Gheorghita
+Robert -> Petru
+10: Daniela
+4: Georgiana
+Vasile -> Emanuel
+Lidia -> Loredana
+Victor -> Valentin
+13: Attila
+1: Nicusor
+Petrica -> Alina
+Attila -> Daniel
+Oana -> Bianca
+Marilena -> Monica
+6: Dragos
+Andrei -> Dan
+Georgeta -> Codrin
+12: Ion
+Florin -> Ionel
+Ileana -> Nicoleta
+Ionela -> Attila
+Ionel -> Costel
+Angela -> Elena
+18: Marinela
+11: Mariana
+Silviu -> Marius
+Dan -> Daniel
+Mariana -> Valentina
+13: Rodica
+Paula -> Madalina
+Dan -> Mihail
+Valentin -> Mariana
+17: Ion
+Ilie -> Raluca
+12: Alexandra
+Simona -> Attila
+Danut -> Adrian
+16: Marian
+Marinela -> Valentina
+Cristian -> Eugen
+Ion -> Florin
+Iulian -> Alina
+Madalina -> Kinga
+Alexandra -> Bianca
+Georgiana -> Gabriela
+Tiberiu -> Tudor
+1: Sorina
+Elena -> Paula
+Melinda -> Cosmin
+Radu -> Cristian
+11: Ilie
+8: Emilia
+Veronica -> Daniela
+Mihaita -> Iulia
+Iulian -> Marinela
+Madalina -> Viorel
+Petru -> Cristina
+Laszlo -> Cristina
+0: Tiberiu
+Dorin -> Ilie
+13: Petru
+Petru -> Stefania
+Rodica -> Paula
+0: Carmen
+18: Sorina
+10: Luminita
+Mariana -> Tunde
+6: Iulia
+Daniela -> Geanina
+Corina -> Gabriela
+Oana -> Ana
+Iulian -> Sorina
+Marin -> Simona
+Silvia -> Cristian
+Violeta -> Iulia
+Dorin -> Carmen
+9: Violeta
+Laszlo -> Paul
+Codrin -> Angela
+Alin -> Andra
+12: Oana
+Nicoleta -> Ileana
+Melinda -> Madalina
+6: Timea
+Teodor -> Georgiana
+Iulian -> Sorina
+10: George
+15: Corina
+10: Laura
+Ramona -> Marius
+5: Rodica
+13: Carmen
+Ioan -> Erika
+16: Alin
+1: Marin
+4: Alin
+Simona -> Timea
+Florin -> Lidia
+0: Ionel
+Robert -> Emilia
+0: Elena
+Viorica -> Gabriel
+Roxana -> Mircea
+15: Angela
+Maria -> Andrea
+Stefania -> Vasile
+3: Lenuta
+Geanina -> Dragos
+10: Tunde
+17: Georgiana
+9: Corina
+Codrin -> Laszlo
+1: Mihaita
+Ioan -> Silvia
+Adelina -> Victor
+Alexandra -> Csaba
+Florina -> Andrei
+7: Oana
+Mariana -> Petrica
+Nicusor -> Mariana
+Alin -> Geanina
+1: Simona
+7: Ion
+8: Cornel
+Ionel -> Dorin
+Nicoleta -> Levente
+Adriana -> Lavinia
+18: Roxana
+16: Lucian
+Codrin -> Andrea
+17: Nicoleta
+Levente -> Alin
+Liliana -> Claudia
+Violeta -> Alexandru
+Veronica -> Simona
+1: Tiberiu
+Petru -> Claudia
+Daniela -> Violeta
+Elena -> Mirela
+Lucian -> Nicusor
+Laszlo -> Ionut
+5: Mirela
+3: Codrin
+George -> Codrin
+16: Razvan
+3: Kinga
+Vasile -> Daniela
+Georgiana -> Viorica
+Stefania -> Sebastian
+Dan -> Ecaterina
+6: Tiberiu
+7: Nicoleta
+Georgiana -> Dan
+Emilia -> Adina
+Adelina -> Marian
+6: Vasile
+3: Lucian
+Elena -> Laurentiu
+Ionut -> Victor
+12: Teodor
+Mihaita -> Ecaterina
+4: Mihaita
+Valentin -> Eniko
+Gabriel -> Razvan
+Zoltan -> Vasile
+2: Costin
+19: Gheorghita
+Adelina -> Bogdan
+Liviu -> Mirela
+13: Gabriel
+Cornel -> Camelia
+Lucian -> Nicoleta
+Danut -> Laszlo
+9: Georgeta
+10: Lidia
+6: Gheorghita
+17: Angela
+Florin -> Petru
+12: Alexandra
+Paul -> Teodor
+9: Costin
+6: Silviu
+Adriana -> Stefania
+Lidia -> Florina
+Florin -> Rodica
+9: Gheorghita
+13: Robert
+5: Csaba
+Ileana -> Georgiana
+Danut -> Roxana
+16: Adelina
+Emilia -> Danut
+Georgeta -> Tiberiu
+Marilena -> Florin
+Valentin -> Tudor
+Maria -> Iulian
+Csaba -> Angela
+Kinga -> Radu
+Oana -> Liviu
+Tunde -> Robert
+Adelina -> Carmen
+Ioan -> Lucian
+Kinga -> Razvan
+6: Cornel
+Luminita -> Ion
+Ramona -> Radu
+Tiberiu -> Vasilica
+4: Melinda
+Silviu -> Oana
+8: George
+3: Luminita
+Alexandra -> Tunde
+Lucian -> Gheorghita
+3: Mihaita
+Laurentiu -> Laura
+Gabriel -> Laurentiu
+0: Alexandra
+Costin -> Liliana
+Ionel -> Lenuta
+Levente -> Georgeta
+Mihaita -> Paul
+Ionela -> Veronica
+2: Emilia
+Valentin -> Georgeta
+16: Adelina
+Costin -> Ionela
+Ioan -> Melinda
+Marin -> Ionel
+Ioan -> Rodica
+Anisoara -> Ramona
+George -> Lidia
+Adriana -> Levente
+13: Silviu
+Ioan -> George
+Ramona -> Luminita
+4: Alexandra
+Corina -> Lucian
+Adriana -> Anisoara
+Marilena -> Ioan
+Ionut -> Zoltan
+8: Kinga
+Liliana -> Marin
+Maria -> Corina
+Mihaita -> Adriana
+Iulian -> Mihaita
+Gabriel -> Kinga
+Anisoara -> Marilena
+Anisoara -> Liliana
+17: Alexandra
+Adelina -> Ileana
+9: Maria
+7: Adelina
+19: Iulian
+Gheorghita -> Alexandra
+Dorin -> Silviu
+Ion -> Iulian
+Ionela -> Viorica
+5: Zoltan
+7: Csaba
+Adriana -> Costin
+Ion -> Cornel
+7: Costin
+Gabriel -> Adelina
+Emilia -> Costin
+Adriana -> Silviu
+3: Gheorghita
+8: Tiberiu
+7: Dorin
+Ramona -> Maria
+16: Emilia
+15: Ramona
+Zoltan -> Ion
+Luminita -> Gheorghita
+4: Ionela
+Ionut -> Adriana
+Valentin -> Ramona
+Laura -> Luminita
+Gabriel -> Elena
+Laura -> Ionela
+Csaba -> Laura
+Dorin -> Ionut
+Dorin -> Valentin
+8: Tiberiu
+Zoltan -> Gabriel
+JOC_3
+Adina -> Ciprian
+Carmen -> Erika
+Bogdan -> Mihaita
+Georgiana -> Melinda
+0: Laszlo
+Ion -> Petrica
+Ciprian -> Viorel
+Costin -> Gabriela
+Mihai -> Georgeta
+Mircea -> Diana
+Monica -> Paula
+George -> Marin
+Codrin -> Timea
+Zsolt -> Marius
+Laurentiu -> Ioan
+Marian -> Zsolt
+7: Andreea
+Mihaela -> Geanina
+Ilie -> Andra
+Ionel -> Eugen
+Ionel -> Eugen
+19: Mihaita
+5: Ciprian
+Maria -> Timea
+Zoltan -> Vasilica
+4: Viorel
+Lidia -> Dumitru
+13: Valentin
+Corina -> Ilie
+Raluca -> Marin
+Ionel -> Teodora
+Eniko -> Attila
+Dan -> Cosmin
+Andrea -> Ionela
+Silviu -> Sorin
+Sorin -> Mircea
+Petronela -> Marilena
+2: Simona
+Ioan -> Marilena
+Claudiu -> Lenuta
+Laurentiu -> Oana
+Cosmin -> Dumitru
+Marian -> Cornelia
+8: Laura
+19: Ion
+Alexandra -> Angela
+14: Oana
+Csaba -> Aurelia
+Stefan -> Rodica
+Violeta -> Iuliana
+Camelia -> Adina
+Roxana -> Teodora
+7: Silvia
+Petronela -> Ionut
+Marius -> Cornel
+Laurentiu -> Claudiu
+Vlad -> Danut
+Luminita -> Diana
+17: Lavinia
+Vasile -> Mircea
+Georgeta -> Tudor
+Marian -> Zsolt
+Danut -> Maria
+Viorica -> Ionela
+Raluca -> Irina
+Csaba -> Attila
+Rodica -> Victor
+Ion -> Silvia
+4: Anca
+Raluca -> Ecaterina
+Cristina -> Tiberiu
+17: Viorica
+13: Cornelia
+Vasile -> Cosmin
+13: Teodor
+Alina -> Costin
+11: Iuliana
+15: Sorina
+Tiberiu -> Adriana
+Tudor -> Ionut
+Lucian -> Cornelia
+19: Vasilica
+Anamaria -> Vasilica
+Andreea -> Szabolcs
+Petru -> Sorina
+Istvan -> Ramona
+9: Ionel
+6: Lenuta
+Iuliana -> Stefania
+13: Viorel
+Petronela -> Valentin
+Levente -> Alin
+17: George
+Istvan -> Catalina
+16: Claudia
+Vasile -> Andrei
+15: Ramona
+Angela -> Lenuta
+19: Andrei
+Nicolae -> Lavinia
+6: Sorina
+Dorina -> Camelia
+12: Claudiu
+Robert -> Dorina
+Viorel -> Andra
+0: Eniko
+Loredana -> Ilie
+Adrian -> Dorina
+Georgian -> Vlad
+12: Lidia
+Erika -> Matei
+Istvan -> Codrin
+Adrian -> Ancuta
+14: Angela
+6: Ancuta
+Paul -> Constantin
+Georgiana -> Katalin
+Marinela -> Marius
+Victor -> Matei
+0: Danut
+Iulia -> Teodor
+Andreea -> Anca
+Daniela -> Daniel
+Simona -> Claudiu
+Bogdan -> Dragos
+Sorin -> Georgiana
+Gheorghita -> Sorin
+Lidia -> Melinda
+Emilia -> Vasile
+Ioan -> Octavian
+Silvia -> Ioana
+Claudia -> Petru
+Veronica -> Claudia
+2: Valentin
+1: Gheorghita
+Florian -> Catalin
+Mihai -> Sorina
+Danut -> Alina
+Iulia -> Costin
+16: Geanina
+Petrica -> Ramona
+Viorica -> Ioan
+Codrin -> Marian
+Laurentiu -> Mariana
+Silvia -> Radu
+Alin -> Lucian
+Alina -> Bogdan
+18: Vlad
+Constantin -> Adelina
+Elena -> Catalin
+8: Geanina
+Mihai -> Liliana
+7: Andreea
+Luminita -> Laszlo
+2: Ecaterina
+Tunde -> Ciprian
+12: Eniko
+Georgiana -> Rodica
+15: Alexandra
+15: Cristina
+Angela -> Daniel
+Georgiana -> Erika
+3: Georgian
+17: Adina
+George -> Ileana
+Bogdan -> Anamaria
+Tiberiu -> Codrin
+Ion -> Laurentiu
+Alin -> Petru
+Iuliana -> Georgian
+11: Andrei
+Dorin -> Maria
+Alexandru -> Laurentiu
+Tunde -> Alin
+10: Petrica
+Mihai -> Florian
+Danut -> Viorel
+6: Petronela
+Georgeta -> Silviu
+9: Paula
+Stefan -> Laszlo
+Florin -> Mihail
+14: Aurelia
+Gabriel -> Iuliana
+Iulian -> Simona
+Nicoleta -> Aurelia
+Tunde -> Ion
+Adelina -> Cristian
+15: Istvan
+9: Viorica
+Oana -> Gabriela
+Csaba -> Katalin
+Emanuel -> Mihaita
+Florin -> Emanuel
+Mihai -> Dorin
+17: Andrea
+6: Stefan
+Adina -> Csaba
+4: Mihail
+Szabolcs -> Loredana
+Robert -> Szabolcs
+14: Zoltan
+Dorin -> Stefan
+8: Stefania
+Mihaela -> Costel
+Nicusor -> Carmen
+Nicusor -> Anamaria
+1: Anisoara
+5: Ovidiu
+18: Radu
+Angela -> Iulian
+Florian -> Mihai
+5: Geanina
+Emanuel -> Paul
+Roxana -> Ovidiu
+Valentin -> Elena
+Dragos -> Anca
+Loredana -> Zoltan
+9: Ionel
+Dorin -> Danut
+Csaba -> Andreea
+5: Madalina
+11: Violeta
+Vasile -> Gheorghita
+Simona -> Victor
+Roxana -> Nicolae
+Georgian -> Gheorghe
+16: Octavian
+Mihaela -> Viorica
+16: Constantin
+Geanina -> Andreea
+Ovidiu -> Cornel
+8: Zoltan
+Cristian -> Tudor
+15: Razvan
+Ana -> Teodor
+Alina -> Marinela
+14: Adelina
+11: Liviu
+Ileana -> Cristian
+2: Mirela
+Florin -> Bianca
+Mihai -> Sergiu
+Georgian -> Valentin
+Levente -> Elena
+Dragos -> Ioana
+Alexandru -> Andrei
+Carmen -> Dragos
+George -> Camelia
+Raluca -> Lucian
+8: Sergiu
+4: Adina
+Sergiu -> Corina
+Mirela -> Paula
+Sebastian -> Liviu
+Georgeta -> Stefan
+Valentina -> Roxana
+15: Georgeta
+Adriana -> Stefania
+Nicolae -> Mihail
+Anisoara -> Valentina
+George -> Raluca
+9: Emil
+12: Lavinia
+Vasile -> Luminita
+Andrea -> Monica
+Adrian -> Emanuel
+11: Ionel
+Carmen -> Adina
+Alexandra -> Ileana
+Ion -> Viorica
+Claudia -> Csaba
+18: Nicusor
+18: Costel
+Nicolae -> Claudia
+19: Vlad
+Radu -> Eniko
+2: Silvia
+9: Istvan
+Luminita -> Alexandru
+Eniko -> Petrica
+Tunde -> Madalina
+1: Carmen
+Roxana -> Catalina
+Paul -> Mihai
+Sebastian -> Bogdan
+Adrian -> Emilia
+Alexandru -> Sebastian
+Ana -> Geanina
+Sergiu -> Iulian
+Monica -> Marinela
+2: Georgeta
+Alexandra -> George
+Georgeta -> Marian
+Levente -> Valentina
+Simona -> Liviu
+Emilia -> Vlad
+Ana -> Ecaterina
+Paul -> Liliana
+Florentina -> Tiberiu
+Istvan -> Georgiana
+13: Razvan
+0: Florin
+Ana -> Nicolae
+Raluca -> Georgeta
+George -> Silvia
+Octavian -> Alexandru
+Mirela -> Nicusor
+Dan -> Corina
+Alina -> Luminita
+1: Adrian
+Sebastian -> Adriana
+16: Gheorghita
+2: Gheorghita
+Razvan -> Anisoara
+8: Sergiu
+Nicusor -> Adrian
+Florin -> Eniko
+Razvan -> Paul
+19: Octavian
+Emilia -> Nicoleta
+Emil -> Robert
+Angela -> Adrian
+Levente -> Monica
+Costel -> Ion
+Alina -> Emil
+11: Bianca
+Mariana -> Silviu
+Raluca -> Istvan
+Simona -> Emil
+14: Gheorghe
+Florentina -> Costel
+16: Irina
+4: Mihaela
+Mariana -> Vasile
+Anisoara -> Daniela
+Florian -> Florentina
+Mirela -> Petronela
+16: Alina
+2: Raluca
+Mihaela -> Octavian
+Nicoleta -> Violeta
+Levente -> Constantin
+0: Tunde
+Raluca -> Mirela
+Florina -> Sergiu
+George -> Veronica
+Dan -> Roxana
+Gheorghita -> Daniela
+8: Petronela
+Raluca -> Lidia
+Nicusor -> Gheorghe
+9: Florina
+5: Florentina
+18: Adelina
+Levente -> Simona
+Istvan -> Oana
+18: Anisoara
+Veronica -> Loredana
+Alina -> Violeta
+Alina -> Adelina
+Lavinia -> Madalina
+19: Radu
+Lavinia -> Mirela
+Georgian -> Alina
+Laura -> Sebastian
+Iulia -> Florina
+4: Petronela
+Istvan -> Laura
+Alexandra -> Ancuta
+Istvan -> Iulia
+2: Mihaela
+Mihaela -> Tunde
+15: Lavinia
+5: Dan
+6: Laura
+Lavinia -> Nicoleta
+8: Bianca
+6: Ana
+6: Irina
+George -> Razvan
+2: Irina
+Nicusor -> Cristina
+Ovidiu -> Andrea
+Gheorghita -> Florina
+13: Veronica
+Irina -> Dan
+Alexandra -> Kinga
+Gheorghita -> Alexandra
+13: Angela
+Radu -> Ovidiu
+17: Carmen
+14: Florin
+Ana -> Bianca
+17: Florian
+Anisoara -> Irina
+2: Cristina
+Angela -> Robert
+Cristina -> Nicusor
+11: Veronica
+5: Cristina
+Tunde -> Laura
+Alexandra -> Lavinia
+Veronica -> Florian
+Angela -> Ionel
+8: Georgian
+Gheorghita -> George
+Georgian -> Florin
+Florin -> Anisoara
+Mariana -> Istvan
+Florentina -> Andrea
+Razvan -> Dan
+Tunde -> Dorin
+Alexandra -> Mariana
+Florentina -> Zoltan
+Alexandra -> Gheorghita
+Emilia -> Razvan
+14: Levente
+Emilia -> Radu
+11: Lidia
+Mihaela -> Carmen
+Florentina -> Mihaela
+4: Tunde
+Florin -> Kinga
+Raluca -> Lidia
+Levente -> Cristina
+Georgian -> Iulia
+9: Raluca
+12: Petronela
+Emilia -> Alexandra
+19: Petronela
+0: Florin
+Veronica -> Gabriel
+Georgian -> Florin
+16: Georgian
+Gabriel -> Petronela
+Emilia -> Georgian
+Angela -> Ana
+Veronica -> Raluca
+Ionel -> Ana
+16: Mihaela
+Mihaela -> Levente
+Ionel -> Levente
+9: Angela
+Gabriel -> Ionel
+3: Angela
+Angela -> Gabriel
+Tunde -> Florentina
+10: Angela
+Tunde -> Veronica
+Mihaela -> Tunde
+7: Mihaela
+1: Emilia
+Emilia -> Angela
+Mihaela -> Emilia
+JOC_4
+Emanuel -> Mihaela
+9: Anca
+Gheorghita -> Claudia
+18: Catalin
+11: Iulian
+Stefania -> Claudia
+Alexandru -> Stefan
+13: Gheorghe
+Laurentiu -> Ana
+Ionel -> Alin
+11: Iuliana
+Mircea -> Valentin
+Dumitru -> Mihail
+Camelia -> Violeta
+19: Lavinia
+Attila -> Camelia
+Valentina -> Radu
+10: Sorina
+Aurelia -> Nicolae
+14: Stefan
+Raluca -> Daniela
+Victor -> Constantin
+Andreea -> Mariana
+1: Florentina
+0: Sorin
+Paul -> Irina
+Ioan -> Roxana
+7: Robert
+7: Gheorghe
+11: Emil
+18: Matei
+1: Iulia
+Ileana -> Florentina
+Ovidiu -> Zsolt
+2: Angela
+Mihail -> Madalina
+Mariana -> Andra
+Petru -> Adriana
+Eniko -> Florin
+Sorin -> Tunde
+19: Lavinia
+10: Cristian
+Danut -> Irina
+8: Catalina
+11: Kinga
+Marius -> Zsolt
+Dumitru -> Silviu
+Oana -> Catalin
+15: Sergiu
+19: Ancuta
+9: Dorina
+Aurelia -> Andreea
+Georgeta -> Vasile
+Cristina -> Adriana
+9: Claudiu
+Emilia -> Liliana
+0: Claudiu
+Petrica -> Andrei
+Ion -> Katalin
+Simona -> Nicolae
+Marin -> Georgiana
+Marilena -> Florentina
+Adina -> Bogdan
+Emanuel -> Ionela
+Liliana -> Ilie
+Daniel -> Gheorghita
+0: Mihaela
+Paula -> Ionut
+0: Claudiu
+6: Alexandru
+Raluca -> Kinga
+Iulia -> Robert
+Ramona -> Teodora
+Dan -> Daniela
+Andreea -> Mihaita
+Attila -> Valentina
+14: Dorina
+George -> Andrea
+Ecaterina -> Cristina
+1: Razvan
+1: Ilie
+1: Robert
+Veronica -> Florin
+Angela -> Andrea
+Monica -> Daniel
+5: Tunde
+6: Georgeta
+9: Victor
+Loredana -> Andreea
+12: Dumitru
+Vasile -> Dumitru
+6: Anamaria
+Gheorghita -> Monica
+19: Robert
+Ioan -> Veronica
+Laszlo -> Cristian
+6: Veronica
+Corina -> Georgian
+9: Florina
+Adrian -> Katalin
+Bogdan -> Veronica
+13: Viorica
+Marian -> Adrian
+Constantin -> Costin
+Gheorghe -> Sorina
+18: Marilena
+Ciprian -> Erika
+18: Raluca
+3: Vlad
+3: Petronela
+1: Iuliana
+14: Eugen
+12: Maria
+Razvan -> Mircea
+19: Roxana
+19: Vasilica
+Szabolcs -> Claudiu
+Alina -> Melinda
+Andrei -> Nicusor
+Cristian -> Sebastian
+Cristian -> Emilia
+Dorina -> Andrei
+Stefania -> Daniel
+16: Csaba
+Elena -> Dragos
+6: Dan
+Georgeta -> Anca
+1: Catalin
+Mihai -> Gheorghe
+5: Simona
+Melinda -> Maria
+Silvia -> Constantin
+Cosmin -> Dragos
+Loredana -> Cornel
+Tudor -> Nicoleta
+Ramona -> Adina
+0: Alina
+Laurentiu -> Catalin
+Emanuel -> Ion
+Andra -> Razvan
+16: Tunde
+0: Vasile
+1: Paula
+Costin -> Mihaela
+Costel -> Simona
+Georgeta -> Costel
+Gabriela -> Viorica
+17: Loredana
+Anamaria -> Bianca
+Liliana -> Emanuel
+Adina -> Octavian
+3: Marinela
+Gheorghita -> Bianca
+Eniko -> Carmen
+Claudiu -> Mihaita
+Lucian -> Szabolcs
+0: Istvan
+Cosmin -> Carmen
+17: Laura
+Madalina -> Zoltan
+8: Cristian
+Simona -> Lenuta
+3: Adelina
+Gabriela -> Georgian
+Emil -> Alexandra
+Loredana -> Dan
+Marin -> Stefan
+Diana -> Gheorghita
+Codrin -> Teodora
+Anca -> Emanuel
+4: Marin
+8: Lenuta
+Marilena -> Florina
+Aurelia -> Laszlo
+Radu -> Paul
+George -> Eugen
+Violeta -> Emilia
+4: Melinda
+14: Maria
+Vlad -> George
+12: Mihail
+1: Istvan
+Liviu -> Mirela
+Viorel -> Paul
+Iulian -> Ancuta
+Razvan -> Luminita
+Sergiu -> Cristina
+9: Laszlo
+Ionela -> Sorina
+Bogdan -> Laszlo
+16: Gabriel
+Alin -> Danut
+3: Csaba
+Rodica -> Madalina
+Ramona -> Istvan
+Catalina -> Diana
+7: Attila
+Marin -> Iulia
+Raluca -> Bogdan
+Sebastian -> Codrin
+Robert -> Erika
+15: Marian
+7: Tudor
+11: Zoltan
+Rodica -> Ionut
+Liliana -> Alexandru
+Zoltan -> Dumitru
+Gabriela -> Tiberiu
+Oana -> Victor
+Radu -> Tudor
+Marius -> Gabriela
+Raluca -> Ileana
+Raluca -> Dorina
+Valentin -> Ovidiu
+10: Marius
+Alexandru -> Lenuta
+Adina -> Liviu
+17: Tunde
+Petrica -> Mihai
+Luminita -> Ionel
+Maria -> Lidia
+Aurelia -> Claudiu
+5: Zoltan
+Valentina -> Costin
+Ecaterina -> Ovidiu
+Gabriela -> Liliana
+Adina -> Alin
+Loredana -> Ramona
+18: Monica
+10: Roxana
+Paula -> Lucian
+Emil -> Camelia
+Adelina -> Iulian
+Eugen -> Ionel
+Ilie -> Corina
+4: Vasilica
+18: Nicusor
+4: Teodor
+Marius -> Adelina
+18: Alexandra
+Catalina -> Anisoara
+Cristian -> Laurentiu
+Marinela -> Codrin
+Petru -> Sergiu
+3: Stefania
+Anamaria -> Elena
+Vasilica -> Catalina
+Roxana -> Dorina
+Csaba -> Raluca
+Viorica -> Corina
+9: Anisoara
+18: Marilena
+Florian -> Loredana
+Andra -> Adrian
+Rodica -> Gheorghe
+15: Valentin
+1: Liviu
+3: Radu
+Ciprian -> Tunde
+1: Radu
+Eniko -> Aurelia
+Razvan -> Paula
+Florian -> Marian
+9: Gabriel
+Anca -> Paula
+17: Florina
+Maria -> Cosmin
+Loredana -> Simona
+Viorel -> Cornelia
+9: Lidia
+13: Viorica
+Laurentiu -> Ioana
+Raluca -> Petronela
+Teodor -> Sorin
+3: Luminita
+9: Ancuta
+Violeta -> Alexandru
+Mihai -> Levente
+Elena -> Matei
+12: Loredana
+Loredana -> Cristian
+Razvan -> Eugen
+Aurelia -> Catalina
+3: Dan
+Szabolcs -> Georgiana
+Angela -> Mihai
+2: Ioan
+Attila -> Florian
+4: Csaba
+Eniko -> Gabriel
+Alexandra -> Attila
+Rodica -> Razvan
+4: Victor
+10: Lavinia
+Dorin -> Marius
+Raluca -> Anca
+Alexandra -> Lavinia
+Oana -> Tudor
+Radu -> Silvia
+Sebastian -> Alexandra
+Gabriel -> Geanina
+4: Geanina
+2: Florian
+Lucian -> Marin
+George -> Octavian
+Raluca -> Cornel
+Mircea -> Gabriel
+Valentina -> Silviu
+Vlad -> Ciprian
+3: Adina
+Szabolcs -> Raluca
+Kinga -> Sorin
+1: Matei
+Vasilica -> Gabriela
+16: Liviu
+Ilie -> Ioana
+13: Maria
+14: Melinda
+Laura -> Andra
+Roxana -> Tiberiu
+Marin -> Petronela
+11: Szabolcs
+Lavinia -> Marius
+8: Viorel
+Adina -> Vasile
+Marin -> Ionela
+Marin -> Mariana
+Vlad -> Attila
+6: Ramona
+2: Szabolcs
+Eniko -> Lucian
+Levente -> Ion
+5: Kinga
+15: Ancuta
+17: Rodica
+10: Adelina
+7: Anisoara
+10: Adina
+10: Sergiu
+Costel -> Emil
+Florina -> Petrica
+Ciprian -> Silvia
+Danut -> Laura
+Eniko -> Valentina
+Cosmin -> Geanina
+Rodica -> Marinela
+Szabolcs -> Lidia
+Petru -> Loredana
+14: Oana
+7: George
+17: Violeta
+10: Iuliana
+Vlad -> Zoltan
+19: Rodica
+11: Adina
+Aurelia -> Marian
+5: Ileana
+11: Anisoara
+Petrica -> Cosmin
+Rodica -> Dan
+Iulia -> Anisoara
+Maria -> Petru
+Monica -> Vasilica
+Maria -> Rodica
+12: Iulia
+8: Costel
+Mihail -> Valentin
+Luminita -> Maria
+Vlad -> Laurentiu
+Ioan -> Istvan
+14: Sebastian
+Stefania -> Nicoleta
+6: Ioan
+Radu -> Matei
+17: Ciprian
+9: Ciprian
+Vlad -> Szabolcs
+Csaba -> Adelina
+10: Viorel
+Kinga -> Cornelia
+3: Iulian
+Alina -> Petru
+Oana -> Teodor
+Viorel -> Victor
+5: Ciprian
+17: Stefania
+Kinga -> Robert
+7: Florina
+Iulia -> Dorin
+Monica -> Mircea
+1: Violeta
+Elena -> Florian
+14: Stefania
+Csaba -> Florina
+Vasilica -> Laura
+2: Ana
+Nicusor -> Rodica
+6: George
+17: Marinela
+10: Iuliana
+Ecaterina -> Oana
+Ciprian -> Nicusor
+Emil -> Oana
+Marilena -> Dorin
+Marinela -> Viorel
+Mihail -> Vlad
+Marin -> Ancuta
+19: Viorica
+19: Anamaria
+11: Vlad
+10: Levente
+Vasilica -> Viorel
+Kinga -> Ioan
+5: Ciprian
+6: Stefania
+Petrica -> Vasilica
+Alina -> Petrica
+Eniko -> Ciprian
+Roxana -> Kinga
+17: Stefania
+Anamaria -> Stefania
+Eniko -> Ana
+Elena -> Marin
+16: Marilena
+17: Csaba
+Ilie -> Liviu
+Iulian -> Luminita
+Viorica -> Monica
+Diana -> Roxana
+Angela -> Diana
+Ramona -> Iulian
+Sergiu -> Georgeta
+Elena -> Danut
+Mihail -> Mirela
+5: Levente
+10: Levente
+Ramona -> Violeta
+17: Aurelia
+12: Mihail
+Elena -> Lavinia
+Melinda -> George
+Viorica -> Alina
+Marilena -> Ioan
+Stefania -> Radu
+Anamaria -> Iuliana
+Vlad -> Timea
+4: Timea
+7: Melinda
+15: Teodor
+Elena -> Timea
+0: Ilie
+Angela -> Teodor
+Alina -> Emil
+Ilie -> Iulia
+1: Elena
+6: Angela
+Anamaria -> Adina
+Alina -> Sergiu
+9: Elena
+4: Stefania
+Ilie -> Ramona
+Iuliana -> Ileana
+Iuliana -> Melinda
+Viorica -> Ilie
+Georgeta -> Elena
+Vlad -> Georgeta
+10: Aurelia
+13: Csaba
+Vlad -> Alina
+5: Marinela
+Aurelia -> Anamaria
+Marinela -> Sebastian
+Eniko -> Anamaria
+Eniko -> Mihail
+Eniko -> Iuliana
+11: Vlad
+Ecaterina -> Marilena
+Marilena -> Vlad
+JOC_5
+7: Petrica
+Monica -> Dan
+Kinga -> Claudiu
+14: Vasile
+Timea -> Gheorghe
+Roxana -> Teodora
+George -> Mirela
+17: Aurelia
+Matei -> Attila
+3: Laura
+14: Daniel
+2: Ileana
+8: Aurelia
+6: Bogdan
+Adriana -> Viorica
+4: Daniela
+8: Loredana
+13: Dragos
+Liviu -> Teodor
+Marin -> George
+Gabriel -> Maria
+Csaba -> Irina
+Ionel -> Tudor
+Vlad -> Mihail
+Lidia -> Dumitru
+4: Octavian
+13: Szabolcs
+Ioana -> Mihaita
+Mirela -> Adelina
+Sorin -> Liliana
+10: Ion
+Adrian -> Adelina
+Lucian -> Danut
+Iulia -> Lidia
+Loredana -> Dan
+Corina -> Laurentiu
+0: Monica
+Andra -> Gheorghe
+Laszlo -> Viorica
+Claudia -> Emilia
+Liliana -> Melinda
+12: Cristian
+Aurelia -> Victor
+Victor -> Vlad
+4: Teodor
+Ionela -> Marinela
+Levente -> Sorin
+Georgiana -> Istvan
+Corina -> Raluca
+Maria -> Petrica
+Laszlo -> Rodica
+13: Gabriela
+Teodor -> Aurelia
+19: Diana
+2: Dorina
+Stefania -> Alexandru
+Simona -> Bianca
+11: Silvia
+11: Iulia
+Petru -> Catalina
+Ileana -> Daniela
+Loredana -> Petrica
+Tunde -> Laura
+12: Luminita
+Andreea -> Silvia
+16: Diana
+Nicusor -> Vasile
+Dorin -> Mihaela
+17: Levente
+Dumitru -> Luminita
+Octavian -> Roxana
+17: Anisoara
+2: Dumitru
+Dumitru -> Vasilica
+Istvan -> Ciprian
+Petronela -> Raluca
+Claudiu -> Adina
+18: Iulian
+Mihaita -> Florina
+Monica -> Sorina
+Ana -> Marian
+4: Vasilica
+Cornelia -> Marian
+Gabriela -> Erika
+Vlad -> Silviu
+Costel -> Eugen
+10: Melinda
+Andreea -> Veronica
+14: Florina
+Georgian -> Robert
+0: Ovidiu
+Cornel -> Mihaela
+15: Mihail
+11: Iulian
+7: Ecaterina
+10: Gabriel
+George -> Istvan
+11: Mariana
+Lucian -> Alin
+Katalin -> Florentina
+4: Georgiana
+18: Gheorghita
+1: Ramona
+Catalina -> Codrin
+0: Rodica
+Liviu -> Marilena
+Rodica -> Catalin
+1: Alexandru
+Lavinia -> Roxana
+Georgian -> Liviu
+17: Valentina
+Codrin -> Ilie
+7: Angela
+Cornelia -> Maria
+7: Anamaria
+Sorina -> Alexandru
+Sorina -> Claudiu
+Georgian -> Cosmin
+Ilie -> Ioana
+Mariana -> Eugen
+Costin -> Laszlo
+Ana -> Zsolt
+8: Levente
+Victor -> Szabolcs
+2: Violeta
+17: Anisoara
+Petru -> Danut
+Loredana -> Sergiu
+Simona -> Petronela
+Petru -> Sorin
+Timea -> Victor
+Melinda -> Cosmin
+Simona -> Ancuta
+Codrin -> Costel
+16: Cornel
+6: Sorina
+18: Teodor
+Mihaita -> Ion
+Ovidiu -> Luminita
+Iuliana -> Aurelia
+11: Nicolae
+2: Ciprian
+17: Zoltan
+10: Catalin
+Ecaterina -> Mariana
+16: Laurentiu
+Tunde -> Nicoleta
+19: Iulia
+0: Laura
+Daniela -> Stefania
+17: Iuliana
+Petronela -> Mircea
+Claudia -> Robert
+Dorina -> Petronela
+Gabriel -> Melinda
+Gabriel -> Laura
+8: Andreea
+Paul -> Octavian
+11: Ancuta
+Gheorghita -> Marin
+Emilia -> Alexandra
+Tunde -> Claudia
+8: Mariana
+Andra -> Lavinia
+17: Corina
+Emilia -> Paula
+Iuliana -> Adrian
+Csaba -> Lucian
+Alin -> Claudia
+Adrian -> Lavinia
+Mirela -> Timea
+2: Carmen
+5: Attila
+Emilia -> Marius
+Szabolcs -> Mihaita
+Iulia -> Ancuta
+1: Mihai
+Paul -> Simona
+Mirela -> Kinga
+Florentina -> Silvia
+Ilie -> Oana
+Katalin -> Florina
+Timea -> Valentin
+13: Marilena
+Marinela -> Anamaria
+0: Tunde
+Paula -> Nicusor
+Monica -> Anisoara
+Georgeta -> Constantin
+Mariana -> Vasilica
+Carmen -> Andra
+Ciprian -> Teodor
+18: Ionut
+Marinela -> Adina
+Alexandra -> Vasile
+Stefania -> Mariana
+12: Georgeta
+3: Cristina
+Loredana -> Andrea
+6: Erika
+Cristina -> Marin
+1: Emil
+Stefania -> Vlad
+Camelia -> Ana
+Florin -> Paul
+Ioana -> Petru
+Monica -> Laszlo
+Alin -> Nicusor
+Ionut -> Georgeta
+17: Alexandra
+Georgian -> Diana
+Matei -> Viorel
+Florentina -> Adrian
+Erika -> Ana
+Ioan -> Emanuel
+Octavian -> Valentina
+Iuliana -> Tudor
+Anamaria -> Paul
+Timea -> Ramona
+Iuliana -> Laurentiu
+Kinga -> Georgeta
+10: Andra
+7: Ilie
+16: Valentin
+17: Ioan
+Andreea -> Eniko
+Katalin -> Elena
+16: Gheorghita
+Silviu -> Daniela
+Alina -> Katalin
+Dorina -> Ioana
+Nicolae -> Monica
+Alin -> Emil
+Diana -> Cornel
+Teodora -> Camelia
+11: Simona
+Anamaria -> Petru
+Iulian -> Ovidiu
+Oana -> Diana
+10: Corina
+Iuliana -> Irina
+Florian -> Florin
+Emilia -> Adriana
+Ecaterina -> Ionel
+1: Nicoleta
+Camelia -> Matei
+Violeta -> Matei
+4: Viorel
+Stefania -> Madalina
+17: Loredana
+14: Cornel
+7: Florian
+6: Viorel
+8: Andra
+Liliana -> Bogdan
+Tiberiu -> Cornel
+9: Marinela
+Katalin -> Daniel
+Ovidiu -> Marilena
+13: Valentina
+Camelia -> Marinela
+Octavian -> Nicoleta
+12: Constantin
+Constantin -> Alina
+Cristian -> Ionela
+Corina -> Timea
+17: Erika
+10: Adriana
+Violeta -> Geanina
+Bogdan -> Monica
+6: Szabolcs
+0: Iulia
+16: Emil
+Bianca -> Razvan
+Lidia -> Kinga
+1: Ovidiu
+3: Anamaria
+Cornelia -> Viorel
+Liliana -> Adriana
+Madalina -> Tiberiu
+2: Ilie
+Costel -> Marius
+Codrin -> Iulia
+6: Bogdan
+13: Gheorghita
+Anca -> Ionela
+Sergiu -> Ionut
+17: Mihai
+1: Silviu
+Catalin -> Katalin
+Camelia -> Gabriela
+Silviu -> Radu
+Angela -> Gabriela
+Csaba -> Cristina
+Sergiu -> Ionel
+5: Iulian
+Carmen -> Ecaterina
+19: Lidia
+12: Oana
+11: Daniel
+Andrei -> Alina
+Sebastian -> Florin
+7: Sebastian
+Cristina -> Lidia
+8: Dorin
+Sorina -> Daniel
+Mircea -> Madalina
+7: Catalin
+18: Emanuel
+3: Oana
+17: Liliana
+Iulia -> Szabolcs
+0: Gheorghita
+1: George
+1: Teodora
+18: Stefania
+2: Gheorghita
+12: Silviu
+Bianca -> Camelia
+0: Eniko
+Zoltan -> Constantin
+Tiberiu -> Ioan
+Cornelia -> Andreea
+13: Sorina
+11: Florian
+Cristian -> Georgian
+18: Iulian
+Lucian -> Dorin
+18: Oana
+8: Ionut
+Georgiana -> Paula
+Andrei -> Gabriel
+19: Andreea
+Geanina -> Dorina
+Lucian -> Ilie
+Alexandra -> Octavian
+Valentina -> Costel
+9: Eniko
+Gheorghita -> Florian
+Florian -> Carmen
+Bianca -> Dumitru
+3: Violeta
+Ion -> Anisoara
+5: Ramona
+Veronica -> Oana
+Razvan -> Mirela
+8: Bianca
+Andra -> Nicolae
+Veronica -> Sergiu
+Bogdan -> Mihail
+Erika -> Cristian
+Florian -> George
+Andrea -> Lucian
+Cornelia -> Elena
+Loredana -> Cornelia
+Carmen -> Corina
+Codrin -> Zoltan
+Florentina -> Carmen
+Dorina -> Razvan
+Ramona -> Liviu
+Andrei -> Violeta
+Florian -> Gabriel
+7: Florian
+Emil -> Alin
+Florentina -> Sorina
+Catalin -> Ioan
+Iulia -> Geanina
+Iulia -> Emilia
+Iuliana -> Tiberiu
+Gheorghita -> Tunde
+14: Codrin
+18: Cornelia
+Anamaria -> Dorina
+7: Cristina
+0: Stefan
+Silviu -> Liliana
+Violeta -> Codrin
+Andrei -> Emil
+Andreea -> Georgian
+18: Csaba
+Andreea -> Florentina
+7: Stefania
+Iulia -> Florian
+7: Nicolae
+Mircea -> Corina
+7: Ion
+Costin -> Cristian
+11: Gheorghita
+9: Stefan
+Bianca -> Iulian
+Andrea -> Andrei
+6: Veronica
+5: Tunde
+Zsolt -> Alexandra
+4: Stefania
+Rodica -> Silviu
+Anamaria -> Zoltan
+Csaba -> Angela
+0: Gheorghita
+Levente -> Anamaria
+17: Iulia
+14: Anca
+12: Cristina
+Catalin -> Catalina
+Valentin -> Sebastian
+Ecaterina -> Valentin
+Anca -> Levente
+Lenuta -> Nicolae
+12: Bianca
+Iulia -> Radu
+Andrei -> Rodica
+3: Iulian
+Mircea -> Ovidiu
+Ecaterina -> Iuliana
+Andrei -> Lenuta
+Teodora -> Anca
+Violeta -> Andrei
+Ion -> Valentina
+11: Mircea
+3: Mircea
+Ramona -> Gheorghita
+0: Ion
+Levente -> Costin
+Ciprian -> Dorin
+Stefan -> Anca
+8: Bianca
+Catalin -> Erika
+Emanuel -> Bogdan
+Ciprian -> Attila
+13: Cornelia
+13: Mircea
+Ecaterina -> Andreea
+Iuliana -> Simona
+Veronica -> Sebastian
+Ion -> Veronica
+Stefania -> Ramona
+10: Andra
+Zsolt -> Catalin
+0: Gheorghita
+9: Angela
+Iulia -> Eniko
+Andra -> Tunde
+Csaba -> Mihai
+Loredana -> Ileana
+9: Angela
+Ionut -> Gheorghita
+13: Mihai
+Zsolt -> Cornelia
+Iulia -> Bianca
+Teodora -> Ciprian
+Georgiana -> Violeta
+Iuliana -> Teodora
+Dragos -> Loredana
+13: Angela
+Loredana -> Dragos
+Mihai -> Stefan
+3: Ion
+Georgiana -> Costin
+18: Mihai
+Ion -> Stefania
+8: Levente
+Angela -> Cristina
+Iulia -> Ecaterina
+Ion -> Ileana
+Loredana -> Andrea
+Iuliana -> Dragos
+4: Ion
+Ionut -> Csaba
+Iulian -> Mircea
+4: Angela
+2: Levente
+Iuliana -> Angela
+Lenuta -> Loredana
+Iuliana -> Iulian
+Andra -> Georgiana
+Ion -> Stefan
+Emanuel -> Ionut
+Iulia -> Georgiana
+3: Andra
+Zsolt -> Mihai
+Iuliana -> Andra
+Iulia -> Emanuel
+Zsolt -> Iuliana
+9: Csaba
+Ion -> Levente
+Iulia -> Csaba
+17: Lenuta
+15: Lenuta
+Iulia -> Zsolt
+Lenuta -> Ion
+Iulia -> Lenuta
+JOC_6
+8: Claudiu
+Corina -> Ancuta
+14: Zsolt
+Radu -> Octavian
+Ramona -> Liviu
+9: Robert
+Matei -> Nicusor
+Timea -> Costel
+0: Attila
+0: Mihaela
+Veronica -> Gabriel
+11: Mariana
+Attila -> Viorel
+Cristian -> Gheorghe
+Cornel -> Cornelia
+Alina -> Petronela
+Mircea -> Alexandru
+Claudiu -> Cornelia
+7: Claudiu
+15: Claudia
+9: Radu
+Dorina -> Angela
+7: Adriana
+15: Alexandru
+Marian -> Melinda
+Ana -> Stefania
+Gheorghe -> Emil
+Anca -> Mihaita
+Iulian -> Petronela
+Andra -> Mihaela
+Liliana -> Sorin
+Dumitru -> Paul
+Carmen -> Florian
+13: Monica
+Violeta -> Sorina
+1: Vlad
+17: Valentina
+7: Dumitru
+Cosmin -> Liviu
+5: Nicoleta
+Ionut -> Florina
+Radu -> Gheorghita
+Violeta -> Irina
+13: Adrian
+Levente -> Kinga
+Nicusor -> Razvan
+Robert -> Sergiu
+Ancuta -> Oana
+Lidia -> Anca
+Valentin -> Lidia
+12: Lenuta
+Florina -> Nicusor
+Iulian -> Daniel
+Ioan -> Cornel
+Kinga -> Mihaela
+Ecaterina -> Florian
+10: Paula
+4: Anisoara
+9: Claudia
+Alin -> Simona
+6: Laurentiu
+13: Oana
+7: Paul
+3: Valentin
+Laurentiu -> Adrian
+Sebastian -> Vasile
+Madalina -> Carmen
+Madalina -> Marian
+Petrica -> Ramona
+Istvan -> Teodora
+Cornel -> Claudiu
+Tiberiu -> Dumitru
+Ana -> Szabolcs
+Levente -> Adrian
+Nicoleta -> Eniko
+Claudiu -> Mircea
+11: Sebastian
+17: Zsolt
+Maria -> Veronica
+8: Rodica
+Emil -> Ana
+Teodor -> Daniela
+Eniko -> Codrin
+Adriana -> Rodica
+Roxana -> Laszlo
+Ciprian -> Mihaita
+Attila -> Vasile
+Sorina -> Marian
+Istvan -> Anamaria
+2: Marilena
+Dorina -> Cosmin
+Emilia -> Valentin
+Ovidiu -> Eniko
+Irina -> Marinela
+Andreea -> Ecaterina
+Valentina -> Adina
+Danut -> George
+Geanina -> Szabolcs
+Ioan -> Ilie
+Gabriela -> Paula
+8: Dragos
+Daniela -> Petru
+3: Sebastian
+Marinela -> Daniela
+Ionela -> Dorin
+19: Corina
+Emanuel -> Liliana
+6: Petru
+2: Mariana
+Adelina -> Nicoleta
+6: Geanina
+9: Laurentiu
+Adelina -> Catalina
+8: Lucian
+Emanuel -> Diana
+Petru -> Constantin
+Iuliana -> Vasilica
+Silvia -> Valentin
+7: Laura
+Gheorghita -> Anca
+4: Tiberiu
+Irina -> Ioana
+Ionel -> Victor
+3: Daniel
+12: Octavian
+Ecaterina -> Radu
+Nicolae -> Emil
+12: Teodor
+Oana -> Claudia
+13: Silvia
+13: Marinela
+Dorin -> Ionela
+19: Vlad
+4: Carmen
+2: Veronica
+Valentina -> Viorica
+Matei -> Octavian
+Lucian -> Iulia
+Dorin -> Liliana
+Melinda -> Vlad
+4: Attila
+Ionut -> Carmen
+Adina -> Catalin
+Anisoara -> Cosmin
+Ileana -> Andrei
+4: Violeta
+8: Marin
+1: Florentina
+Nicoleta -> Viorica
+Radu -> Luminita
+Istvan -> Andreea
+Eugen -> Mariana
+Petrica -> Ioana
+10: Marius
+Iuliana -> Vasilica
+10: Raluca
+9: Petrica
+Teodor -> Ion
+0: Katalin
+Tunde -> Ana
+Tudor -> Raluca
+7: Radu
+Luminita -> Aurelia
+Iulia -> Csaba
+Adina -> Silviu
+Bianca -> Robert
+0: Emanuel
+Radu -> Georgian
+16: Loredana
+Petrica -> Danut
+3: Viorel
+Stefan -> Lenuta
+7: Ileana
+Roxana -> Dorin
+Ancuta -> Roxana
+Ciprian -> Silvia
+2: Ionela
+18: Constantin
+6: Alin
+9: Marinela
+Marinela -> Catalina
+10: Raluca
+15: Katalin
+Lenuta -> Andreea
+17: Adelina
+1: Viorel
+15: Oana
+Gheorghe -> Lidia
+3: Mariana
+Csaba -> Irina
+Daniel -> Laurentiu
+Maria -> Tudor
+Laura -> Andrei
+9: Lucian
+Gabriela -> Ion
+Emilia -> Constantin
+Costin -> Florina
+Paula -> Robert
+Gheorghita -> Alin
+Katalin -> Iuliana
+Luminita -> Vlad
+Dragos -> Madalina
+Eugen -> Alin
+Andrea -> Ramona
+Elena -> Adina
+Nicoleta -> Cristian
+Monica -> Cornel
+16: Sergiu
+Veronica -> Bogdan
+Paul -> Anamaria
+Georgiana -> Costin
+Diana -> Stefania
+7: Gabriel
+9: Radu
+0: Ovidiu
+Claudia -> Laszlo
+15: Dorina
+Zoltan -> Aurelia
+Gabriela -> Geanina
+Monica -> Istvan
+Razvan -> Ecaterina
+Radu -> Zoltan
+Costel -> Iulia
+Camelia -> Mircea
+Emanuel -> Catalin
+Silvia -> Dumitru
+15: Luminita
+2: Zsolt
+Angela -> Andrea
+Lucian -> Katalin
+Andrea -> Iulian
+4: Marin
+0: Cristina
+3: Erika
+Adriana -> Mihail
+Silvia -> Monica
+2: Marilena
+Claudia -> Csaba
+Istvan -> Adriana
+2: Georgeta
+Danut -> Stefan
+Laura -> Sorina
+8: Tunde
+Mariana -> Dorina
+Geanina -> Gabriela
+7: Camelia
+Bianca -> Gabriel
+Sorin -> Geanina
+Veronica -> George
+5: Zoltan
+10: Attila
+Corina -> Bianca
+Marin -> Cristian
+Mihail -> Teodor
+15: Bianca
+Veronica -> Iulian
+Alexandra -> Petru
+Melinda -> Razvan
+9: Andrea
+Alexandra -> Melinda
+Costin -> Ionel
+4: Viorel
+4: Anisoara
+19: Alina
+6: Lavinia
+Sorin -> Veronica
+Georgiana -> Eugen
+7: Violeta
+Eugen -> Ionut
+Lenuta -> Paul
+Sorin -> Costin
+Mihail -> Oana
+Anisoara -> Laura
+11: Mariana
+6: Dorina
+Cristina -> Tunde
+Bogdan -> Violeta
+Ioan -> Sebastian
+Gheorghe -> Tudor
+Violeta -> Claudiu
+13: Ilie
+Violeta -> Ionut
+Diana -> Sergiu
+Loredana -> Andra
+1: Gabriela
+Alexandru -> Zoltan
+Raluca -> Marilena
+Maria -> Marius
+Nicolae -> Bianca
+Violeta -> Simona
+Teodor -> Matei
+Claudia -> Erika
+9: Sorin
+2: Laura
+Viorel -> Codrin
+Alexandru -> Teodora
+Dan -> Corina
+13: Loredana
+Monica -> Petrica
+Monica -> Marius
+12: Alexandru
+10: Stefan
+Alexandra -> Georgian
+Attila -> Ioan
+Petrica -> Victor
+9: Marinela
+12: Monica
+Monica -> Elena
+10: Elena
+Dragos -> Claudia
+Loredana -> Matei
+19: Andrea
+Lucian -> Luminita
+Andra -> Teodor
+Violeta -> Ovidiu
+13: Costel
+Ovidiu -> Marin
+0: Kinga
+Erika -> Lucian
+8: Ioan
+Corina -> Dorina
+Cristina -> Maria
+18: Mariana
+Iuliana -> Emilia
+Corina -> Tunde
+Sebastian -> Madalina
+14: Istvan
+1: Alexandru
+Cristina -> Loredana
+Andra -> Diana
+Marinela -> Viorel
+18: Marin
+Gheorghe -> Marin
+Emilia -> Alexandra
+Florentina -> Nicoleta
+Ionela -> Marilena
+1: Nicolae
+Stefan -> Paula
+18: Florentina
+Gheorghe -> Gheorghita
+Camelia -> Nicolae
+Monica -> Ionel
+17: Ilie
+Ioan -> Dragos
+9: Daniel
+Ionela -> Lucian
+Andra -> Ileana
+Mihail -> Laurentiu
+Monica -> Kinga
+Emanuel -> Radu
+Silvia -> Tiberiu
+Mihai -> Katalin
+Mihai -> Dragos
+Valentina -> Loredana
+Erika -> Alina
+Alina -> Roxana
+Corina -> Ancuta
+Costel -> Ioan
+4: Ilie
+17: Florin
+Lavinia -> Corina
+9: Ovidiu
+7: Alexandru
+16: Gabriela
+18: Emanuel
+10: Stefan
+0: Adriana
+Angela -> Camelia
+Danut -> Maria
+Lenuta -> Laura
+Cristina -> Costel
+Attila -> Gheorghe
+4: Ilie
+Ovidiu -> Rodica
+Elena -> Istvan
+Stefan -> Timea
+Alexandru -> Ilie
+1: Sebastian
+15: Georgeta
+9: Andrea
+Erika -> Mihai
+Florentina -> Erika
+Emanuel -> Alexandru
+Camelia -> Levente
+Timea -> Florin
+9: Ileana
+4: Ovidiu
+Mihai -> Ovidiu
+Alina -> Mihail
+Mirela -> Sorin
+Timea -> Cristina
+17: Silvia
+15: Silviu
+Camelia -> Andrea
+Ileana -> Alexandra
+19: Monica
+14: Adelina
+16: Mariana
+5: Emanuel
+18: Levente
+Stefan -> Lenuta
+Adriana -> Marinela
+Danut -> Mirela
+Emilia -> Daniel
+5: Sebastian
+Valentina -> Ciprian
+14: Adelina
+Nicolae -> Petrica
+Stefan -> Zsolt
+Ionela -> Georgeta
+Anisoara -> Valentina
+Violeta -> Georgeta
+Raluca -> Anisoara
+Raluca -> Emanuel
+Angela -> Lavinia
+14: Danut
+Lavinia -> Florentina
+Gabriela -> Adelina
+Tiberiu -> Mirela
+Silvia -> Ciprian
+Mariana -> Florentina
+Tiberiu -> Mariana
+4: Bogdan
+7: Sebastian
+Andra -> Georgiana
+Violeta -> Adelina
+Silvia -> Stefan
+Lavinia -> Mihai
+Ileana -> Emanuel
+14: Florin
+19: Bogdan
+Danut -> Monica
+Tiberiu -> Andra
+15: Ionela
+Ionela -> Anisoara
+Levente -> Zsolt
+12: Adriana
+Bogdan -> Emilia
+Alina -> Timea
+4: Florin
+Tiberiu -> Florin
+Violeta -> Ionela
+Camelia -> Gabriela
+Levente -> Camelia
+Silvia -> Eugen
+Silviu -> Iuliana
+8: Adriana
+18: Cristina
+Ileana -> Tiberiu
+Danut -> Sebastian
+17: Elena
+Lavinia -> Danut
+Cristina -> Ileana
+Alina -> Angela
+Elena -> Alina
+Cristina -> Lavinia
+Cristina -> Nicolae
+Elena -> Cristina
+Levente -> Adriana
+Dan -> Georgiana
+Silvia -> Bogdan
+Valentina -> Silvia
+8: Violeta
+13: Valentina
+16: Violeta
+Elena -> Attila
+Levente -> Elena
+Raluca -> Attila
+8: Dan
+Silviu -> Levente
+Silviu -> Valentina
+Raluca -> Dan
+Dan -> Violeta
+Silviu -> Dan
+Raluca -> Silviu
+JOC_7
+Angela -> Iulia
+8: Gabriel
+19: Claudiu
+18: Stefania
+Claudiu -> Codrin
+Costel -> Laurentiu
+2: Nicoleta
+9: Veronica
+12: Timea
+19: Petrica
+1: Ioan
+Nicolae -> Tiberiu
+Eniko -> Catalin
+Octavian -> Irina
+Lidia -> Mariana
+Nicoleta -> Georgeta
+2: Mihail
+10: Petru
+17: Emanuel
+Dorina -> Ionela
+Andra -> Daniel
+Daniela -> Levente
+Liliana -> Mariana
+Elena -> Kinga
+Razvan -> Zsolt
+1: Catalina
+Vasile -> Gheorghe
+1: Teodora
+Valentina -> Kinga
+Gabriel -> Anisoara
+Razvan -> Luminita
+Catalin -> Dorin
+Gabriela -> Stefania
+Marian -> Claudiu
+Carmen -> Monica
+Vlad -> Paula
+Lidia -> Mihai
+Robert -> Adina
+Mihai -> Marilena
+10: Liviu
+Mihaela -> Paul
+Mihail -> Laurentiu
+Erika -> Robert
+Alexandra -> Loredana
+Andreea -> Veronica
+Aurelia -> Carmen
+Emilia -> Vasilica
+Ionel -> Dorin
+6: Costin
+19: Florentina
+Bogdan -> Madalina
+Laura -> Ancuta
+Raluca -> Ecaterina
+Cristina -> Angela
+Florian -> Ilie
+Alexandru -> Stefania
+Cornel -> Daniela
+4: Florin
+Laszlo -> Adrian
+Raluca -> Paula
+Cornelia -> Gabriel
+4: Vlad
+Cornelia -> Lucian
+Florina -> Marilena
+Mircea -> Aurelia
+0: Iulian
+Teodora -> Ecaterina
+Marius -> Laszlo
+1: Sergiu
+Tunde -> Vlad
+Sorin -> Costin
+Georgian -> Ioan
+Angela -> Maria
+Corina -> Tiberiu
+4: Petronela
+Maria -> Dragos
+Ovidiu -> Rodica
+Corina -> Emil
+2: Constantin
+Raluca -> Adina
+15: Angela
+12: Iulian
+Andrei -> Petrica
+Ionela -> Sorina
+16: Marin
+Istvan -> Laura
+Teodor -> Carmen
+Andreea -> Erika
+Silviu -> Vasile
+Ionela -> Zsolt
+Ion -> Cornelia
+19: Tudor
+9: Andrea
+2: Sorin
+Liviu -> Alina
+Ilie -> Vlad
+Tudor -> Cosmin
+Matei -> Ilie
+Emilia -> Andreea
+14: Alexandru
+Marian -> Emilia
+Emanuel -> Roxana
+13: Gabriel
+2: Teodor
+15: Luminita
+11: Dragos
+12: Stefan
+12: Ana
+12: Emilia
+10: Gabriel
+18: Danut
+Mirela -> Florina
+Corina -> Levente
+Sorin -> Szabolcs
+Marian -> Emilia
+19: Ana
+4: Lidia
+16: Gheorghe
+Costel -> Lucian
+Geanina -> Violeta
+6: Erika
+Matei -> Robert
+Erika -> Anamaria
+9: Costin
+Sorin -> Laszlo
+Adrian -> Zoltan
+Veronica -> Eniko
+Emil -> Ciprian
+Daniel -> Veronica
+Danut -> Florentina
+Cornel -> Elena
+0: Ramona
+Constantin -> Danut
+Daniel -> Gheorghe
+10: Georgiana
+Cosmin -> Melinda
+Andrea -> Cristian
+7: Roxana
+Costel -> Ion
+Tudor -> Angela
+Lenuta -> Dumitru
+16: Silviu
+Eniko -> Cosmin
+14: Matei
+Silviu -> Irina
+Georgeta -> Georgiana
+Sorin -> Tunde
+16: Sorin
+7: Attila
+2: Rodica
+Attila -> Maria
+Ionela -> Iuliana
+Lavinia -> Matei
+Cornelia -> Mirela
+Silvia -> Ovidiu
+Viorel -> Zoltan
+Ionel -> Florin
+6: Razvan
+Nicoleta -> Gheorghita
+Anisoara -> Marian
+Mihaita -> Nicolae
+Daniela -> Geanina
+5: Rodica
+Viorel -> Vasile
+2: Liliana
+Madalina -> Silvia
+Sergiu -> Camelia
+Daniela -> Mihail
+Ioana -> Andra
+Alin -> Liviu
+Sebastian -> Codrin
+Florina -> Eniko
+12: Oana
+4: Dumitru
+13: Camelia
+16: Daniela
+13: Camelia
+Cornel -> Timea
+Petrica -> Stefan
+1: Corina
+Mihaela -> Erika
+Istvan -> Bianca
+Gabriela -> Luminita
+Anisoara -> Ioana
+Vasilica -> Elena
+13: Petronela
+Daniela -> Paul
+Oana -> Dan
+Simona -> Iulia
+Bogdan -> Lenuta
+1: Mihaela
+Emanuel -> Sorin
+13: Attila
+3: Dragos
+Alin -> Monica
+7: Razvan
+Viorel -> Lavinia
+Cornelia -> Daniela
+Liliana -> Mihaita
+Nicolae -> Andrea
+4: Melinda
+Dragos -> George
+Dumitru -> Laura
+6: Anisoara
+Andreea -> Petronela
+12: Ionel
+Andrei -> Claudia
+Gheorghita -> Andrei
+Silvia -> Razvan
+Silvia -> Simona
+Adriana -> Valentin
+Violeta -> Loredana
+5: Georgian
+Adelina -> Alin
+1: Danut
+Matei -> Sorina
+Csaba -> Viorica
+Petrica -> Georgiana
+Ramona -> Sebastian
+15: Sebastian
+8: Petru
+Ancuta -> Liviu
+1: Madalina
+15: Petrica
+Dan -> Dorina
+Anca -> Emil
+16: Gabriel
+Ionut -> Dan
+Daniel -> Csaba
+Katalin -> Camelia
+Mihail -> Andrea
+16: Vasilica
+Florian -> Claudia
+Adriana -> Gabriel
+0: Emanuel
+18: Sorin
+Florin -> Georgeta
+Aurelia -> Matei
+16: Teodor
+11: Timea
+Florina -> Sergiu
+Anca -> Tunde
+Petrica -> Diana
+Cristian -> Teodor
+Ioana -> Ioan
+Silvia -> Florentina
+Florin -> Costel
+Liliana -> Tudor
+Rodica -> Viorel
+Andreea -> Istvan
+5: Valentina
+Claudiu -> Ileana
+Alexandra -> Lenuta
+Diana -> Ionut
+Octavian -> Diana
+Istvan -> Viorel
+14: Nicoleta
+Katalin -> Ion
+Florin -> Claudiu
+Aurelia -> Adriana
+Constantin -> Attila
+1: Valentin
+Ioana -> Timea
+Ioana -> Aurelia
+Ana -> Andra
+Tudor -> Ionela
+8: Petrica
+14: Nicolae
+1: Cristian
+17: Ionel
+Geanina -> Nicoleta
+16: Alexandra
+Geanina -> Liliana
+Violeta -> Razvan
+10: Eugen
+Katalin -> Marian
+Dumitru -> Gheorghita
+17: Eugen
+Florin -> Victor
+3: Silviu
+Andreea -> Nicusor
+Madalina -> Nicusor
+Anca -> Csaba
+Dorina -> Cristina
+10: Silviu
+Octavian -> Mirela
+Simona -> Marius
+Ana -> Georgian
+Cornelia -> Catalin
+6: Lavinia
+Sorin -> Violeta
+11: Liliana
+Marin -> Alexandra
+2: Marinela
+Sebastian -> Corina
+9: Mihai
+Mihai -> Florina
+Katalin -> Sorin
+Petrica -> Andreea
+14: Anisoara
+Tudor -> Mihai
+9: Sergiu
+Mircea -> Bogdan
+4: Victor
+Ana -> Marinela
+Radu -> Dragos
+Dorina -> Simona
+18: Cristina
+4: Marinela
+14: Alin
+Alexandra -> Cristina
+19: Vasilica
+Szabolcs -> Gabriela
+0: Nicolae
+5: Daniel
+9: Mihaela
+Alina -> Valentina
+Mihail -> Liliana
+Ancuta -> Dorina
+Octavian -> Daniel
+Valentin -> Ileana
+Mircea -> Sebastian
+12: Anisoara
+Viorica -> Radu
+Iuliana -> Georgian
+Raluca -> Emanuel
+8: Ovidiu
+Teodor -> Adrian
+Iulian -> Mihail
+Adelina -> Cristian
+Ana -> Costin
+2: Catalina
+Szabolcs -> Catalina
+Marius -> Petru
+Oana -> Anca
+11: Octavian
+Szabolcs -> Madalina
+Ioana -> Melinda
+Florin -> Corina
+7: Alexandru
+Raluca -> Ovidiu
+7: Valentin
+Iulian -> Mircea
+Cornelia -> Andrei
+Alina -> Anisoara
+12: Stefan
+11: Viorica
+Ana -> Attila
+Ciprian -> Danut
+Anca -> Viorica
+Istvan -> Stefan
+Mihaela -> Silviu
+6: Lidia
+Dumitru -> Cornelia
+Bogdan -> Petru
+Anamaria -> Geanina
+Nicolae -> Teodora
+Vasilica -> Cornel
+Dumitru -> Vasilica
+Silvia -> Alexandra
+Adriana -> Ioana
+Mihaela -> Lavinia
+Lidia -> Anamaria
+Tudor -> Szabolcs
+Oana -> Istvan
+Bianca -> Alina
+5: Raluca
+9: Florian
+Bogdan -> Cornel
+Mircea -> George
+13: Valentin
+Oana -> Anca
+Eugen -> Silvia
+Roxana -> Rodica
+Ancuta -> Marius
+Ana -> Petrica
+5: Petronela
+Marin -> Ciprian
+4: Dumitru
+Silviu -> Raluca
+5: Silviu
+Oana -> Tudor
+Valentin -> Costel
+18: Marin
+Silviu -> Bogdan
+Octavian -> Gabriela
+Mircea -> Ionut
+9: Constantin
+Constantin -> Valentina
+18: Mihaela
+Constantin -> Ancuta
+Oana -> Ionel
+Catalina -> Katalin
+Adriana -> Emanuel
+0: Silviu
+16: Octavian
+6: Roxana
+Raluca -> Florian
+Ramona -> Adelina
+2: Dumitru
+Ana -> Octavian
+Ramona -> Florin
+10: Teodora
+2: Ana
+19: Alexandru
+Nicolae -> Teodora
+2: Catalina
+Marin -> Eugen
+Ana -> Silviu
+Marin -> Roxana
+Valentin -> Marin
+Victor -> Ionel
+Oana -> Victor
+Mihaita -> Nicolae
+Alin -> Lidia
+14: Petronela
+Catalina -> Lidia
+Nicoleta -> Marinela
+8: Bianca
+Katalin -> Raluca
+Ramona -> Marin
+Alexandru -> Sergiu
+2: Radu
+18: Alexandru
+4: Constantin
+Florian -> Dumitru
+Ramona -> Florian
+Adriana -> Mircea
+19: Alexandru
+Ramona -> Teodor
+Petronela -> Valentin
+17: Eugen
+2: Mihaita
+6: Adelina
+11: Ana
+Eugen -> Catalina
+Iuliana -> Adelina
+Petronela -> Mihaela
+1: Ramona
+Bianca -> Ramona
+Ana -> Alin
+Ramona -> Eugen
+Mihaita -> Octavian
+Oana -> Ana
+4: Katalin
+Katalin -> Constantin
+Radu -> Alexandru
+3: Alexandru
+Petronela -> Adriana
+Petronela -> Alexandru
+13: Petronela
+Bianca -> Oana
+12: Radu
+9: Bianca
+Nicoleta -> Petronela
+2: Iuliana
+Ramona -> Oana
+Iulian -> Katalin
+17: Radu
+Bianca -> Ramona
+5: Bianca
+Bianca -> Constantin
+Bianca -> Iulian
+Bianca -> Ana
+Nicoleta -> Iulian
+Iuliana -> Mihaita
+Bianca -> Radu
+Mihaela -> Bianca
+JOC_8
+Catalin -> Paul
+10: Catalina
+Iulian -> Geanina
+18: Claudiu
+16: Marilena
+Dragos -> Nicoleta
+Madalina -> Violeta
+19: George
+Andra -> Timea
+Gheorghita -> Loredana
+Adrian -> Adina
+Marinela -> Sergiu
+Camelia -> Dragos
+Erika -> Cristian
+Roxana -> Lavinia
+13: Catalin
+Gabriel -> Anca
+7: Raluca
+10: Victor
+Marin -> Corina
+Mariana -> Melinda
+Andreea -> Adina
+Emilia -> Ramona
+11: Florin
+19: Kinga
+Alina -> Lucian
+13: Bogdan
+Mihaela -> Mihail
+8: Dumitru
+Andrei -> Alexandra
+Mihail -> Florentina
+Ciprian -> Petronela
+Attila -> Roxana
+Lenuta -> George
+8: Florin
+9: Istvan
+Teodora -> Florentina
+Florian -> Simona
+Lucian -> Emilia
+7: Alina
+Danut -> Robert
+15: Anca
+Ioana -> Lidia
+Ancuta -> Laszlo
+Lucian -> Irina
+3: Florina
+8: Paula
+Adriana -> Paul
+7: Gabriela
+13: Vlad
+Valentin -> Ioana
+Andra -> Ecaterina
+0: Danut
+Teodor -> Claudiu
+Emil -> Nicolae
+3: Florin
+Sorina -> Gheorghe
+Dragos -> Razvan
+Nicusor -> Alexandru
+Viorica -> Bogdan
+Alin -> Stefania
+Melinda -> Loredana
+0: Ecaterina
+Florina -> Florian
+Zsolt -> Simona
+Violeta -> Lavinia
+Andreea -> Lidia
+Ion -> Melinda
+2: Kinga
+Razvan -> Emilia
+Dorin -> Ileana
+Florina -> Emanuel
+Madalina -> Teodora
+Bogdan -> Vasilica
+Anca -> Bogdan
+Roxana -> Attila
+10: Tiberiu
+Carmen -> Anamaria
+Marius -> Georgeta
+Mihaela -> Dorin
+1: Ionela
+George -> Mariana
+19: Stefania
+19: Vasile
+Eugen -> Ionut
+Levente -> Ciprian
+Mihai -> Geanina
+Claudia -> Danut
+Gabriel -> Marinela
+Violeta -> Marin
+Tudor -> Cristian
+0: Ilie
+Teodor -> Mircea
+Robert -> Dorin
+Ancuta -> Iulian
+Anamaria -> Adelina
+9: Sorin
+Alexandru -> Dragos
+10: Teodor
+11: Claudia
+Iulian -> Sorina
+Liliana -> Violeta
+Iulia -> Madalina
+10: Teodor
+Catalin -> Laszlo
+19: Ionela
+5: Diana
+8: Maria
+Alina -> Elena
+Monica -> Mihaela
+Codrin -> Florian
+Ecaterina -> Andreea
+3: Lucian
+Camelia -> Silviu
+Camelia -> Mircea
+Laurentiu -> Razvan
+15: Madalina
+Dumitru -> Costin
+Gabriela -> Roxana
+18: Tudor
+Florina -> Tiberiu
+Andra -> Anca
+Andrei -> Timea
+Sergiu -> Florina
+Erika -> Vlad
+9: Monica
+9: Alin
+Lenuta -> Diana
+Adelina -> Matei
+0: Marinela
+Cosmin -> Emil
+Dorina -> Cosmin
+Erika -> Anamaria
+4: Nicusor
+Szabolcs -> Daniela
+Irina -> Bianca
+Cristina -> Zsolt
+Sebastian -> Monica
+Tudor -> Ana
+Kinga -> Ana
+5: Lenuta
+8: Ionel
+Catalina -> Mihail
+1: Stefania
+Daniela -> Lenuta
+Anisoara -> Emil
+Mariana -> Alexandru
+10: Danut
+Radu -> Georgiana
+Marius -> Paula
+Stefan -> Laurentiu
+Petrica -> Mihaela
+Cornelia -> Sorin
+Vasile -> Attila
+Dumitru -> Ancuta
+Georgiana -> Ecaterina
+Catalina -> Veronica
+15: Adrian
+Marius -> Gabriela
+7: Tudor
+Luminita -> Diana
+Emanuel -> Sorin
+Marin -> Marian
+Raluca -> Constantin
+Maria -> Teodor
+8: Lenuta
+15: Silvia
+Levente -> Cornelia
+Elena -> Victor
+Stefania -> Alina
+Dumitru -> George
+9: Florin
+Danut -> Alina
+Daniela -> Dorina
+Erika -> Mariana
+Erika -> Ciprian
+Nicusor -> Nicoleta
+Csaba -> Viorel
+Angela -> Mihai
+3: Levente
+Rodica -> Raluca
+13: Marin
+Iuliana -> Octavian
+Sebastian -> Mihai
+Bianca -> Ovidiu
+Marilena -> Catalina
+8: Claudia
+Iulian -> Paula
+5: Gheorghe
+14: Valentina
+Oana -> Eniko
+Irina -> Adriana
+Camelia -> Eniko
+Ramona -> Teodor
+Mihaita -> Iulian
+8: Ileana
+12: Daniel
+Raluca -> Petronela
+Tunde -> Elena
+Daniela -> Georgeta
+16: Andrei
+11: Kinga
+Iulia -> Laurentiu
+Gabriel -> Bianca
+Andrea -> Raluca
+Erika -> Florin
+Georgiana -> Stefania
+Andreea -> Dumitru
+Gabriel -> Alexandra
+7: Mihaita
+Cristina -> Catalin
+14: Gabriel
+Alin -> Marin
+Adelina -> Maria
+10: Ramona
+19: Tunde
+Sebastian -> Maria
+Adriana -> Corina
+Ramona -> Florin
+Ioan -> Dorina
+Iulia -> Erika
+Nicolae -> Istvan
+11: Claudia
+Gabriela -> Andrei
+18: Octavian
+Viorel -> Andrei
+Ramona -> Tiberiu
+11: Codrin
+18: Eugen
+11: Monica
+Ancuta -> Robert
+Marian -> Rodica
+Daniel -> Csaba
+Daniel -> Zoltan
+5: Cornelia
+Sebastian -> Erika
+Adelina -> Andra
+18: Petrica
+12: Codrin
+Radu -> Ilie
+Ancuta -> Ramona
+5: Valentina
+Emanuel -> Rodica
+Ovidiu -> Mihaita
+Ovidiu -> Lenuta
+Cornelia -> Adrian
+3: Andreea
+Georgian -> Cosmin
+Valentin -> Katalin
+12: Emanuel
+Iulia -> Silvia
+Gheorghe -> Marian
+11: Gheorghita
+Ioana -> Danut
+Daniel -> Dumitru
+Mihaita -> Gabriela
+1: Istvan
+18: Veronica
+8: Dan
+16: Vasilica
+11: Andra
+2: Zsolt
+Adrian -> Adelina
+Ionut -> Georgian
+Nicusor -> Florina
+Emanuel -> Radu
+Octavian -> Laura
+Ovidiu -> Mihaita
+Veronica -> Catalin
+Gabriel -> Liliana
+1: Aurelia
+Claudia -> Laura
+11: Andrea
+Iulia -> Vasilica
+Adrian -> Oana
+13: Mirela
+5: Iulia
+Mirela -> Octavian
+Tudor -> Stefan
+Mirela -> Dan
+Andrea -> Mirela
+Angela -> Iuliana
+Zsolt -> Iuliana
+15: Carmen
+Liliana -> Oana
+4: Liliana
+Monica -> Szabolcs
+6: Lucian
+Marius -> Costin
+Ilie -> Adrian
+18: Marilena
+Cornel -> Madalina
+Georgiana -> Codrin
+Silviu -> Anisoara
+Ioan -> Andra
+Valentin -> Ioan
+Irina -> Viorica
+19: Ioan
+9: Vlad
+Matei -> Ilie
+0: Eugen
+Iulia -> Sergiu
+14: Claudia
+Angela -> Codrin
+16: Ancuta
+3: Ovidiu
+16: Emanuel
+Stefan -> Anisoara
+12: Daniela
+Csaba -> Cristina
+0: Constantin
+Vlad -> Luminita
+Daniela -> Kinga
+6: Costel
+Szabolcs -> Iulia
+18: Cornelia
+Mirela -> Carmen
+3: Alin
+Eugen -> Andrea
+13: Silviu
+Csaba -> Monica
+Zsolt -> Catalina
+Szabolcs -> Georgiana
+Ioana -> Andreea
+Gabriel -> Ancuta
+Ionel -> Petrica
+Nicusor -> Iulia
+Emanuel -> Valentina
+Kinga -> Ionel
+Claudiu -> Ionel
+Marius -> Kinga
+Viorica -> Gabriel
+Valentin -> Gheorghita
+0: Vasile
+Vlad -> Nicusor
+Gheorghita -> Ion
+Radu -> Dan
+Daniel -> Liliana
+Camelia -> Lucian
+Cristina -> Costel
+Zoltan -> Costel
+13: Gheorghita
+Cristina -> Silviu
+Ovidiu -> Csaba
+Ileana -> Constantin
+Cornel -> Ionut
+Carmen -> Alin
+8: Nicusor
+Mirela -> Petrica
+Marinela -> Nicusor
+Marius -> Levente
+Aurelia -> Marinela
+5: Zoltan
+Camelia -> Petru
+Sebastian -> Marius
+Radu -> Nicolae
+Vasile -> Andrea
+Ovidiu -> Marilena
+Eugen -> Cristina
+16: Viorel
+12: Camelia
+Emanuel -> Ovidiu
+Levente -> Adriana
+Daniel -> Camelia
+11: Tudor
+Silvia -> Valentina
+7: Stefan
+Camelia -> Aurelia
+Gheorghita -> Teodora
+Daniel -> Veronica
+Viorica -> Radu
+11: Luminita
+Katalin -> Ion
+Ioana -> Szabolcs
+Victor -> Alin
+Daniel -> Aurelia
+7: Silvia
+17: Viorica
+11: Vasile
+Emanuel -> Viorica
+19: Daniel
+Georgian -> Mirela
+3: Angela
+8: Tudor
+17: Marius
+14: Istvan
+Emanuel -> Tunde
+Levente -> Eugen
+Victor -> Claudia
+Silvia -> Viorel
+4: Irina
+Vasile -> Petru
+Carmen -> Sebastian
+15: Cornelia
+Sebastian -> Irina
+11: Marius
+Stefan -> Daniela
+0: Istvan
+6: Tunde
+Levente -> Ioan
+Zoltan -> Stefan
+18: Claudia
+Gabriel -> Claudiu
+Luminita -> Camelia
+6: Silvia
+9: Claudia
+1: Valentin
+Sorina -> Liviu
+Marilena -> Cornel
+Valentin -> Gabriel
+5: Tunde
+Vasile -> Tudor
+Vlad -> Katalin
+Ioana -> Istvan
+Silvia -> Carmen
+Matei -> Victor
+Ioana -> Ionela
+Daniel -> Vlad
+Zsolt -> Sorina
+14: Ileana
+3: Zsolt
+Tunde -> Gheorghe
+Levente -> Claudia
+Marilena -> Marius
+Valentin -> Angela
+Daniel -> Cornelia
+Matei -> Luminita
+Marilena -> Gheorghita
+Tudor -> Daniel
+8: Georgian
+1: Marilena
+Ionela -> Valentin
+7: Cornel
+Liviu -> Ileana
+Zsolt -> Sebastian
+2: Eugen
+Matei -> Marilena
+Cornel -> Liviu
+7: Ionela
+10: Angela
+Georgian -> Cornel
+10: Vasile
+Eugen -> Matei
+Zsolt -> Ionela
+2: Ioana
+Valentin -> Angela
+6: Zsolt
+Daniel -> Tudor
+16: Ioana
+Vasile -> Silvia
+Zsolt -> Valentin
+Ioana -> Zoltan
+Tunde -> Ioana
+Zsolt -> Vasile
+Emanuel -> Georgian
+17: Zsolt
+Tunde -> Vasile
+5: Daniel
+Daniel -> Emanuel
+Eugen -> Tunde
+Zsolt -> Daniel
+JOC_9
+1: Liviu
+9: Marinela
+Eugen -> Diana
+Loredana -> Ramona
+Emilia -> Florina
+Aurelia -> Marian
+Ilie -> Cristian
+Rodica -> Iulian
+8: Mirela
+Viorel -> Violeta
+Sergiu -> Loredana
+Matei -> Adina
+Costel -> Andrei
+11: Erika
+Laurentiu -> Vasile
+Diana -> Timea
+2: Georgeta
+Radu -> Tunde
+Codrin -> Violeta
+17: Florentina
+0: Teodor
+Sebastian -> Teodora
+Oana -> Maria
+Dan -> Roxana
+Roxana -> Sergiu
+Costin -> Irina
+Emilia -> Sorin
+3: Anisoara
+Viorica -> Ovidiu
+Ancuta -> Valentina
+Mirela -> Laurentiu
+Sorina -> Vlad
+Carmen -> Lavinia
+Ionut -> Danut
+4: Petru
+Ovidiu -> Attila
+19: Danut
+Mircea -> Andreea
+Luminita -> Valentin
+17: Erika
+1: Nicoleta
+5: Teodora
+15: Constantin
+Lucian -> Aurelia
+Vlad -> Anamaria
+Tunde -> Corina
+Cornel -> Vlad
+11: Roxana
+Dorin -> Ioana
+Claudia -> Szabolcs
+Elena -> Istvan
+11: Florina
+Geanina -> Constantin
+5: Ancuta
+6: Claudiu
+Petru -> Monica
+Constantin -> Rodica
+9: Sebastian
+Lenuta -> Florin
+Gheorghita -> Catalina
+Kinga -> Anca
+Dragos -> Ionela
+13: Nicoleta
+11: Alexandra
+Catalina -> Petru
+Marin -> Adriana
+Andra -> Elena
+Tiberiu -> Cosmin
+Lucian -> Gabriel
+Marian -> Tudor
+Rodica -> Claudia
+7: Gheorghita
+Robert -> Erika
+George -> Georgian
+Camelia -> Zsolt
+Andreea -> Vasile
+Ionel -> Emanuel
+Robert -> Andrei
+5: Dorin
+Laszlo -> Lucian
+17: Georgiana
+2: Szabolcs
+3: Loredana
+Florian -> Catalin
+15: Iulian
+Dan -> Andrea
+8: Aurelia
+Razvan -> Szabolcs
+Andrea -> Valentina
+Gheorghe -> Sebastian
+Adriana -> Nicusor
+Ramona -> Dorina
+17: Andreea
+Paula -> Kinga
+Marilena -> Ovidiu
+Katalin -> Marius
+Rodica -> Zsolt
+Ecaterina -> Lucian
+Mihaela -> Sebastian
+8: Codrin
+Tiberiu -> Iuliana
+Ana -> Marinela
+Sorina -> Mariana
+Dorin -> Florin
+8: Liliana
+Ciprian -> Stefania
+18: Dan
+Mirela -> Timea
+Andra -> Katalin
+Monica -> Florian
+Zoltan -> Mariana
+Gheorghita -> Angela
+Diana -> Victor
+Cristian -> Cornel
+Mihaita -> Ionel
+Ion -> Gheorghe
+Marius -> Ancuta
+0: Tudor
+Ecaterina -> Constantin
+Valentin -> Petronela
+Simona -> Gabriela
+16: Marian
+Nicolae -> Roxana
+Florian -> Ioan
+17: Ionut
+Csaba -> Eugen
+Rodica -> Lidia
+Lavinia -> Erika
+Codrin -> Silvia
+15: Matei
+18: Laurentiu
+Raluca -> Marinela
+2: Angela
+2: Petrica
+Cristian -> Adelina
+Iulia -> Costin
+8: Emanuel
+5: Iuliana
+Nicolae -> Silvia
+Mihaita -> Daniela
+Irina -> Petru
+3: Dan
+1: Eniko
+15: Istvan
+7: Andrea
+Tiberiu -> Daniela
+1: Tunde
+10: Marin
+17: Veronica
+Istvan -> Mihaela
+13: Dorina
+8: Rodica
+Tudor -> Elena
+Dumitru -> Silviu
+19: Gheorghita
+Valentin -> Florian
+Georgian -> Codrin
+3: Lidia
+Costel -> Attila
+19: Zoltan
+Dorin -> Costel
+Mihail -> Anca
+Andreea -> Tiberiu
+10: Claudiu
+10: Maria
+Nicolae -> Silviu
+Ilie -> Robert
+Cornel -> Nicoleta
+Laurentiu -> Daniel
+19: Rodica
+1: Lidia
+Gheorghe -> Petronela
+Marilena -> Mihai
+19: Ecaterina
+Iulia -> Sergiu
+Paul -> Marius
+Viorica -> George
+Eniko -> Mihaela
+Csaba -> Nicoleta
+George -> Ramona
+Florina -> Stefania
+Emanuel -> Codrin
+17: Eugen
+Danut -> Irina
+4: Cosmin
+Ecaterina -> Sorin
+Cosmin -> Ecaterina
+Lenuta -> Monica
+1: Adriana
+Adriana -> Anisoara
+19: Ecaterina
+Dorina -> Andreea
+19: Oana
+6: Stefan
+19: Gabriela
+Alexandru -> Marilena
+Anisoara -> Catalina
+Lavinia -> Georgiana
+4: Diana
+2: Emilia
+9: Liviu
+18: Lavinia
+18: Costin
+15: Csaba
+Ionel -> Paul
+Costin -> Alina
+Catalin -> Marilena
+Victor -> Ion
+16: Vasilica
+Dragos -> Alexandru
+Zoltan -> Danut
+16: Angela
+Emilia -> Gabriel
+Claudia -> Paul
+Rodica -> Daniel
+Costin -> Ana
+Cristina -> Victor
+10: Laurentiu
+Emanuel -> Ioan
+Viorica -> Eniko
+Teodor -> Liviu
+7: Gheorghe
+Ana -> Tiberiu
+Adina -> Cosmin
+Valentin -> Teodora
+16: Angela
+Valentin -> Cristina
+1: Ionela
+Diana -> Mircea
+Viorel -> Lenuta
+Katalin -> Mihaita
+Matei -> Lavinia
+9: Ilie
+6: Tudor
+Viorel -> Cornel
+1: Georgeta
+15: Catalin
+Costin -> Georgian
+Camelia -> Paula
+Florentina -> Emanuel
+3: Ancuta
+17: Lidia
+Eugen -> Razvan
+6: Marian
+Simona -> Ciprian
+Ionel -> Cornelia
+Mircea -> Bogdan
+9: Adina
+14: Maria
+1: Istvan
+Ciprian -> Ecaterina
+19: Alexandru
+13: Radu
+Alexandru -> Diana
+Iulia -> Cristian
+7: Loredana
+6: Dan
+Eugen -> Laura
+4: Melinda
+Florina -> Emilia
+12: Angela
+Veronica -> Sorina
+Melinda -> Razvan
+Levente -> Loredana
+Aurelia -> Andra
+Gheorghe -> Costel
+Stefan -> Mihaita
+Laszlo -> Maria
+Raluca -> Alina
+Veronica -> Camelia
+Laurentiu -> Mihai
+Geanina -> Matei
+16: Csaba
+0: Vasilica
+1: Cornelia
+Simona -> Andrea
+5: Kinga
+12: Iulia
+Rodica -> Raluca
+Georgiana -> Ciprian
+Lenuta -> Iulian
+Sorina -> Valentin
+7: Petrica
+Matei -> Sorina
+1: Mirela
+2: Alexandru
+Vasilica -> Georgiana
+Viorel -> Dorin
+1: Raluca
+Paula -> Mirela
+Ion -> Mircea
+Radu -> Florina
+18: Emil
+17: Iulia
+Zoltan -> Viorel
+18: Robert
+11: Corina
+16: Luminita
+Robert -> Ionut
+Rodica -> Alexandru
+Matei -> Bianca
+Nicusor -> Gabriela
+Ionut -> Ancuta
+Tunde -> Laura
+Claudiu -> Zoltan
+Corina -> Adrian
+Viorel -> Dorina
+Dorin -> Camelia
+13: Anamaria
+Nicolae -> Viorel
+Csaba -> Stefan
+Adriana -> Dorin
+Liliana -> Catalin
+Luminita -> Carmen
+Adrian -> Rodica
+4: Dumitru
+Eugen -> Ana
+3: Liviu
+Iuliana -> Laurentiu
+Mihail -> Raluca
+8: Laszlo
+Paula -> Florentina
+2: Alexandra
+Iuliana -> Csaba
+Dumitru -> Ionut
+1: Marian
+9: Adelina
+Lidia -> Claudia
+8: Angela
+Kinga -> Stefan
+Iulia -> Ion
+Ionela -> Veronica
+1: Marin
+10: Iuliana
+Alin -> Mirela
+17: Veronica
+Ilie -> Nicolae
+2: Geanina
+Robert -> Emilia
+8: Eniko
+Angela -> Gheorghe
+Angela -> Eniko
+18: Corina
+15: Georgeta
+Eugen -> Bogdan
+Simona -> Angela
+16: Cornelia
+Kinga -> Adrian
+Alin -> Corina
+Teodor -> Carmen
+11: Bianca
+Petrica -> Dumitru
+Costin -> Anamaria
+2: Vasilica
+George -> Cornelia
+3: Costin
+6: Aurelia
+Luminita -> Gheorghita
+13: Iuliana
+Ionela -> Geanina
+2: Marian
+Marian -> Ileana
+Andra -> Marian
+Andra -> Aurelia
+Robert -> Matei
+2: Adelina
+Laszlo -> Luminita
+Katalin -> Vasilica
+Teodor -> Vasilica
+2: Nicusor
+Paula -> Madalina
+Kinga -> Ioana
+4: Paula
+14: Adriana
+7: Levente
+14: Costin
+Csaba -> Tunde
+5: Eugen
+0: Paula
+George -> Octavian
+Alexandra -> Florentina
+Geanina -> George
+8: Adriana
+Emil -> Iulia
+10: Madalina
+2: Katalin
+Katalin -> Ileana
+Bianca -> Cristina
+Lenuta -> Zoltan
+9: Alin
+8: Viorica
+8: Istvan
+Claudiu -> Lidia
+Teodor -> Adriana
+Iuliana -> Dan
+Radu -> Nicusor
+14: Andra
+Csaba -> Liviu
+10: Petrica
+10: Levente
+Melinda -> Istvan
+1: Teodor
+Alin -> Dragos
+Andra -> Ionela
+Ilie -> Madalina
+Ionel -> Eugen
+Csaba -> Iulia
+Alexandra -> Csaba
+18: Dan
+Octavian -> Lenuta
+Adelina -> Radu
+12: Gheorghita
+Ilie -> Ionel
+Robert -> Adelina
+6: Anisoara
+Radu -> Bianca
+3: Laszlo
+Robert -> Kinga
+Paula -> Andra
+Anisoara -> Simona
+Radu -> Anisoara
+16: Costin
+Viorica -> Dumitru
+Alexandra -> Laszlo
+Claudiu -> Simona
+3: Radu
+1: Dragos
+10: Nicolae
+3: Adina
+13: Petrica
+16: Nicolae
+Robert -> Costin
+Luminita -> Geanina
+12: Ilie
+0: Laszlo
+Viorica -> Gheorghita
+Marin -> Melinda
+16: Robert
+Ilie -> Dan
+Ilie -> Claudiu
+Ilie -> Radu
+Ilie -> Alin
+Levente -> Liliana
+16: Luminita
+Petrica -> Nicolae
+Levente -> Alexandra
+14: Katalin
+Georgeta -> Katalin
+Adina -> Dragos
+Levente -> Claudiu
+Octavian -> Alexandra
+13: Melinda
+Alin -> Viorica
+Iuliana -> Octavian
+Oana -> Adina
+6: Viorica
+Luminita -> Liliana
+Veronica -> Iuliana
+Tudor -> Veronica
+Alin -> Luminita
+Ilie -> Oana
+Alin -> Ilie
+Robert -> Ilie
+Alin -> Emil
+10: Marin
+14: Paula
+Tudor -> Laszlo
+8: Paula
+12: Tudor
+Tudor -> Emil
+Alin -> Tudor
+8: Marin
+Melinda -> Oana
+Alin -> Levente
+Petrica -> Alin
+8: Paula
+Melinda -> Petrica
+Viorica -> Levente
+16: Petrica
+Robert -> Georgeta
+Georgeta -> Petrica
+Marin -> Paula
+Marin -> Robert
+JOC_10
+Adrian -> Cornel
+Vasilica -> Laurentiu
+Cornelia -> Liliana
+Cristina -> Nicusor
+Daniela -> Szabolcs
+Florin -> Rodica
+Camelia -> Marilena
+Petronela -> Maria
+14: Rodica
+3: Lucian
+Tiberiu -> Florin
+Mirela -> Maria
+17: Marilena
+Anamaria -> Attila
+Florin -> Radu
+5: Irina
+Dorina -> Adriana
+Gabriela -> Raluca
+Costin -> Anca
+Raluca -> Costin
+Alina -> Teodora
+Constantin -> Szabolcs
+Marinela -> Monica
+7: Constantin
+Violeta -> Sergiu
+Marian -> Tunde
+2: Istvan
+Andra -> Ciprian
+14: Silviu
+Alina -> Valentin
+0: Claudia
+Viorel -> Teodor
+5: Valentina
+7: Lavinia
+Ramona -> Dumitru
+0: Tunde
+Marian -> Bogdan
+Ciprian -> Emilia
+3: Carmen
+3: Ecaterina
+Emanuel -> Elena
+Ionel -> Tunde
+0: Nicoleta
+Stefan -> Claudiu
+Camelia -> Melinda
+6: Cornel
+Florin -> Adelina
+Andreea -> Mihail
+Radu -> Laurentiu
+Marilena -> Mariana
+Attila -> Claudia
+Valentina -> Stefania
+13: Bianca
+16: Elena
+Erika -> Mirela
+8: Rodica
+Silvia -> Gheorghita
+Marin -> Liliana
+15: Codrin
+Petronela -> Alexandra
+Camelia -> Daniela
+Anca -> Luminita
+Iulia -> Georgian
+15: Anamaria
+3: Erika
+Dumitru -> Csaba
+Iulian -> Teodor
+Alin -> Laszlo
+5: Octavian
+Istvan -> Stefan
+Emil -> Cristina
+Andreea -> Lenuta
+Daniela -> Andra
+Ovidiu -> Claudia
+Catalin -> Katalin
+1: Mihaela
+Nicusor -> Mariana
+7: Dorina
+Cornelia -> Adriana
+Nicusor -> Andrei
+13: Ovidiu
+Costin -> Ion
+2: Petru
+9: Oana
+8: Adrian
+Gheorghita -> Ioana
+Ilie -> Florentina
+11: Gheorghe
+Eniko -> Florina
+11: Emil
+Zsolt -> Cristian
+19: Teodora
+0: Tiberiu
+Vasile -> Anamaria
+Levente -> Dan
+Nicolae -> Petronela
+Ion -> Ancuta
+Catalin -> Georgiana
+Bogdan -> Codrin
+Cristian -> Marin
+Iulia -> Costin
+Ancuta -> Stefan
+Mihai -> Mihaela
+Istvan -> Anamaria
+17: Gabriela
+12: Ovidiu
+Adrian -> Violeta
+10: Anca
+Ramona -> Georgeta
+10: Matei
+13: Alin
+Mihail -> Catalina
+Codrin -> Paula
+Anca -> Csaba
+10: Cosmin
+11: Ramona
+2: Ilie
+Gabriela -> Tiberiu
+Silvia -> Florin
+0: Aurelia
+11: Valentina
+4: Geanina
+6: Valentina
+Cosmin -> Ciprian
+Bogdan -> Mihaita
+10: Dumitru
+11: Costel
+3: Matei
+Rodica -> Alin
+6: Gabriela
+5: Istvan
+Petronela -> Bogdan
+18: Emanuel
+Gheorghe -> Petronela
+Dorina -> Carmen
+Emil -> Lidia
+Tudor -> Vasilica
+Geanina -> Loredana
+Matei -> Sorina
+14: Claudiu
+Paula -> Ramona
+Kinga -> Simona
+Zsolt -> Andreea
+14: Dan
+Attila -> Razvan
+Paula -> Valentina
+Iulia -> Sebastian
+Oana -> Silvia
+Ioana -> Geanina
+George -> Sebastian
+8: Cornel
+Mihaela -> Paul
+Stefania -> Corina
+Matei -> Sorina
+Rodica -> Razvan
+Anca -> Elena
+10: Istvan
+Emanuel -> Sergiu
+15: Codrin
+8: Ioan
+George -> Emilia
+Georgeta -> Alin
+Petrica -> Madalina
+Veronica -> Luminita
+11: Corina
+13: Timea
+Adrian -> Rodica
+10: Istvan
+Vlad -> Marin
+Alexandru -> Codrin
+0: Matei
+Raluca -> Georgeta
+9: Bianca
+3: Ana
+Stefania -> Alexandra
+Catalina -> Ionel
+Bianca -> Alexandru
+15: Mihaela
+Ramona -> Adina
+2: Levente
+Silvia -> Tiberiu
+19: Mircea
+3: Veronica
+Ancuta -> Camelia
+Ioana -> Mircea
+Angela -> Adrian
+Tudor -> Sorin
+Dumitru -> Alina
+Angela -> Ioana
+Valentina -> Aurelia
+Octavian -> George
+Dragos -> Ecaterina
+Vlad -> Iuliana
+Constantin -> Catalin
+Viorel -> Eniko
+10: Marian
+4: Dorin
+Daniela -> Vasilica
+8: Ionela
+Istvan -> Silviu
+Marian -> Mihai
+Alexandru -> Marius
+10: Lenuta
+Cornel -> Liviu
+Daniela -> Dorin
+Marilena -> Dan
+Anisoara -> Timea
+Mihaita -> Ovidiu
+14: Laszlo
+Zsolt -> Cosmin
+Marian -> Petrica
+Mihaita -> Cosmin
+4: Stefania
+Cristian -> Georgian
+Vasile -> Istvan
+Zsolt -> Viorel
+11: Alina
+Iulian -> Liviu
+Florentina -> Ilie
+Dorin -> Andrei
+19: Angela
+Octavian -> Petrica
+George -> Roxana
+Ilie -> Ionut
+Diana -> Eniko
+Tudor -> Iulia
+0: Attila
+Istvan -> Marian
+Corina -> Florian
+Corina -> Danut
+Ioan -> Dorin
+1: Viorel
+Ilie -> Cornelia
+18: Levente
+Lucian -> Viorica
+13: Monica
+Sorin -> Corina
+Cristina -> Angela
+6: Andrea
+15: Emil
+Anisoara -> Laszlo
+Gheorghe -> Mihail
+5: Daniela
+16: Mihai
+Claudiu -> Nicusor
+13: Adina
+13: Lavinia
+Daniel -> Dragos
+Gabriela -> Diana
+Vlad -> Octavian
+Angela -> Mihaela
+Madalina -> Gheorghita
+15: Alexandru
+Lucian -> Catalin
+Alexandru -> Mircea
+Melinda -> Diana
+10: Valentin
+Georgiana -> Valentin
+Costel -> Florian
+Marian -> Daniela
+19: Vlad
+Andrea -> Adrian
+Mihai -> Ana
+11: Cornelia
+Marinela -> Constantin
+2: Zoltan
+Dorina -> Paul
+Octavian -> Mihai
+Paula -> Iuliana
+2: Levente
+Marius -> Bianca
+Madalina -> Geanina
+2: Istvan
+9: Carmen
+1: Lucian
+2: Eugen
+12: Istvan
+Ionel -> Gabriela
+Iulia -> Stefania
+14: Victor
+Adelina -> Monica
+Florina -> Cornel
+Daniel -> Silviu
+16: Katalin
+Constantin -> Georgiana
+16: Attila
+Nicolae -> Zsolt
+2: Adelina
+Victor -> Silvia
+9: Simona
+Daniel -> Levente
+Alina -> Andra
+Melinda -> Lucian
+Sorin -> Laura
+Anca -> Cristina
+9: Cornelia
+Iulian -> Aurelia
+Ileana -> Florina
+Vasile -> Violeta
+19: Emil
+Iulia -> Erika
+Ioan -> Alina
+Ionut -> Lenuta
+Anca -> Victor
+Istvan -> Ovidiu
+11: Carmen
+Camelia -> Katalin
+Marilena -> Irina
+12: Ionel
+8: Mihaita
+7: Ecaterina
+Gheorghe -> Dragos
+0: Valentina
+Eugen -> Madalina
+Vasile -> George
+Cornelia -> Vlad
+Adina -> Istvan
+Marilena -> Laura
+3: Ionut
+Timea -> Andreea
+Irina -> Dumitru
+Victor -> Iulia
+11: Nicoleta
+7: Danut
+11: Matei
+Anisoara -> Ionela
+Lidia -> Radu
+3: Carmen
+Angela -> Valentina
+Marilena -> Melinda
+7: Emanuel
+2: Ionut
+Ion -> Zsolt
+Ionela -> Angela
+Ramona -> Adelina
+Constantin -> Marilena
+Emil -> Vasile
+15: Octavian
+Nicolae -> Bianca
+Dorina -> Lucian
+Kinga -> Carmen
+Camelia -> Simona
+Alexandru -> Timea
+Raluca -> Oana
+Florentina -> Eugen
+Adina -> Gabriela
+Andrea -> Lavinia
+Robert -> Claudiu
+Dorina -> Anca
+Cornelia -> Costel
+Zoltan -> Octavian
+Nicoleta -> Victor
+0: Irina
+0: Viorica
+Alexandru -> Teodora
+Lavinia -> Oana
+8: Viorica
+Marian -> Veronica
+16: Eugen
+Roxana -> Erika
+3: Cornelia
+Emil -> Ramona
+Ilie -> Ana
+3: Gabriel
+11: Ionela
+15: Ioan
+8: Anisoara
+Mirela -> Cornelia
+Matei -> Irina
+Loredana -> Mirela
+Gabriel -> Zoltan
+Ecaterina -> Raluca
+6: Ancuta
+9: Ancuta
+Cristian -> Costel
+Ionela -> Vlad
+7: Ion
+Viorica -> Nicolae
+Gheorghe -> Anisoara
+3: Robert
+6: Mihaita
+4: Gabriel
+Cristian -> Attila
+Paula -> Marius
+1: Sorin
+9: Emanuel
+Tudor -> Camelia
+Kinga -> Robert
+Florentina -> Nicolae
+19: Robert
+Ilie -> Cristian
+Florentina -> Viorica
+Tudor -> Petru
+Ilie -> Ionut
+Mihaita -> Ionela
+12: Anisoara
+Emanuel -> Matei
+Ioan -> Lidia
+Ionel -> Andrea
+13: Ionel
+Ecaterina -> Iulian
+Gabriel -> Emanuel
+Emil -> Roxana
+Ionel -> Andrea
+18: Florentina
+Dorina -> Ion
+Constantin -> Ecaterina
+14: Kinga
+8: Emanuel
+Ionel -> Lavinia
+Viorel -> Mihaita
+Florentina -> Danut
+11: Constantin
+Alexandru -> Emil
+Constantin -> Kinga
+Kinga -> Ioan
+13: Eugen
+Ilie -> Vasile
+13: Constantin
+Gabriel -> Levente
+Viorel -> Gabriel
+Viorel -> Loredana
+Viorel -> Constantin
+Robert -> Zoltan
+Emil -> Alexandru
+14: Dorina
+Eugen -> Gabriel
+Ileana -> Nicoleta
+Petru -> Sorin
+8: Robert
+7: Anisoara
+18: Kinga
+Iulian -> Emil
+12: Emanuel
+Catalina -> Adina
+13: Ancuta
+Ioan -> Tudor
+7: Eugen
+7: Ioan
+Matei -> Emanuel
+Veronica -> Marian
+12: Matei
+Matei -> Ancuta
+0: Robert
+Anisoara -> Gheorghe
+Matei -> Kinga
+18: Catalina
+5: Paula
+12: Ileana
+8: Ilie
+19: Matei
+Catalina -> Robert
+15: Florentina
+Matei -> Nicoleta
+Ileana -> Daniel
+Ilie -> Ioan
+Viorel -> Veronica
+6: Ionel
+Catalina -> Dorina
+2: Eugen
+10: Paula
+Dorina -> Paula
+Tudor -> Florentina
+Ileana -> Gheorghe
+Marinela -> Eugen
+Viorel -> Ilie
+10: Marinela
+8: Petru
+Catalina -> Viorel
+Matei -> Anisoara
+14: Tudor
+Daniel -> Dorina
+Matei -> Tudor
+16: Iulian
+Catalina -> Matei
+Iulian -> Marinela
+Marinela -> Ileana
+Ionel -> Daniel
+Iulian -> Ileana
+14: Iulian
+Iulian -> Petru
+Marinela -> Iulian
+Marinela -> Catalina
+3: Marinela
+16: Marinela
+17: Ionel
+Ionel -> Marinela
+JOC_11
+Sergiu -> Viorel
+Ramona -> Octavian
+Mihai -> Florentina
+Dragos -> Valentina
+3: Ecaterina
+Carmen -> Emilia
+Vasile -> Ramona
+Eugen -> Dumitru
+Marius -> Marinela
+Gabriela -> Costin
+19: Silvia
+Eniko -> Elena
+9: Claudiu
+13: Silvia
+Gabriela -> Marius
+Costel -> Marius
+Radu -> Georgian
+Rodica -> Gabriel
+Dorin -> Camelia
+Lidia -> Alin
+14: Mihail
+3: Valentina
+13: Ionel
+Gheorghita -> Madalina
+Vlad -> Ancuta
+Adina -> Cristina
+Vasile -> Marinela
+19: Szabolcs
+19: Sorin
+5: Cristian
+Florian -> Monica
+Dan -> Sergiu
+19: Zoltan
+Dragos -> Iuliana
+Cristina -> Csaba
+Ana -> Lenuta
+Cornelia -> Andreea
+7: Andrei
+Tiberiu -> Alexandru
+Timea -> Ioan
+18: Levente
+Vasilica -> Danut
+Ioana -> Tiberiu
+13: Florin
+1: Erika
+Ioan -> Violeta
+Adriana -> Cristina
+Maria -> Viorel
+15: Matei
+5: Claudia
+15: Vasile
+Codrin -> Valentin
+Stefania -> Dragos
+Eniko -> Codrin
+Alina -> Eugen
+Ioana -> Dan
+Ilie -> Iuliana
+13: Costin
+Kinga -> Ovidiu
+19: Bogdan
+Mirela -> Dorina
+Codrin -> Danut
+13: Claudiu
+Valentina -> Costin
+16: Liliana
+2: Ancuta
+Adrian -> Petronela
+10: Camelia
+Ilie -> Gheorghe
+Radu -> Andra
+16: Mihai
+18: Roxana
+Nicoleta -> Sergiu
+0: Octavian
+Camelia -> Emanuel
+Sorina -> Valentina
+8: Marilena
+Silvia -> Adriana
+Camelia -> Sorina
+4: Marin
+Florian -> Razvan
+Tiberiu -> Valentin
+Gabriel -> Ecaterina
+Matei -> Dorina
+0: Raluca
+Paul -> Gabriela
+15: Gheorghita
+Teodora -> Ovidiu
+Razvan -> Alina
+Mihaela -> Kinga
+Ciprian -> Tunde
+Codrin -> Attila
+1: Ionela
+Timea -> Nicoleta
+Cosmin -> Oana
+Camelia -> Zoltan
+14: Mihaela
+Zoltan -> Roxana
+Silvia -> Georgiana
+10: Raluca
+0: Sorina
+Ileana -> Razvan
+Mihail -> Ionel
+18: Attila
+Ionel -> Csaba
+Robert -> Daniela
+Costel -> Marian
+Angela -> Radu
+Szabolcs -> George
+7: Violeta
+Ana -> Gheorghita
+Angela -> Mihaela
+Rodica -> Diana
+Diana -> Sebastian
+Mariana -> Iulian
+2: Roxana
+Mirela -> Octavian
+Eniko -> Alexandra
+Paula -> Catalin
+Catalina -> Emanuel
+4: Gabriela
+6: Alina
+Andrei -> Istvan
+15: Geanina
+Dorin -> Tudor
+Szabolcs -> Catalina
+Anca -> Dragos
+Ana -> Camelia
+18: Radu
+8: Mircea
+Oana -> Ciprian
+10: Florentina
+Gabriela -> Carmen
+Ilie -> Anamaria
+Nicoleta -> Alina
+Andreea -> Aurelia
+9: Cornelia
+10: Anamaria
+1: Oana
+Cristian -> Marian
+Maria -> Kinga
+7: Lenuta
+Ciprian -> Tudor
+Iulia -> Cornel
+7: Emilia
+9: Raluca
+11: Attila
+Emil -> Florentina
+Daniel -> Attila
+Florina -> Lucian
+Sorina -> Emil
+7: Andrea
+Corina -> Melinda
+Bianca -> Roxana
+Cornelia -> Dumitru
+6: Marin
+11: Eniko
+Petrica -> Bogdan
+Claudiu -> Stefania
+Andrea -> Catalina
+Madalina -> Sebastian
+1: Zoltan
+Cornel -> Monica
+Stefan -> Mihail
+Luminita -> Andreea
+5: Gabriel
+Szabolcs -> Sorin
+Claudia -> Dan
+Liliana -> Cornel
+Corina -> Viorica
+15: Paula
+15: Gabriela
+Cristian -> Georgian
+10: Victor
+Katalin -> Sorin
+5: Stefan
+4: Iulia
+Stefania -> Oana
+9: Claudia
+Silvia -> Gabriela
+5: Ionut
+Maria -> Georgeta
+9: Mariana
+1: Costel
+Georgiana -> Zoltan
+13: Eniko
+Paula -> Eniko
+Lidia -> Ionela
+Eugen -> Lucian
+Mihaela -> Claudia
+8: Raluca
+Gheorghe -> Florian
+Tiberiu -> Matei
+11: Mariana
+4: Lavinia
+Angela -> Andrei
+17: Ancuta
+7: Andrei
+8: Mircea
+Silviu -> Ecaterina
+1: Stefania
+Iulia -> Petru
+Mirela -> Paul
+14: Mariana
+Victor -> George
+10: Mihaita
+Sorina -> Claudiu
+Mircea -> Claudiu
+19: Angela
+19: Nicoleta
+Stefan -> Timea
+Silviu -> Teodora
+16: Paul
+Ioana -> Daniel
+13: Emil
+Violeta -> Anca
+Raluca -> Mircea
+0: Adina
+Florin -> Dorin
+Lidia -> Iulian
+Simona -> Adina
+12: Ionela
+Angela -> Ancuta
+Eugen -> Adriana
+Bogdan -> Rodica
+Cornelia -> Florina
+Mihai -> Erika
+Silvia -> Matei
+15: Andra
+Ionel -> Adina
+10: Tunde
+Anca -> Gabriel
+Andrei -> Mihaita
+14: Andra
+Catalin -> Bianca
+15: Vlad
+Mihai -> Tiberiu
+Petrica -> Laura
+14: Diana
+Georgeta -> Madalina
+6: Melinda
+Adelina -> Szabolcs
+Teodora -> Mariana
+Cosmin -> Istvan
+Luminita -> Erika
+Laura -> Violeta
+Ilie -> Laura
+Mircea -> Costel
+9: Florina
+7: Bianca
+16: Ciprian
+Iulia -> Szabolcs
+18: Corina
+Sorina -> Irina
+Anca -> Andrei
+Silvia -> Cosmin
+Adelina -> Petru
+Codrin -> Iulia
+Emilia -> Alexandra
+Luminita -> Codrin
+Anamaria -> Marilena
+Anisoara -> Loredana
+Marin -> Raluca
+Paul -> Robert
+Andrea -> Constantin
+4: Veronica
+Teodor -> Bianca
+Ionut -> Geanina
+Daniela -> Cornelia
+Luminita -> Ioan
+Claudia -> Emilia
+Ramona -> Adelina
+10: Anisoara
+Luminita -> Florina
+Ileana -> Alexandru
+Ana -> Levente
+Marilena -> Mariana
+17: Vasilica
+Levente -> Liliana
+Liliana -> Corina
+Costel -> Ileana
+Anisoara -> Irina
+2: Anamaria
+Daniel -> Teodora
+4: Laszlo
+8: Simona
+Silvia -> Andrea
+Ciprian -> Constantin
+Alin -> Cornelia
+Anca -> Andrea
+Marin -> Vlad
+Raluca -> Mircea
+Daniel -> Angela
+14: Rodica
+0: Silviu
+Robert -> Lenuta
+11: Victor
+8: Petronela
+5: Mihail
+Petrica -> Laszlo
+Florian -> Mihaela
+Catalin -> Florin
+9: Corina
+10: Lidia
+Veronica -> Vlad
+Eniko -> Catalin
+Ioana -> Ana
+Iulia -> Silvia
+Ana -> Eniko
+0: Stefan
+15: Ioana
+5: Eugen
+15: Anamaria
+Georgeta -> Bogdan
+Victor -> Lidia
+Ion -> Vasilica
+3: Liliana
+Robert -> Ionut
+Ioana -> Petronela
+Ioana -> Tunde
+Ramona -> Ileana
+Cosmin -> Marin
+Victor -> Ana
+Gheorghe -> Lidia
+Daniela -> Laurentiu
+Silviu -> Nicolae
+Raluca -> Diana
+15: Vasilica
+Mihail -> Ion
+Ilie -> Melinda
+7: Viorica
+3: Cosmin
+Nicoleta -> Laszlo
+Vasile -> Paula
+Lavinia -> Ionel
+Petrica -> Nicolae
+2: Anca
+0: Mihaita
+Paul -> Daniel
+16: Ionut
+12: Ilie
+16: Katalin
+Emil -> Raluca
+Claudia -> Zsolt
+17: Elena
+8: Silviu
+Timea -> Ioana
+Anisoara -> Iulia
+Anamaria -> Mihaita
+19: Claudia
+Zsolt -> Elena
+Ramona -> Paul
+4: Costel
+Ion -> Lavinia
+11: Dorin
+13: Silviu
+Ionut -> Sorina
+Daniela -> Adelina
+8: Adrian
+Ionela -> Veronica
+Costel -> Georgiana
+Dorin -> Nicoleta
+9: Laurentiu
+Simona -> Marilena
+Claudia -> Gheorghe
+1: Mirela
+13: Daniela
+5: Victor
+Rodica -> Anamaria
+Costel -> Mirela
+Ionut -> Luminita
+Vasile -> Stefan
+11: Florin
+Loredana -> Marin
+Stefan -> Mihail
+19: Mihai
+Ramona -> Ilie
+6: Georgeta
+Stefan -> Paula
+Florin -> Costel
+Corina -> Luminita
+Alin -> Victor
+9: Claudia
+Ionut -> Veronica
+13: Stefan
+Ionut -> Ilie
+11: Anca
+12: Viorica
+12: Maria
+15: Gheorghita
+Andra -> Maria
+12: Ramona
+9: Claudia
+Florin -> Georgeta
+Eugen -> Geanina
+Ionela -> Florian
+Lavinia -> Cosmin
+Carmen -> Rodica
+5: Ramona
+Ion -> Dorin
+Anisoara -> Florin
+2: Adrian
+Simona -> Liviu
+7: Teodor
+Cristian -> Victor
+8: Gheorghita
+3: Levente
+Viorica -> Cristian
+8: Ionut
+Liviu -> Ramona
+8: Simona
+14: Anca
+Radu -> Laurentiu
+Zsolt -> Vasile
+Gheorghita -> Ioana
+0: Mirela
+8: Alin
+Maria -> Viorica
+Mihai -> Petrica
+Ionut -> Lavinia
+6: Simona
+15: Robert
+9: Petrica
+2: Ciprian
+Emil -> Claudia
+Robert -> Stefania
+Eugen -> Liliana
+Corina -> Vasilica
+Ion -> Maria
+Silvia -> Robert
+Aurelia -> Mihai
+Carmen -> Zsolt
+Angela -> Adrian
+Anisoara -> Ionut
+9: Adrian
+19: Ciprian
+Mirela -> Silvia
+19: Loredana
+7: Timea
+Petrica -> Gheorghita
+12: Cristian
+Ion -> Timea
+13: Cristian
+1: Simona
+19: Ciprian
+Adrian -> Mihai
+Carmen -> Nicusor
+Andra -> Carmen
+Aurelia -> Simona
+Ion -> Simona
+Petrica -> Cristian
+12: Liviu
+Angela -> Petrica
+Ionela -> Adrian
+Corina -> Eugen
+Mirela -> Anisoara
+Liviu -> Anca
+Ciprian -> Ionela
+Corina -> Emil
+2: Alin
+Stefan -> Aurelia
+Ciprian -> Alin
+17: Liviu
+Corina -> Teodor
+Vasile -> Silviu
+Teodor -> Daniela
+Mirela -> Katalin
+Anisoara -> Corina
+16: Ciprian
+18: Mirela
+Levente -> Loredana
+Angela -> Anisoara
+Mirela -> Liviu
+Andra -> Mirela
+Ciprian -> Levente
+Radu -> Andra
+17: Radu
+13: Ciprian
+4: Radu
+Teodor -> Radu
+Ion -> Teodor
+Katalin -> Silviu
+6: Vasile
+Nicusor -> Stefan
+Katalin -> Vasile
+Angela -> Nicusor
+2: Angela
+Ciprian -> Katalin
+13: Ion
+Ion -> Ciprian
+Ion -> Angela
+JOC_12
+Ramona -> Adelina
+Florentina -> Teodora
+Codrin -> Nicusor
+8: Sebastian
+Adrian -> Adelina
+0: Marilena
+Bianca -> Ioan
+Iulia -> Ancuta
+Florentina -> Maria
+Petrica -> Raluca
+Lidia -> Attila
+Adriana -> Lucian
+7: Andra
+6: Georgeta
+Viorel -> Alexandra
+Catalin -> Andrea
+Ioana -> Raluca
+Emanuel -> George
+10: Anamaria
+15: Laszlo
+Viorel -> Irina
+Liviu -> Monica
+Iuliana -> Emil
+19: Istvan
+Viorica -> Timea
+Oana -> Mirela
+10: Gabriela
+2: Nicolae
+4: Tunde
+Sorina -> Anamaria
+Dorin -> Angela
+Angela -> Carmen
+0: Florina
+13: Nicoleta
+Timea -> Bogdan
+Ioan -> Sergiu
+Laura -> Paula
+19: Andra
+Constantin -> Teodor
+12: Laszlo
+Laurentiu -> Ana
+Silvia -> Mihaela
+8: Simona
+Radu -> Paula
+Petronela -> Ioan
+Melinda -> Silvia
+Cristina -> Adina
+Alin -> Levente
+6: Gabriela
+15: Geanina
+15: Ileana
+15: Emanuel
+Szabolcs -> Alin
+1: Madalina
+Razvan -> Bianca
+7: Sorin
+4: Teodor
+Kinga -> Catalin
+Victor -> Radu
+18: Diana
+Georgian -> Daniela
+15: Petronela
+16: Marius
+17: Elena
+Bianca -> Ionel
+7: Irina
+Andrea -> Vlad
+Adrian -> Danut
+10: Ancuta
+Valentin -> Marinela
+15: Emilia
+Robert -> Petrica
+Iulian -> Nicusor
+Emilia -> Monica
+Stefania -> George
+Dorina -> Ion
+10: Kinga
+Diana -> Luminita
+15: Marilena
+Marius -> Marinela
+Andrea -> Diana
+2: Elena
+Florina -> Luminita
+2: Petronela
+19: Petru
+Mircea -> Madalina
+11: Ionut
+Iulian -> Cristina
+Ovidiu -> Csaba
+3: Stefania
+Diana -> Kinga
+13: Adina
+Cornelia -> Emanuel
+0: Iulia
+Alina -> Sebastian
+Viorel -> Constantin
+13: Tunde
+16: Viorica
+Gheorghe -> Vlad
+Matei -> Tunde
+Diana -> Andra
+Laurentiu -> Carmen
+Paul -> Ionela
+12: Cornel
+Iulian -> Marilena
+Laszlo -> Ramona
+Marilena -> Sergiu
+7: Lidia
+Lucian -> Veronica
+16: Claudia
+Petru -> Constantin
+12: Cornel
+15: Robert
+Octavian -> Iulia
+7: Victor
+Eniko -> Ovidiu
+Gheorghe -> Kinga
+16: Dorin
+12: Teodora
+Cornel -> Florin
+Claudiu -> Angela
+6: Mirela
+13: Cornel
+12: Petronela
+Zoltan -> Ionela
+Aurelia -> Loredana
+Vasile -> Ancuta
+Emilia -> Mihai
+Katalin -> Madalina
+Eniko -> Bogdan
+10: Levente
+Robert -> Geanina
+Florina -> Octavian
+Victor -> Szabolcs
+Catalin -> Mirela
+Florin -> Ovidiu
+Cornelia -> Csaba
+17: Silviu
+Cristian -> Marin
+19: Erika
+Catalina -> Ion
+3: Iulia
+Ana -> Anisoara
+Irina -> Georgiana
+17: Marius
+Georgeta -> Marius
+2: Tiberiu
+Claudiu -> Laurentiu
+Iulian -> Laurentiu
+Claudiu -> Tunde
+Roxana -> Ileana
+Silvia -> Marian
+Ioana -> Lavinia
+Marian -> Andrea
+Octavian -> Iulia
+11: Adrian
+Ecaterina -> Cristian
+Erika -> Anca
+Veronica -> Andrei
+Danut -> Oana
+Loredana -> Geanina
+Cornelia -> Cristina
+2: Zsolt
+Dumitru -> Gabriela
+19: Oana
+18: Gheorghita
+Silviu -> Georgiana
+Ioana -> Ana
+12: Vasilica
+18: Florian
+Ramona -> Anisoara
+0: Roxana
+19: Roxana
+Mihaita -> Adrian
+Paul -> Loredana
+Mihaela -> Stefania
+Petrica -> Andrei
+Dorin -> Cristian
+Diana -> Valentina
+8: Viorica
+Lucian -> Mihaela
+Simona -> Szabolcs
+Gabriel -> Erika
+Nicoleta -> Andra
+Ilie -> Cornel
+Costin -> Catalin
+Dumitru -> Katalin
+Florina -> Octavian
+Katalin -> Maria
+Radu -> Valentin
+Dan -> Mihaita
+Anca -> Liviu
+Valentina -> Melinda
+9: Matei
+11: Violeta
+Matei -> Costel
+17: Daniel
+Anamaria -> Costel
+1: Adriana
+Ciprian -> Mircea
+Ciprian -> Tiberiu
+Iulian -> Teodora
+Catalina -> Dorin
+Ioana -> Katalin
+Vasile -> Dorina
+Eniko -> Andreea
+Dorin -> Claudiu
+Zoltan -> Laura
+11: Catalina
+Adina -> Claudiu
+Erika -> Florentina
+Matei -> Emil
+Irina -> Eniko
+Vasilica -> Irina
+11: Lavinia
+Eniko -> Catalina
+Victor -> Ramona
+19: Alina
+10: Robert
+Melinda -> Valentina
+Mihai -> Lucian
+Timea -> Alin
+Laura -> Lavinia
+7: Gabriel
+Matei -> Victor
+15: Emilia
+Liliana -> Silvia
+17: Lenuta
+Tudor -> Gabriela
+4: Costin
+9: Ileana
+Petrica -> Viorel
+15: Dumitru
+Gheorghita -> Alexandra
+Viorica -> Anca
+Liliana -> Dan
+Lidia -> Corina
+14: Silviu
+18: Matei
+0: Cosmin
+Danut -> Adrian
+Ecaterina -> Marilena
+Tiberiu -> Catalina
+Laura -> Dan
+1: Adina
+Corina -> Mihaita
+Gheorghe -> Daniela
+2: Tudor
+5: Emilia
+Ecaterina -> Camelia
+Ciprian -> Timea
+Cornelia -> Robert
+Anamaria -> Adina
+Mariana -> Liviu
+Georgian -> Roxana
+14: Attila
+Claudia -> Sorin
+3: Paul
+Levente -> Ciprian
+Zoltan -> Roxana
+4: Lenuta
+Laura -> Erika
+Melinda -> Andreea
+Alexandru -> Laszlo
+Tudor -> Alexandru
+Veronica -> Matei
+Tiberiu -> Marius
+Alina -> Violeta
+Codrin -> Iulian
+Sorin -> Georgeta
+9: Nicoleta
+Petrica -> Nicolae
+Vasilica -> Danut
+Dumitru -> Silviu
+Sebastian -> Lidia
+17: Laura
+Ioana -> Veronica
+Stefan -> Dorin
+9: Camelia
+Emanuel -> Gabriel
+Vasilica -> Mariana
+Alexandru -> Attila
+Corina -> Sorin
+16: Florina
+Rodica -> Petrica
+17: Petronela
+Violeta -> Matei
+Zoltan -> Daniel
+16: Stefan
+Mariana -> Emilia
+18: Robert
+Dragos -> Claudia
+Ionut -> Georgeta
+Florina -> Zsolt
+4: Viorica
+Emanuel -> Ioana
+Adriana -> Nicolae
+15: Mircea
+Alina -> Razvan
+9: Diana
+Florin -> Viorel
+5: Gabriel
+Teodor -> Mihai
+Mircea -> Codrin
+Radu -> Vasilica
+9: Laszlo
+Sebastian -> Mariana
+Elena -> Eniko
+Marian -> Radu
+Corina -> Florina
+5: Florentina
+Zsolt -> Levente
+Teodor -> Camelia
+Aurelia -> Valentin
+8: Cornel
+Costin -> Adriana
+5: Florin
+11: Simona
+0: Georgian
+Ileana -> Elena
+Costin -> Cosmin
+Razvan -> Gheorghita
+Ilie -> Iuliana
+Cornel -> Daniel
+Marian -> Florentina
+Gheorghe -> Simona
+Sorina -> Laura
+Victor -> Ionut
+Marian -> Petru
+Zsolt -> Alexandru
+Ilie -> Marian
+10: Nicoleta
+Ionut -> Sebastian
+Cosmin -> Laszlo
+Gheorghita -> Zoltan
+Gheorghe -> Alina
+9: Petronela
+19: Dragos
+Adriana -> Ecaterina
+Ionut -> Cornel
+Costin -> Gabriel
+13: Razvan
+4: Tiberiu
+Ioana -> Emanuel
+Alina -> Silviu
+Costin -> Emilia
+Florin -> Simona
+Nicoleta -> Victor
+Ileana -> Adriana
+4: Mihail
+9: Petronela
+Oana -> Ilie
+Diana -> Ilie
+12: Costin
+Claudia -> Dorina
+Ecaterina -> Stefan
+0: Robert
+2: Gheorghe
+Ioana -> Viorica
+16: Gheorghe
+Mircea -> Oana
+Gheorghe -> Viorica
+Rodica -> Tudor
+Georgian -> Razvan
+11: Tiberiu
+15: Liliana
+4: Melinda
+Nicoleta -> Eugen
+Petru -> Cosmin
+Zsolt -> Gheorghe
+Tudor -> Melinda
+Florian -> Ciprian
+Dumitru -> Bianca
+Costin -> Gheorghe
+Liliana -> Violeta
+18: Florina
+18: Rodica
+Georgian -> Vasile
+Florian -> Liliana
+12: Nicoleta
+Codrin -> Ileana
+Liliana -> Paul
+Ecaterina -> Stefania
+Corina -> Georgian
+Florian -> Claudia
+Gheorghita -> Florin
+Diana -> Iuliana
+Tiberiu -> Alina
+Iulian -> Petronela
+16: Istvan
+Tudor -> Corina
+12: Marin
+Cornelia -> Robert
+Sorina -> Vasilica
+9: Lidia
+5: Dragos
+Cornelia -> Dragos
+Ioana -> Lidia
+Stefan -> Paul
+Liliana -> Vasile
+15: Anamaria
+6: Cornelia
+Costin -> Petronela
+Iulian -> Sorina
+Ecaterina -> Ionel
+Istvan -> Florina
+Iulian -> Istvan
+Rodica -> Mircea
+Anamaria -> Istvan
+Diana -> Costin
+Georgian -> Sorina
+8: Ioana
+Tudor -> Nicoleta
+Tudor -> Ioana
+Georgian -> Ionut
+17: Elena
+Tudor -> Elena
+Iulian -> Codrin
+12: Nicoleta
+Florian -> Tiberiu
+Iulian -> Aurelia
+2: Dumitru
+Cornelia -> Nicoleta
+13: Rodica
+Dragos -> Diana
+17: Aurelia
+16: Florian
+Florian -> Anamaria
+Cornelia -> Stefan
+Iulian -> Dumitru
+Cornelia -> Mihail
+Iulian -> Georgian
+2: Gheorghita
+Dumitru -> Florian
+Cornelia -> Rodica
+Lenuta -> Rodica
+Zsolt -> Iulian
+Cornelia -> Aurelia
+Teodor -> Liliana
+Dumitru -> Marin
+10: Zoltan
+14: Petru
+Dragos -> Cornelia
+Cornelia -> Dragos
+Cornelia -> Ecaterina
+8: Dumitru
+Teodor -> Lenuta
+Tudor -> Petru
+Florian -> Eugen
+Dumitru -> Cornelia
+Gheorghita -> Mihail
+18: Zsolt
+Gheorghita -> Tudor
+Dumitru -> Zoltan
+Dumitru -> Gheorghita
+8: Dumitru
+0: Teodor
+9: Lenuta
+Zsolt -> Lenuta
+Costin -> Dumitru
+JOC_13
+Irina -> Szabolcs
+16: Ecaterina
+Gheorghita -> Radu
+Stefan -> Timea
+Dorin -> Zoltan
+Georgiana -> Florian
+15: Marinela
+Emilia -> Stefan
+17: Silviu
+18: Sorin
+11: Mirela
+9: Danut
+1: Codrin
+Laurentiu -> Codrin
+Szabolcs -> Marian
+15: Iuliana
+12: Stefania
+1: Costel
+Gabriela -> Dorin
+Mihaita -> Georgiana
+Corina -> Ecaterina
+Iulian -> Razvan
+0: Liliana
+Mihaita -> Ovidiu
+Claudia -> Iuliana
+3: Alexandra
+4: Vasilica
+Adina -> Valentina
+10: Paula
+Mihaela -> Ecaterina
+Georgian -> Mihaela
+Emil -> Gabriela
+Mariana -> Paul
+Iulia -> Istvan
+Nicoleta -> Attila
+Adriana -> Laurentiu
+Florin -> Georgeta
+Lucian -> Aurelia
+3: Florina
+Ionut -> Paul
+Mihaita -> Marius
+18: Catalina
+Valentina -> Emanuel
+Dorina -> Florina
+Anisoara -> Gabriela
+Stefan -> Raluca
+Matei -> Andrea
+0: Andrei
+3: Sorina
+14: Ilie
+Csaba -> Valentin
+Vasilica -> Mirela
+Ovidiu -> George
+8: Ileana
+Octavian -> Vasile
+Costin -> Ciprian
+11: Bogdan
+Mihaita -> Catalina
+2: Radu
+Emil -> Marius
+Luminita -> Madalina
+Ilie -> Alin
+Dorin -> Laura
+Ion -> Kinga
+4: Mihail
+13: Corina
+Claudia -> Georgiana
+Carmen -> Ioan
+Petru -> Nicolae
+Lenuta -> Robert
+Laszlo -> Eniko
+Ioana -> Florin
+16: Andreea
+9: Gabriel
+Alexandru -> Ioan
+13: Sebastian
+Cristian -> Octavian
+Kinga -> Florentina
+Teodor -> Georgian
+Florina -> Veronica
+0: Ionela
+10: Eugen
+2: Mirela
+11: Sorina
+17: Csaba
+Vasilica -> Alexandra
+Iulian -> Stefania
+11: Cosmin
+6: Madalina
+Gheorghe -> Csaba
+Cornel -> Petru
+15: Daniela
+Luminita -> Adrian
+Camelia -> Laura
+12: Sebastian
+Dorina -> Paula
+19: Valentina
+Eugen -> Camelia
+Ana -> Catalina
+18: Tudor
+Marilena -> Madalina
+10: Andra
+10: Ionela
+Dumitru -> Sorina
+Ilie -> Alin
+Roxana -> Vasilica
+Ionel -> Andrea
+10: Mircea
+Lavinia -> Roxana
+Teodora -> Liliana
+Stefania -> Ionela
+Florina -> Andreea
+Adrian -> Ilie
+Valentin -> Luminita
+Timea -> Ion
+4: Monica
+Claudia -> Eugen
+Anamaria -> Valentina
+Mircea -> Viorel
+3: Emilia
+1: Timea
+14: Eniko
+Bogdan -> Laurentiu
+Stefan -> Mircea
+Bianca -> Radu
+15: Irina
+14: Viorica
+Adriana -> Petrica
+Erika -> Alexandra
+Sorina -> Dumitru
+11: Sorin
+2: Csaba
+Ionut -> Mihail
+Mircea -> Vlad
+Petronela -> Adriana
+8: Cornelia
+Cosmin -> Mihai
+Csaba -> Sorin
+Codrin -> Sergiu
+Carmen -> Luminita
+15: Monica
+Mirela -> Teodora
+Bianca -> Iulia
+7: Adriana
+Liliana -> Mihaita
+Stefan -> Anisoara
+Emanuel -> Eniko
+Camelia -> Szabolcs
+19: Adrian
+Ilie -> Silvia
+Dorina -> Ioana
+Gheorghita -> Carmen
+Loredana -> Dorin
+Istvan -> Claudiu
+4: Oana
+Lenuta -> Razvan
+Mihai -> Kinga
+1: Vasilica
+Sebastian -> Cristian
+Bianca -> Cosmin
+Florentina -> Dragos
+Ileana -> Costin
+Mihai -> Ileana
+Catalin -> Eugen
+Anca -> Ancuta
+Victor -> George
+Loredana -> Cristian
+6: Ciprian
+Emanuel -> Costin
+Petru -> Diana
+Octavian -> Roxana
+3: Octavian
+11: Nicolae
+Ioana -> Tunde
+6: Nicusor
+Erika -> Oana
+17: Viorel
+Liliana -> Levente
+0: Georgian
+Cosmin -> Stefania
+Liliana -> Erika
+9: Mircea
+Vlad -> Vasilica
+Ionut -> Corina
+Ancuta -> Ramona
+Alexandru -> Petronela
+Anamaria -> Emilia
+4: Ciprian
+13: Matei
+Cosmin -> Marin
+Erika -> Marilena
+Alexandru -> Teodora
+Anamaria -> Liviu
+5: Daniela
+5: Vlad
+Ileana -> Andreea
+1: Gheorghe
+Nicusor -> Corina
+Mihail -> Adriana
+16: Georgian
+16: Liviu
+Codrin -> Timea
+Irina -> Mihai
+19: Stefan
+7: Mircea
+4: Simona
+1: Anamaria
+Andrei -> Vasile
+Camelia -> Andra
+Ancuta -> Matei
+Cosmin -> Emanuel
+Mariana -> Silvia
+5: Monica
+Dragos -> Florin
+10: Gabriel
+Silviu -> Monica
+Adina -> Raluca
+Catalin -> Georgeta
+Silviu -> Mihaela
+Catalin -> Lavinia
+Ionela -> Adina
+Nicusor -> Lidia
+Tiberiu -> Nicusor
+Ionel -> Dumitru
+Ancuta -> Istvan
+Georgian -> Csaba
+9: Silviu
+Iulian -> Dorina
+17: Sergiu
+Stefan -> Liliana
+Gabriel -> Anamaria
+16: Elena
+Ion -> Anisoara
+1: Mirela
+9: Petronela
+Dan -> Anamaria
+2: Silviu
+Tiberiu -> Mirela
+Petrica -> Simona
+Cristina -> Lenuta
+Cristina -> Petronela
+Danut -> Daniel
+14: Ovidiu
+Stefan -> Andra
+15: Aurelia
+Veronica -> Ioana
+Ramona -> Petrica
+Sorina -> Adrian
+14: Ramona
+Irina -> Claudiu
+5: Georgian
+Marinela -> Mircea
+Emil -> Paula
+Mariana -> Adelina
+Costel -> Danut
+17: Valentin
+Emil -> Cornel
+Dorina -> Mariana
+Octavian -> Florina
+Petru -> Florentina
+Dan -> Cornel
+19: Gheorghe
+Vlad -> Dorina
+Constantin -> Tunde
+2: Dan
+Geanina -> Maria
+Codrin -> Dragos
+Loredana -> Danut
+1: Marilena
+Lenuta -> Robert
+Constantin -> Adelina
+Dan -> Ionut
+Ion -> Oana
+Maria -> Victor
+Iulian -> Diana
+17: Florian
+Sergiu -> Carmen
+Zsolt -> Iuliana
+Lenuta -> Anca
+Catalin -> Marinela
+Gheorghe -> Adina
+Camelia -> Victor
+10: Iulia
+18: Ionel
+Lavinia -> Anca
+2: Ancuta
+Octavian -> Stefan
+6: Sergiu
+Sergiu -> Irina
+Erika -> Daniela
+4: Mihaita
+Valentin -> Daniela
+17: Ancuta
+Veronica -> Ramona
+17: Iulian
+Claudia -> Silviu
+Monica -> Zoltan
+Tudor -> Catalin
+6: Georgian
+3: Attila
+Nicolae -> Camelia
+8: Nicolae
+Gheorghe -> Tiberiu
+Lenuta -> Rodica
+Valentin -> Levente
+Lidia -> Marian
+13: Viorica
+Marinela -> Ionel
+Mihaita -> Bogdan
+Gheorghe -> Georgian
+3: Tudor
+10: Viorel
+18: Simona
+Katalin -> Ionut
+14: Florian
+Dan -> Iulia
+Claudia -> Nicusor
+Elena -> Marilena
+9: Daniel
+Ovidiu -> Veronica
+16: Rodica
+2: Alexandru
+Florian -> Alexandru
+4: Ionel
+Loredana -> Cornelia
+Lidia -> Gheorghe
+Ion -> Ilie
+7: Aurelia
+Bianca -> Lucian
+Alexandru -> Cornelia
+Sebastian -> Ion
+Ileana -> Cosmin
+3: Emil
+18: Teodor
+16: Sorina
+Constantin -> Erika
+Ciprian -> Sebastian
+9: Teodor
+Teodor -> Marin
+Lavinia -> Sorin
+Iulian -> Aurelia
+Dan -> Cristina
+Maria -> Ileana
+Emil -> Vlad
+Lucian -> Emilia
+Silviu -> Nicolae
+Emil -> Gabriel
+Octavian -> Ovidiu
+13: Florian
+13: Costel
+16: Geanina
+9: Geanina
+Elena -> Gheorghita
+13: Ionel
+Liviu -> Andrei
+Gheorghita -> Iulian
+12: Viorica
+18: Silviu
+Iulian -> Viorel
+Ana -> Liviu
+Irina -> Tiberiu
+Mariana -> Laszlo
+Lidia -> Gheorghita
+Ana -> Silviu
+Alexandru -> Gabriel
+11: Cristina
+8: Bianca
+4: Mihail
+Elena -> Andrei
+Sebastian -> Gheorghe
+Maria -> Iulian
+17: Simona
+Teodor -> Alexandru
+14: Violeta
+Valentin -> Katalin
+Sebastian -> Codrin
+Sebastian -> Loredana
+Ana -> Lenuta
+Ancuta -> Irina
+15: Mariana
+0: Monica
+Loredana -> Mihail
+Ionela -> Melinda
+1: Geanina
+Lavinia -> Ionel
+Ancuta -> Catalin
+1: Dan
+Monica -> Teodor
+Angela -> Cristina
+Nicoleta -> Teodor
+Loredana -> Mariana
+19: Loredana
+Lavinia -> Maria
+Elena -> Monica
+Costel -> Ionela
+Mihaita -> Lucian
+Dan -> Ciprian
+15: Violeta
+Costel -> Ana
+Laszlo -> Alina
+Petru -> Sebastian
+Marinela -> Matei
+Melinda -> Violeta
+Dan -> Alina
+Valentin -> Claudia
+Florian -> Attila
+Lidia -> Ana
+7: Bianca
+Mihaita -> Constantin
+Nicoleta -> Angela
+1: Katalin
+Loredana -> Claudia
+Dan -> Constantin
+Lidia -> Bogdan
+Mihaita -> Angela
+8: Elena
+Nicoleta -> Loredana
+8: Zsolt
+16: Lidia
+Daniel -> Zsolt
+6: Zsolt
+Valentin -> Katalin
+Simona -> Zsolt
+2: Viorica
+2: Marinela
+Dan -> Tudor
+Valentin -> Melinda
+Petru -> Rodica
+7: Viorica
+3: Emil
+5: Bianca
+7: Marinela
+Simona -> Lavinia
+Tudor -> Daniel
+Florian -> Valentin
+16: Costel
+Elena -> Lidia
+12: Emil
+Sergiu -> Elena
+Octavian -> Violeta
+8: Costel
+Simona -> Geanina
+Florian -> Elena
+Laszlo -> Dan
+Nicoleta -> Emil
+Viorica -> Simona
+1: Costel
+13: Petru
+Petru -> Dan
+Marinela -> Petru
+Florian -> Costel
+Costel -> Nicoleta
+Mihaita -> Marinela
+15: Tudor
+0: Emil
+Geanina -> Florian
+Octavian -> Emil
+Mihaita -> Ancuta
+18: Sorina
+12: Laszlo
+8: Sorina
+0: Nicoleta
+Tudor -> Mihaita
+Nicoleta -> Sergiu
+Tudor -> Costel
+Geanina -> Bianca
+Octavian -> Nicoleta
+JOC_14
+Petru -> Daniela
+17: Petrica
+Marius -> Nicusor
+Mirela -> Florina
+14: Ionel
+Florentina -> Stefania
+Valentina -> Georgeta
+Florin -> Dragos
+Szabolcs -> Mirela
+Stefan -> Maria
+Laszlo -> Florina
+5: Ionut
+Luminita -> Anamaria
+Anamaria -> Liliana
+Maria -> Adina
+18: Ioan
+Sebastian -> Csaba
+Andra -> Maria
+Laurentiu -> Mariana
+Iuliana -> Petru
+Costel -> Andreea
+Viorica -> Roxana
+5: Ioana
+18: Florin
+8: Alexandru
+Rodica -> Gheorghe
+Teodor -> Andrei
+Ioana -> Viorica
+Ana -> Rodica
+5: Sergiu
+Lenuta -> Gheorghe
+Lavinia -> Valentina
+6: Andrea
+Gheorghita -> Valentin
+Laura -> Daniel
+Marinela -> Camelia
+Stefan -> Nicusor
+Aurelia -> Dan
+Andrea -> Iuliana
+Cosmin -> Florin
+Loredana -> Raluca
+19: Ana
+2: Alexandru
+Mirela -> Petrica
+3: Radu
+Laurentiu -> Bogdan
+Roxana -> Istvan
+Monica -> Loredana
+10: Ancuta
+Katalin -> Andreea
+Camelia -> Georgian
+Ioan -> Daniel
+Emilia -> Dumitru
+Costel -> Radu
+Violeta -> Petru
+Istvan -> Emanuel
+13: Nicolae
+Razvan -> Catalina
+2: Mircea
+Daniela -> Ilie
+11: Gabriel
+George -> Rodica
+1: Ioan
+14: Dragos
+Corina -> Cristian
+Attila -> Raluca
+Laurentiu -> Florin
+Iulian -> Sebastian
+Mihaita -> Silviu
+Ilie -> Claudia
+10: Stefania
+3: Angela
+Marilena -> Viorel
+Silviu -> Simona
+Nicoleta -> Andrei
+Andra -> Teodora
+Octavian -> Iulian
+Ionel -> Andra
+14: Catalin
+Ramona -> Sorina
+3: Robert
+Anisoara -> Ionel
+Anca -> Ancuta
+Tunde -> Razvan
+6: Catalina
+Teodora -> Ramona
+11: Silviu
+1: Lenuta
+Daniela -> Georgian
+Georgeta -> Irina
+Vlad -> Csaba
+Marinela -> Adrian
+7: Costel
+11: Mariana
+19: Vasile
+Cosmin -> Sorina
+Alina -> Iuliana
+Mircea -> Georgeta
+17: Laurentiu
+Vasilica -> Nicolae
+19: Mihai
+Stefan -> Viorica
+3: Nicolae
+18: Sebastian
+Ioan -> Paula
+Zoltan -> Marinela
+4: Ovidiu
+Viorel -> Szabolcs
+Ilie -> Mirela
+Adrian -> Cornelia
+Ionel -> Nicoleta
+Constantin -> Ilie
+Radu -> Ileana
+Emil -> Gabriel
+Petronela -> Corina
+Veronica -> Istvan
+Ionela -> Teodor
+19: Nicoleta
+10: Anamaria
+Marilena -> Alexandru
+9: Mihaela
+11: Levente
+Andrea -> Nicoleta
+Eugen -> Vlad
+Mihaela -> Bianca
+Zsolt -> Carmen
+11: Paul
+Mihail -> Corina
+Sorin -> Aurelia
+0: Valentina
+Tunde -> Ion
+Irina -> Ionela
+Georgiana -> Mihail
+Emanuel -> Radu
+Dorina -> Alexandra
+Diana -> Iulian
+3: Katalin
+Costin -> Vasilica
+Aurelia -> Daniela
+Vlad -> Lidia
+Laura -> Marinela
+0: Oana
+16: Mariana
+17: Eugen
+Monica -> Anisoara
+Ancuta -> Marius
+Catalin -> Silvia
+Dumitru -> Octavian
+Carmen -> Andra
+Ancuta -> Cristian
+Robert -> Simona
+8: Constantin
+Petronela -> Roxana
+Laura -> Emanuel
+15: Anisoara
+17: Victor
+Catalin -> Dorina
+Carmen -> Dorin
+10: Ionel
+Alexandru -> Florentina
+Costin -> Irina
+George -> Petrica
+Constantin -> Paul
+Tiberiu -> Aurelia
+17: Veronica
+19: Stefan
+Nicolae -> Costel
+7: Razvan
+14: Eniko
+10: Zsolt
+Gheorghita -> Cosmin
+Iulia -> Dorin
+Ioan -> Marius
+Iulia -> Emil
+18: Mihail
+Laurentiu -> Carmen
+Sorin -> Veronica
+Eniko -> Camelia
+Alexandru -> Bianca
+Lucian -> Tunde
+3: Stefan
+4: Cornel
+10: Angela
+Constantin -> Matei
+Marilena -> Claudia
+Eugen -> Veronica
+19: Georgiana
+Lavinia -> Mihaela
+Valentin -> Attila
+19: Robert
+Dumitru -> Cristina
+Ana -> Gabriel
+George -> Robert
+Claudiu -> Kinga
+Marilena -> Alina
+Eugen -> Mariana
+Dragos -> George
+Ionut -> Florian
+Elena -> Laszlo
+Valentin -> Kinga
+Melinda -> Lenuta
+Robert -> Claudiu
+8: Vasile
+Vasilica -> Marian
+Liliana -> Iulia
+Ileana -> Anca
+11: Dan
+4: Ioana
+Dragos -> Bogdan
+Mihaita -> Vlad
+Razvan -> Ancuta
+Ecaterina -> Alina
+Iulia -> Ion
+3: Catalina
+17: Cristina
+0: Claudiu
+18: Geanina
+18: Alexandra
+15: Catalina
+Cosmin -> Mihaita
+Sorin -> Anisoara
+Valentin -> Paul
+16: Timea
+4: Ioan
+2: Lidia
+Valentina -> Stefania
+8: Ecaterina
+7: Katalin
+8: Marin
+Liliana -> Emil
+Zsolt -> Matei
+17: Nicolae
+Diana -> Iulia
+Costel -> Catalin
+8: Ionut
+Eugen -> Marian
+Tudor -> Ionela
+Adrian -> Sergiu
+Catalin -> Tunde
+Cornelia -> Elena
+12: Vasile
+Ioan -> Eniko
+Georgiana -> Timea
+15: Valentina
+Teodora -> Razvan
+Liviu -> Alexandru
+Lucian -> Florian
+Marin -> Alexandra
+Liviu -> Cornel
+Lidia -> Claudiu
+Florentina -> Szabolcs
+Cosmin -> Dumitru
+Octavian -> George
+Adelina -> Alin
+Oana -> Attila
+Costin -> Victor
+Mihail -> Valentin
+Codrin -> Mihail
+Vasile -> Danut
+Nicolae -> Zsolt
+3: Geanina
+Nicolae -> Anca
+12: Gheorghita
+Mihaita -> Robert
+17: Katalin
+Elena -> Zoltan
+Liviu -> Alin
+9: Laura
+8: Adelina
+6: Timea
+14: Dragos
+Stefan -> Liviu
+Zoltan -> Vasile
+Mihaita -> Mihaela
+Sergiu -> Ionel
+Violeta -> Zoltan
+Gabriela -> Mihai
+4: Catalina
+Angela -> Lucian
+Codrin -> Petronela
+Marin -> Petronela
+15: Dragos
+Luminita -> Dan
+Stefan -> Paula
+Elena -> Liliana
+5: Tiberiu
+Adelina -> Lucian
+16: Cornel
+8: Ramona
+Ana -> Eugen
+Cornelia -> Cosmin
+Adrian -> Ecaterina
+Catalina -> Tudor
+Ciprian -> Silviu
+Andrea -> Ovidiu
+Elena -> Teodor
+Florentina -> Ecaterina
+Lenuta -> Oana
+Ovidiu -> Codrin
+Adina -> Madalina
+15: Costel
+Ana -> Lenuta
+Tudor -> Viorel
+Ovidiu -> Geanina
+6: Laura
+Dorina -> Costin
+4: Dorina
+5: Valentina
+Laura -> Emilia
+Mihai -> Gheorghita
+Cornel -> Anamaria
+15: Octavian
+2: Catalina
+0: Costel
+Monica -> Mircea
+3: Eugen
+2: Laszlo
+Liviu -> Oana
+Teodora -> Erika
+5: Ovidiu
+Mircea -> Laurentiu
+12: Codrin
+12: Silvia
+4: Ovidiu
+19: Catalina
+Nicolae -> Liviu
+16: Mihai
+Lavinia -> Catalin
+18: Eniko
+9: Dorina
+13: Ramona
+18: Lidia
+2: Andrea
+1: Gheorghita
+Teodora -> Cornelia
+0: Nicolae
+Ciprian -> Ileana
+Loredana -> Marilena
+13: Tiberiu
+19: Emilia
+Elena -> Cristina
+Costel -> Madalina
+Melinda -> Angela
+Eugen -> Katalin
+Laurentiu -> Mihai
+0: Zsolt
+Elena -> Tudor
+Nicolae -> Andrea
+Melinda -> Nicolae
+3: Ioana
+Silvia -> Sebastian
+Katalin -> Vasile
+Ioan -> Marin
+Erika -> Gabriela
+Ioan -> Timea
+Catalina -> Sorin
+Dragos -> Octavian
+7: Erika
+Ioan -> Silvia
+Cornel -> Mihaita
+Cornel -> Sorin
+Laurentiu -> Codrin
+0: Cornel
+Katalin -> Ciprian
+Victor -> Ramona
+Ciprian -> Ioan
+Laura -> Andrea
+18: Levente
+19: Vasilica
+Dragos -> Geanina
+Lidia -> Ovidiu
+10: Eniko
+Florentina -> Cornel
+Diana -> Catalina
+17: Diana
+Eugen -> Luminita
+Adelina -> Ionut
+15: Lidia
+Violeta -> Marin
+11: Laszlo
+Victor -> Emilia
+Teodora -> Angela
+Victor -> Ioana
+13: Valentina
+Adrian -> Gheorghita
+Ionut -> Violeta
+Dorina -> Georgiana
+5: Elena
+Laura -> Katalin
+Erika -> Laszlo
+Laura -> Marilena
+Eniko -> Stefan
+Costel -> Valentina
+Mircea -> Monica
+Elena -> Zsolt
+16: Teodora
+Costel -> Georgiana
+Costin -> Vasilica
+6: Luminita
+14: Constantin
+Laurentiu -> Florentina
+Erika -> Adriana
+Eniko -> Laurentiu
+Diana -> Lidia
+Diana -> Eugen
+Diana -> Luminita
+Sergiu -> Levente
+Adriana -> Sergiu
+Ioana -> Levente
+Adelina -> Ciprian
+13: Dragos
+0: Victor
+6: Mircea
+11: Eniko
+9: Gabriela
+10: Gabriela
+Erika -> Eniko
+Ana -> Erika
+Diana -> Dorina
+Costin -> Diana
+Melinda -> Gabriela
+2: Ionut
+2: Costel
+Adelina -> Stefan
+Violeta -> Lavinia
+Adelina -> Elena
+Melinda -> Ioana
+13: Victor
+12: Constantin
+Monica -> Adina
+Adrian -> Teodora
+0: Victor
+Mircea -> Laura
+Adelina -> Ana
+Ioan -> Lavinia
+Violeta -> Danut
+Melinda -> Monica
+Tiberiu -> Ioan
+0: Ana
+Ionut -> Victor
+Mircea -> Diana
+2: Adelina
+Adrian -> Ana
+Loredana -> Tiberiu
+Adrian -> Constantin
+8: Ionut
+Ionut -> Mircea
+Dragos -> Adrian
+16: Costel
+Dragos -> Adriana
+4: Costin
+Dragos -> Melinda
+Constantin -> Dragos
+Melinda -> Loredana
+Constantin -> Adelina
+Adelina -> Laura
+18: Melinda
+Tiberiu -> Ionut
+Constantin -> Adelina
+6: Tiberiu
+Violeta -> Costel
+Constantin -> Costin
+Tiberiu -> Melinda
+Tiberiu -> Constantin
+JOC_15
+Emil -> Roxana
+Dorin -> Kinga
+Csaba -> Georgiana
+Cornelia -> Nicoleta
+Dumitru -> Ancuta
+16: Matei
+Costel -> Lucian
+Petronela -> Valentina
+Cornel -> Irina
+9: Florina
+Marius -> Victor
+Liviu -> Razvan
+Sergiu -> Eugen
+Monica -> Ionel
+6: Matei
+Cosmin -> Veronica
+Sergiu -> Carmen
+Stefan -> Florian
+14: Robert
+Vasilica -> Carmen
+Nicolae -> Nicusor
+Lidia -> Mihaela
+Eugen -> Rodica
+14: Andra
+Georgiana -> Violeta
+Radu -> Vasilica
+Laurentiu -> Vasile
+Alin -> Timea
+Erika -> Ioan
+Mihaita -> Raluca
+Marilena -> Dumitru
+18: Ana
+12: Andra
+15: Ciprian
+0: Petrica
+Florentina -> Petru
+Georgeta -> Viorica
+10: Paula
+17: Liliana
+Florian -> Iulian
+Florina -> Eniko
+5: Silvia
+12: Georgeta
+Dragos -> Loredana
+14: Kinga
+18: Georgiana
+Catalina -> Florian
+George -> Zsolt
+15: Zoltan
+0: Cosmin
+3: Madalina
+13: Maria
+Marian -> Sorina
+13: Ioan
+Elena -> Laszlo
+Mihai -> Madalina
+Marian -> Teodor
+7: Marinela
+Florina -> Marin
+5: Lenuta
+Violeta -> Bianca
+Lucian -> Anca
+Vasile -> Georgian
+Tiberiu -> Roxana
+17: Cornelia
+11: Alin
+5: Florina
+Florina -> Florin
+12: Laura
+Georgiana -> Paula
+Georgian -> Florentina
+Istvan -> Catalina
+18: Codrin
+Daniela -> Stefania
+2: Mihai
+Adriana -> Mariana
+0: Florentina
+9: Petrica
+18: Silviu
+Georgian -> Alexandru
+4: Angela
+Codrin -> Dorina
+Alexandru -> Levente
+Petronela -> Mihaela
+10: Victor
+Catalin -> Georgeta
+Vasilica -> Valentina
+3: Ovidiu
+12: Petrica
+Alexandra -> Raluca
+Cristina -> Costin
+Ramona -> Andrea
+12: Mariana
+Sorin -> Irina
+Tiberiu -> Ioan
+Emil -> Nicoleta
+1: Sebastian
+5: Bianca
+Maria -> Viorel
+7: Alexandru
+15: Silviu
+Codrin -> Rodica
+12: Daniela
+Szabolcs -> Corina
+15: Gabriel
+6: Gheorghita
+19: Ilie
+Nicusor -> Oana
+Adrian -> Alexandru
+2: Anamaria
+Eniko -> Mihai
+Angela -> Valentin
+Loredana -> Adelina
+Iulian -> Andrea
+Mirela -> Petru
+Viorica -> Iulia
+Mariana -> Dan
+Ana -> Paul
+Gheorghita -> Camelia
+Liliana -> Lenuta
+3: Victor
+Marin -> Sorin
+17: Claudiu
+Ciprian -> Octavian
+11: Ileana
+14: Iulian
+Paula -> Daniel
+9: Ileana
+Mircea -> Camelia
+Gheorghita -> Alin
+Dumitru -> Mihail
+Nicusor -> Ionela
+Danut -> Florentina
+George -> Ovidiu
+Ionel -> Melinda
+9: Eugen
+7: Luminita
+Ileana -> Iuliana
+3: Emanuel
+Nicolae -> Silvia
+8: Georgeta
+Anamaria -> Eugen
+Lenuta -> Iulia
+10: Lucian
+Daniela -> Ileana
+Gheorghita -> Ancuta
+Florina -> Veronica
+Florin -> Stefania
+Melinda -> Georgeta
+13: Diana
+3: Mirela
+19: Mihai
+Sorina -> Ovidiu
+Ramona -> Adina
+0: Iuliana
+Gheorghe -> Marian
+Zoltan -> Adrian
+Mirela -> Elena
+Costin -> Claudiu
+12: Claudiu
+5: Zoltan
+Matei -> Sorina
+Stefan -> Matei
+Lenuta -> Corina
+Valentin -> Luminita
+Nicolae -> Valentin
+15: Mihaita
+Emilia -> Maria
+Daniela -> Ileana
+Timea -> Marius
+11: Monica
+Dorina -> Ion
+8: Adriana
+Dorin -> Vasile
+19: Marin
+Ecaterina -> Viorica
+Oana -> Liviu
+Madalina -> Marin
+5: Bogdan
+Bogdan -> Teodor
+10: Erika
+Oana -> Dorin
+Liliana -> Dorin
+Alexandra -> Liviu
+11: Lavinia
+Sergiu -> Cosmin
+Catalina -> Costel
+Matei -> Sebastian
+Maria -> Levente
+Andra -> Vasilica
+Razvan -> Dragos
+0: Gabriela
+Cosmin -> Szabolcs
+15: Alexandra
+Mirela -> Aurelia
+Laurentiu -> Marian
+16: Sorin
+Danut -> Robert
+Catalina -> Iuliana
+Ramona -> Dan
+2: Georgiana
+Cristina -> Gheorghe
+Luminita -> Vlad
+3: Marinela
+Alexandra -> Laszlo
+Elena -> Sorin
+Emanuel -> Laura
+Ionut -> Marilena
+5: Claudia
+7: Costel
+Aurelia -> Catalina
+Szabolcs -> Gabriela
+Oana -> Laura
+Gabriela -> Alina
+Adelina -> Ciprian
+6: Sergiu
+Maria -> Silvia
+Adina -> Cosmin
+Mircea -> Mariana
+17: Nicolae
+Lenuta -> Attila
+4: Attila
+Iulian -> Adriana
+13: Silviu
+4: Oana
+13: Mircea
+13: Sergiu
+Luminita -> Lucian
+Ioana -> Lavinia
+1: Ciprian
+17: Daniela
+Ilie -> Sergiu
+Szabolcs -> Gabriela
+Ion -> Florin
+Anamaria -> Georgian
+8: Florina
+Andra -> Georgiana
+Mirela -> Petronela
+Daniel -> Cornelia
+15: Csaba
+Teodora -> Loredana
+Robert -> Attila
+Ion -> Sebastian
+13: Mirela
+Florina -> Szabolcs
+Bogdan -> Emilia
+Eniko -> Andrei
+Anca -> Nicusor
+Emil -> Ionela
+11: Tudor
+Ilie -> Madalina
+Ioana -> Bogdan
+17: Gabriel
+19: Vlad
+Adrian -> Mirela
+3: Kinga
+17: Ionut
+Marinela -> Nicolae
+Monica -> Marius
+Vlad -> Tunde
+18: Lidia
+Ionut -> Razvan
+Petronela -> Alin
+Oana -> Mihai
+Nicolae -> Ion
+Constantin -> Marilena
+Eniko -> Gabriel
+Danut -> Monica
+3: Anca
+Stefan -> Petrica
+Tiberiu -> Ramona
+Radu -> Emanuel
+9: Octavian
+Emanuel -> Andreea
+Mihaita -> Maria
+Radu -> Codrin
+Marinela -> Silviu
+9: Robert
+Mihail -> Ecaterina
+Aurelia -> Cristina
+6: Melinda
+11: Tudor
+Liliana -> Zoltan
+3: Constantin
+Danut -> Gabriel
+Csaba -> Simona
+13: Paul
+Ana -> Liliana
+Lavinia -> Vlad
+14: Stefan
+Lidia -> Danut
+Cornel -> Erika
+Viorel -> Mihail
+Victor -> Anca
+Zsolt -> Anamaria
+7: Sergiu
+3: Luminita
+10: Ionel
+4: Cornelia
+Constantin -> Andrei
+18: Petrica
+Robert -> Emanuel
+Radu -> Andra
+Eniko -> Monica
+Costel -> Mircea
+Bianca -> Mihaita
+16: Octavian
+Ionel -> Petronela
+Teodora -> Adrian
+Iulian -> Eniko
+Alexandra -> Zsolt
+Matei -> Ionut
+Bogdan -> Tudor
+Daniel -> Dragos
+Adina -> George
+Bogdan -> Cornelia
+Victor -> Anamaria
+Melinda -> Matei
+Adina -> Oana
+17: Ana
+Adina -> Timea
+Melinda -> Constantin
+Dumitru -> Alina
+Daniel -> Andra
+Ana -> Lenuta
+Emil -> Ionel
+6: Sergiu
+17: Emilia
+Viorel -> Ilie
+Mirela -> Aurelia
+Ana -> Liliana
+Luminita -> Iulian
+Petrica -> Mirela
+Ana -> Dorina
+Lavinia -> Codrin
+Dumitru -> Anisoara
+19: Melinda
+10: Ecaterina
+1: Daniela
+Paula -> Radu
+Geanina -> Constantin
+Emilia -> Claudia
+Octavian -> Alexandra
+Ionut -> Diana
+Lavinia -> Andreea
+Zoltan -> Gheorghe
+Bogdan -> Ana
+0: Anisoara
+Anisoara -> Zoltan
+Laurentiu -> Nicolae
+5: Luminita
+Ilie -> Anisoara
+Mihaita -> Adina
+Adelina -> Dumitru
+Geanina -> Radu
+Marinela -> Bogdan
+10: Octavian
+Elena -> Laurentiu
+6: Claudiu
+Tudor -> Florina
+17: Violeta
+Daniel -> Ana
+Costel -> Stefan
+3: Ilie
+Catalin -> Csaba
+11: Diana
+Cristina -> Catalin
+Lidia -> Daniel
+18: Octavian
+Stefan -> Octavian
+Costel -> Ioana
+Petrica -> Costel
+Diana -> Emil
+Emil -> Cristina
+Kinga -> Alexandra
+Geanina -> Claudiu
+Victor -> Lidia
+5: Victor
+7: Luminita
+Ecaterina -> Ramona
+Ioana -> Csaba
+Cornel -> Robert
+Cristian -> Tudor
+4: Katalin
+Bianca -> Tunde
+Elena -> Gheorghita
+Ionut -> Mircea
+Adelina -> Stefan
+11: Laurentiu
+Istvan -> Erika
+2: Elena
+Melinda -> Laurentiu
+Petrica -> Viorel
+6: Mihaita
+Daniela -> Violeta
+Teodora -> Florina
+Victor -> Angela
+Katalin -> Simona
+14: George
+19: Mihaita
+Silviu -> Paul
+Luminita -> Claudia
+Melinda -> Emilia
+9: Diana
+5: Diana
+4: Ciprian
+Costin -> Adriana
+14: Daniela
+Daniela -> Katalin
+Costin -> Elena
+George -> Paula
+10: Cornel
+Geanina -> Adelina
+16: Bianca
+18: Silviu
+Ciprian -> Daniela
+Daniela -> Lidia
+0: Costin
+Ciprian -> Daniela
+8: George
+7: Ciprian
+1: Katalin
+Bianca -> Katalin
+Ciprian -> George
+9: Ecaterina
+4: Ciprian
+15: Mihaita
+10: Cornel
+18: Lavinia
+Ioana -> Costin
+19: Ionut
+Diana -> Melinda
+Ecaterina -> Gheorghita
+15: Cornel
+Danut -> Mihaita
+Ilie -> Luminita
+17: Ecaterina
+Lavinia -> Ciprian
+17: Catalin
+7: Victor
+Ioana -> Kinga
+Ecaterina -> Catalin
+9: Emil
+Petrica -> Lavinia
+Angela -> Silviu
+6: Victor
+Ioana -> Istvan
+14: Tiberiu
+Angela -> Ilie
+Emil -> Marinela
+Angela -> Tiberiu
+4: Cornel
+Ioana -> Cristian
+Cristian -> Emil
+12: Bianca
+Victor -> Sergiu
+Istvan -> Tiberiu
+Ioana -> Petrica
+Ionut -> Cristian
+Cornel -> Diana
+12: Danut
+Geanina -> Teodora
+0: Bianca
+Teodora -> Danut
+Ioana -> Istvan
+Ionut -> Victor
+Marinela -> Bianca
+Ioana -> Ionut
+4: Marinela
+Ioana -> Angela
+6: Geanina
+Teodora -> Ioana
+JOC_16
+Sorina -> Florin
+8: Loredana
+Ilie -> Ovidiu
+0: Robert
+Catalin -> Cornelia
+2: Lavinia
+19: Timea
+Dorin -> Alina
+Marilena -> Levente
+1: Geanina
+9: Adina
+Silvia -> Diana
+16: Istvan
+Mariana -> Costel
+Emil -> Bogdan
+Vasilica -> Ovidiu
+18: Danut
+Andrei -> Rodica
+Ionel -> Octavian
+Iulia -> Angela
+Istvan -> Loredana
+6: Mihail
+Alexandra -> Marilena
+Ana -> Laurentiu
+Ecaterina -> Iuliana
+Iulia -> Veronica
+19: Ioan
+Valentin -> Stefania
+Bogdan -> Kinga
+Mihaita -> Viorel
+Violeta -> Lucian
+3: Madalina
+Nicoleta -> Tiberiu
+Zoltan -> Florentina
+Mihail -> Claudiu
+Diana -> Lidia
+Emilia -> Geanina
+6: Alin
+6: Mihail
+Iulia -> Cristian
+1: Angela
+Gabriela -> Tunde
+Ioan -> Aurelia
+6: Bianca
+Ileana -> Ion
+Matei -> Timea
+Daniel -> Luminita
+Ion -> Iulian
+Roxana -> Mariana
+Ecaterina -> Monica
+Georgiana -> Kinga
+Csaba -> Paula
+Stefan -> Angela
+11: Adina
+Camelia -> Timea
+Geanina -> Constantin
+Danut -> Anisoara
+Georgeta -> Lucian
+Ionel -> Anisoara
+Viorel -> Aurelia
+4: Cosmin
+Tudor -> Catalin
+Attila -> Iuliana
+Laura -> Costin
+Tiberiu -> Adriana
+11: Andreea
+7: Alina
+Tunde -> Stefan
+Constantin -> Nicolae
+16: Alexandra
+Ioana -> Ioan
+Petru -> Florina
+Csaba -> Dorin
+Emanuel -> Marian
+Andrei -> Violeta
+Liliana -> Stefania
+19: Teodor
+Bogdan -> Silviu
+Adelina -> Alexandru
+Sebastian -> Radu
+1: Dumitru
+Laszlo -> Ionut
+Gabriela -> Danut
+Matei -> Cornel
+Simona -> Andrea
+16: Sebastian
+Sorina -> Gabriela
+14: Petru
+Ana -> Ileana
+19: Ileana
+Gabriel -> Katalin
+17: Emanuel
+Sorin -> Ioana
+19: Szabolcs
+7: Teodora
+0: Georgian
+14: Robert
+Adina -> Alexandra
+Csaba -> Levente
+Anamaria -> Geanina
+Ionut -> Petrica
+Ecaterina -> Alin
+4: Cornel
+Erika -> Nicolae
+Georgiana -> Laszlo
+Nicoleta -> Cornelia
+10: Alexandru
+1: Lidia
+Florin -> Emilia
+Sorina -> Nicoleta
+15: Alin
+0: Iulia
+Viorel -> Tudor
+Ancuta -> Ana
+8: Robert
+Veronica -> Razvan
+Eugen -> Ana
+10: Ionela
+0: Victor
+Dragos -> Melinda
+Irina -> Sorin
+Attila -> Raluca
+Alina -> Alexandru
+Claudiu -> Florian
+Georgeta -> Ciprian
+11: Mihaita
+Istvan -> Vlad
+Sebastian -> Corina
+Paula -> Radu
+15: Vasile
+Sebastian -> Gabriela
+Paula -> Loredana
+Mihaela -> Danut
+Bianca -> Mirela
+Teodora -> Mirela
+0: Andrea
+16: Lenuta
+Tiberiu -> Madalina
+Andra -> Maria
+Georgeta -> Mihai
+Valentina -> Zoltan
+Mihaita -> Elena
+Eugen -> Petronela
+Florentina -> Andrea
+Eniko -> Cristian
+19: Dan
+Andreea -> Ilie
+Teodor -> Marin
+Andra -> Florina
+14: Ilie
+Adrian -> Florian
+Katalin -> Alina
+Florin -> Tiberiu
+Szabolcs -> Daniela
+Sebastian -> Catalin
+Melinda -> Istvan
+Florentina -> Marin
+Adriana -> Szabolcs
+12: Andreea
+Liliana -> Silviu
+Daniela -> Dan
+19: Ramona
+Raluca -> Istvan
+Paula -> Ionut
+Anca -> Laurentiu
+6: Viorica
+Zsolt -> Ramona
+Ancuta -> Roxana
+4: Veronica
+3: Viorica
+14: Andrei
+Sebastian -> Irina
+3: Paula
+4: Emilia
+Madalina -> Szabolcs
+Florin -> Marius
+15: Katalin
+Octavian -> Oana
+Mihai -> Adelina
+8: Adriana
+Victor -> Mihai
+Dumitru -> Viorica
+Carmen -> Emil
+Vasilica -> Razvan
+4: Valentin
+18: Ioana
+Sebastian -> Claudia
+7: Cristina
+14: Liviu
+Marius -> Alin
+5: Laura
+Simona -> Rodica
+Valentina -> Stefan
+Cristina -> Paula
+15: Florin
+Emanuel -> Andreea
+1: Valentin
+7: Monica
+Marian -> Costel
+Valentin -> Emilia
+18: Marian
+Nicoleta -> Mircea
+Marius -> Laszlo
+12: Monica
+Valentin -> Marilena
+Daniel -> Octavian
+Sorina -> Lenuta
+16: Melinda
+Petrica -> Claudia
+6: Sergiu
+8: Dorin
+Petronela -> Daniel
+Claudiu -> Ioana
+Alexandra -> Petru
+Petrica -> Carmen
+1: Dorina
+17: Roxana
+Paul -> Gabriel
+Robert -> Maria
+Corina -> Dan
+Adrian -> Mihaita
+Zsolt -> Cristina
+Zoltan -> Georgiana
+12: Anamaria
+Violeta -> Sorin
+13: Adina
+Catalina -> Dorin
+Andrei -> Georgian
+Irina -> Ionela
+10: Robert
+Ileana -> Laura
+16: Catalina
+Roxana -> Adelina
+Simona -> Victor
+Valentin -> Petronela
+Andra -> Mariana
+Ecaterina -> Bogdan
+Emanuel -> Adriana
+Valentin -> Georgeta
+12: Georgiana
+Sorina -> Teodor
+8: Elena
+Georgiana -> Andreea
+19: Ion
+Victor -> Valentina
+Madalina -> Sorina
+Adina -> Robert
+George -> Andra
+17: Nicoleta
+Mihaita -> Florin
+Marius -> Cornel
+Oana -> Emil
+2: Liviu
+Gheorghe -> Sebastian
+4: Marian
+Monica -> Liviu
+Tunde -> Florentina
+15: Ioan
+Petru -> Adrian
+Ecaterina -> Irina
+Valentin -> Georgeta
+Daniela -> Constantin
+Marian -> Luminita
+6: Valentin
+1: Elena
+Liliana -> Melinda
+Andra -> Matei
+Laura -> Tunde
+Valentina -> Csaba
+Georgiana -> Gheorghita
+12: Gheorghita
+8: Robert
+Monica -> Ciprian
+Dorina -> Lavinia
+Diana -> Eugen
+3: Monica
+Adrian -> Violeta
+Mihail -> Alexandra
+Oana -> Lenuta
+Teodor -> Viorel
+Ilie -> Nicoleta
+14: Emanuel
+4: Adrian
+7: Gheorghe
+Andrei -> Sebastian
+Marian -> Attila
+Laura -> Vasilica
+4: Daniela
+18: Roxana
+Andra -> Tudor
+Sorina -> Ion
+Carmen -> Bianca
+Mihail -> Matei
+Emanuel -> Diana
+2: Dorina
+4: Costin
+Vlad -> Eniko
+Petru -> Valentina
+Claudiu -> Madalina
+Georgiana -> Codrin
+Zsolt -> Ionela
+Paul -> Camelia
+Teodor -> Anca
+George -> Emanuel
+Dumitru -> Laura
+9: Dragos
+Monica -> Daniel
+11: Andrei
+10: Valentin
+Elena -> Ecaterina
+2: Eniko
+Elena -> Mihaita
+Mihail -> Codrin
+14: Nicusor
+17: Marian
+Claudiu -> Attila
+7: Ecaterina
+Liliana -> Marian
+10: Petru
+Vasile -> Liviu
+2: Monica
+0: Daniela
+Iulia -> Mircea
+16: Raluca
+2: Cosmin
+Catalina -> Mihaela
+Anca -> Paul
+Sergiu -> Daniela
+Viorica -> Vasilica
+7: Vasile
+Raluca -> Anamaria
+Victor -> Bianca
+Ramona -> Veronica
+Corina -> Andrei
+Csaba -> Vasile
+Emanuel -> Iulia
+16: Valentin
+Simona -> Dragos
+Iulian -> Sorina
+10: Marius
+Cosmin -> Lidia
+Costin -> Vasile
+Ioan -> Oana
+George -> Dorina
+10: Ioan
+15: Mihaela
+Lavinia -> Raluca
+Carmen -> Erika
+Anamaria -> Marinela
+2: Valentin
+Petru -> Valentin
+Paul -> Gheorghe
+Ecaterina -> Adrian
+2: Marinela
+17: Elena
+12: Catalina
+Dumitru -> Mihail
+Mihaela -> Zsolt
+7: Mihaela
+0: Marinela
+12: Valentin
+Eniko -> Robert
+4: Ecaterina
+Csaba -> Ilie
+Cosmin -> Victor
+18: Georgian
+Gheorghita -> Anca
+Claudiu -> Elena
+0: Andrei
+12: Claudiu
+Dumitru -> Teodor
+19: Costin
+Cosmin -> Eniko
+Ioan -> Ileana
+Catalina -> Dorina
+Ancuta -> George
+Cosmin -> Ramona
+Zsolt -> Andra
+Mihail -> Eugen
+Marius -> Claudiu
+Costin -> Andrei
+15: Georgiana
+14: Katalin
+Georgian -> Gheorghita
+13: Georgian
+12: Vlad
+Petrica -> Valentin
+14: Simona
+Emanuel -> Cosmin
+14: Cosmin
+Roxana -> George
+Camelia -> Adina
+Georgian -> Liliana
+Iulian -> Csaba
+8: Marius
+Emanuel -> Monica
+18: Corina
+Erika -> Dumitru
+Cosmin -> Roxana
+Catalina -> Cristina
+Camelia -> Paul
+Iulian -> Petrica
+Iulian -> Adina
+Anamaria -> Georgian
+Sergiu -> Carmen
+Sergiu -> Corina
+11: Camelia
+Costin -> Simona
+3: Ecaterina
+5: Vlad
+Cosmin -> Iulian
+14: Cosmin
+Camelia -> Zsolt
+11: Camelia
+Sergiu -> Georgiana
+Silvia -> Mihaela
+Ionel -> Lavinia
+Ecaterina -> Silvia
+4: Dumitru
+10: Camelia
+3: Ancuta
+Gabriel -> Marinela
+Ioan -> Petru
+Erika -> Dumitru
+17: Catalina
+Silvia -> Liliana
+Anamaria -> Emanuel
+6: Viorica
+14: Gabriel
+Costin -> Ecaterina
+Katalin -> Anamaria
+11: Ancuta
+Ioan -> Dragos
+Cosmin -> Erika
+Catalina -> Silvia
+Vlad -> Sergiu
+7: Marius
+Vlad -> Ioan
+Camelia -> Teodora
+0: Vlad
+Cosmin -> Zoltan
+Iulia -> Sergiu
+Camelia -> Iulia
+Nicusor -> Camelia
+6: Vlad
+Simona -> Ancuta
+1: Costin
+15: Ionel
+Nicusor -> Marius
+Vlad -> Teodora
+6: Simona
+Ancuta -> Gabriel
+13: Costin
+Gheorghe -> Mihail
+6: Costin
+7: Ionel
+Vlad -> Katalin
+Gheorghe -> Viorica
+7: Catalina
+Ionel -> Nicusor
+1: Simona
+Ionel -> Ancuta
+3: Cosmin
+Ionel -> Gheorghe
+Simona -> Nicusor
+Catalina -> Costin
+JOC_17
+2: Teodor
+Marin -> Adriana
+Melinda -> Andreea
+Daniela -> Marin
+Corina -> Ecaterina
+Marinela -> Liliana
+Valentina -> Gheorghita
+7: Razvan
+Tudor -> Adriana
+Ionut -> Geanina
+Csaba -> Angela
+Eugen -> Dan
+Florian -> Daniela
+Alexandru -> Georgian
+19: Stefan
+17: Camelia
+11: Lucian
+Eugen -> Madalina
+4: Madalina
+11: Iuliana
+15: Silvia
+Szabolcs -> Emilia
+6: Alina
+Ionut -> Valentin
+2: Ion
+Ilie -> Andrei
+9: Marilena
+2: Viorel
+Vasile -> Tiberiu
+Georgeta -> Laura
+Dorin -> Ciprian
+Levente -> Catalina
+Emil -> Mariana
+Melinda -> Matei
+4: Violeta
+14: Laurentiu
+Angela -> Alin
+10: Raluca
+1: Ciprian
+Danut -> Marian
+Florentina -> Marin
+Razvan -> Ionel
+13: Marinela
+Georgeta -> Rodica
+15: Petronela
+Sorin -> Georgian
+Octavian -> Zsolt
+Nicolae -> Silviu
+Ioan -> Ilie
+Gheorghita -> Diana
+Sergiu -> Georgiana
+Paul -> Dumitru
+Razvan -> Geanina
+Emanuel -> Ioana
+Adina -> Madalina
+Ileana -> Attila
+12: Vasile
+Nicolae -> Kinga
+6: Adina
+14: Paul
+9: Raluca
+Veronica -> Robert
+15: Ciprian
+Ilie -> Cornel
+6: Ionut
+18: Anamaria
+Victor -> Ana
+7: Cosmin
+13: Angela
+2: Sorina
+12: Paul
+Eniko -> Liliana
+Victor -> Roxana
+Silvia -> Cornel
+5: Tiberiu
+Katalin -> Ana
+13: Valentina
+Vasile -> Teodora
+6: Rodica
+Anca -> Ionela
+13: Liviu
+5: Istvan
+Ciprian -> Emil
+Ionel -> Melinda
+5: Bogdan
+10: Veronica
+Violeta -> Roxana
+5: Timea
+Ioan -> Zoltan
+Cornelia -> Catalin
+Emil -> Daniela
+Robert -> Angela
+4: Claudia
+1: Camelia
+12: Cosmin
+3: Alina
+8: Mircea
+Nicusor -> Stefan
+Florian -> Corina
+Viorel -> Marinela
+Teodor -> Valentina
+Ovidiu -> Levente
+Andrei -> Oana
+Mihai -> Zoltan
+Anca -> Sorina
+3: Dorin
+11: Monica
+16: Nicoleta
+Elena -> Rodica
+Carmen -> Timea
+Dorin -> Andrei
+Mihail -> Mihaela
+Melinda -> Vasile
+Valentin -> Ioan
+Valentin -> Mihaita
+Veronica -> Ileana
+14: Vasile
+Vasilica -> Razvan
+Paul -> Viorel
+Liviu -> Robert
+Dorina -> Loredana
+Paul -> Gabriel
+Luminita -> Constantin
+0: Stefan
+Marius -> Melinda
+Cosmin -> Corina
+Dragos -> Matei
+Catalina -> Sorina
+1: Florian
+Florentina -> Dragos
+Silvia -> Dorin
+Adrian -> Lenuta
+0: Florentina
+Irina -> Petrica
+Andra -> Florin
+Attila -> Claudia
+Gheorghe -> Sergiu
+Ionut -> Raluca
+19: Laszlo
+Danut -> Ion
+Paula -> Nicoleta
+11: Ecaterina
+0: Irina
+Victor -> Dumitru
+15: Diana
+Costel -> Maria
+11: Silviu
+Diana -> Paula
+Raluca -> Bogdan
+3: Adina
+7: Iulia
+15: Florentina
+Alexandra -> Silvia
+Diana -> Nicusor
+Nicoleta -> Katalin
+14: Marilena
+Catalin -> Mircea
+Marilena -> Iuliana
+8: Maria
+Aurelia -> Nicolae
+Marian -> Teodora
+Claudia -> Erika
+Iulian -> Petrica
+Tunde -> Claudia
+Stefania -> Ileana
+5: Sergiu
+Bianca -> Maria
+Alexandra -> Attila
+10: Zsolt
+Irina -> Eugen
+5: Catalina
+Anca -> Iulia
+1: Octavian
+Octavian -> Elena
+3: Dorin
+Sergiu -> Valentina
+Marinela -> George
+Adelina -> Alexandru
+16: Sebastian
+15: Lucian
+Ovidiu -> Danut
+Ion -> Cornelia
+7: Adelina
+2: Petronela
+0: Simona
+15: Irina
+Zsolt -> Kinga
+10: Ecaterina
+12: Viorica
+Danut -> Zsolt
+6: Raluca
+12: Stefan
+Emanuel -> Florina
+9: Mihaela
+Cosmin -> Cornelia
+Radu -> Alexandru
+Dorina -> Loredana
+7: Georgiana
+8: Mircea
+Ecaterina -> Cristian
+18: Eugen
+17: Florentina
+18: Valentin
+Razvan -> Costin
+Lavinia -> Iulia
+Andreea -> Claudiu
+Mihail -> Bogdan
+Szabolcs -> Andrea
+Katalin -> Carmen
+12: Lavinia
+4: Lavinia
+15: Ciprian
+Andra -> Alin
+Ionel -> Codrin
+14: Csaba
+Violeta -> Ramona
+Stefania -> Razvan
+17: Marius
+Andra -> Ionut
+Csaba -> Ciprian
+Adelina -> Marian
+Sergiu -> Andreea
+14: Mihaela
+Viorel -> Florentina
+Ilie -> Oana
+Stefan -> Costel
+Costel -> Ionel
+Lucian -> Petru
+Adina -> Iuliana
+Anisoara -> Gheorghita
+Constantin -> Marius
+17: Camelia
+Stefania -> Camelia
+Georgeta -> Bianca
+Adelina -> Laura
+7: Anisoara
+Teodor -> Ovidiu
+12: Carmen
+Stefania -> Iulian
+Florina -> Ioana
+6: Nicolae
+Emanuel -> Sorin
+0: Anisoara
+2: Lenuta
+Petru -> Codrin
+Georgiana -> Mihai
+6: Sebastian
+Teodor -> Monica
+Marinela -> Anca
+Georgiana -> Ancuta
+Victor -> Marius
+5: Istvan
+Emilia -> Carmen
+2: Raluca
+Daniel -> Emilia
+Dorina -> Constantin
+Petru -> Gheorghe
+1: Claudiu
+Raluca -> Luminita
+Lidia -> Gheorghe
+Andrea -> Vlad
+Dorina -> Dan
+3: Marinela
+Adelina -> Florin
+Istvan -> Mihai
+Ancuta -> Dragos
+Ioan -> Istvan
+Valentin -> Tiberiu
+Andra -> Aurelia
+Silvia -> Ancuta
+Mirela -> Viorel
+2: Cristina
+Anisoara -> Gabriela
+Sebastian -> Ionela
+16: Anca
+7: Victor
+Adrian -> Mihaita
+4: Florina
+Cosmin -> Victor
+Adelina -> George
+8: Georgiana
+9: Alina
+Stefania -> Florentina
+0: Levente
+4: Ion
+Danut -> Valentin
+Mihaela -> Mihail
+Vasile -> Szabolcs
+Mirela -> Daniel
+Alina -> Vasile
+Nicusor -> Gabriel
+Raluca -> Ecaterina
+Alexandra -> Vasilica
+Elena -> Mircea
+Stefania -> Anamaria
+18: Lidia
+14: Silvia
+Istvan -> Georgiana
+5: Catalina
+Danut -> Nicusor
+Cosmin -> Levente
+9: Paul
+2: Stefan
+Florina -> Stefania
+13: Cristina
+Raluca -> Tudor
+Alexandra -> Vasilica
+Ion -> Georgeta
+Marilena -> Alina
+Catalin -> Daniel
+Georgeta -> Stefan
+Nicoleta -> Dorin
+Costin -> Diana
+Cristian -> Ioan
+14: Nicolae
+Adelina -> Ramona
+Alina -> Sebastian
+0: Alina
+14: Laurentiu
+Szabolcs -> Marilena
+Emanuel -> Stefania
+5: Lucian
+Sorin -> Laurentiu
+0: Mariana
+Octavian -> Vlad
+Sorin -> Liviu
+Paula -> Monica
+4: Cristina
+7: Emil
+Marinela -> Marilena
+Costel -> Ion
+Costel -> Viorica
+17: Andrea
+Paul -> Mihail
+12: Istvan
+9: Istvan
+Mihaela -> Ovidiu
+Teodor -> Dorina
+2: Nicolae
+13: Violeta
+0: Silvia
+Tudor -> Gabriela
+Claudiu -> Cristian
+Dorina -> Alina
+10: Viorica
+12: Aurelia
+Ionut -> Lavinia
+16: Petru
+10: Csaba
+2: Victor
+Teodor -> Catalin
+Cosmin -> Florina
+3: Tunde
+5: Veronica
+Tunde -> Ilie
+Radu -> Tunde
+Nicoleta -> Andra
+Nicolae -> Victor
+0: Iulian
+Radu -> Adrian
+Lucian -> Violeta
+Istvan -> Timea
+15: Georgeta
+Ionut -> Andra
+3: Dorina
+Anamaria -> Tudor
+7: Laszlo
+Paula -> Lavinia
+16: Adelina
+5: Luminita
+Georgeta -> Anamaria
+Marinela -> Viorica
+Sebastian -> Petru
+Cristina -> Cosmin
+Lucian -> Eugen
+16: Adrian
+11: Silviu
+Mariana -> Adelina
+Iulian -> Laszlo
+Emil -> Mihaela
+6: Alexandra
+15: Sebastian
+Florian -> Radu
+12: Irina
+8: Sorin
+Elena -> Georgeta
+Adina -> Cosmin
+17: Raluca
+Adelina -> Sorin
+Octavian -> Andrea
+Liviu -> Camelia
+Sebastian -> Anca
+Paul -> Catalina
+Lucian -> Lenuta
+Emanuel -> Elena
+17: Cristina
+Iulian -> Danut
+Paul -> Alexandra
+Lidia -> Paul
+7: Marinela
+Irina -> Bianca
+8: Alexandra
+Lucian -> Violeta
+17: Szabolcs
+18: Claudiu
+Anisoara -> Cristina
+Radu -> Istvan
+5: Mariana
+13: Claudiu
+Csaba -> Ionut
+Adrian -> Anisoara
+Silvia -> Aurelia
+11: Nicoleta
+Sergiu -> Irina
+7: Paul
+Paula -> Teodor
+Szabolcs -> Costin
+1: Adina
+8: Octavian
+Lidia -> Simona
+Luminita -> Adrian
+Eniko -> Mirela
+Liviu -> Teodor
+6: Liviu
+4: Adelina
+5: Katalin
+Cristina -> Paul
+Erika -> Eniko
+Adelina -> Irina
+3: Radu
+Raluca -> Silviu
+Mirela -> Csaba
+Lidia -> Luminita
+Mariana -> Costel
+Iulian -> Silvia
+Sebastian -> Csaba
+Alexandra -> Nicoleta
+Simona -> Adelina
+Claudiu -> Nicolae
+Emanuel -> Cristina
+18: Erika
+Emil -> Mirela
+3: Sebastian
+11: Emil
+Veronica -> Alexandra
+Szabolcs -> Lucian
+Emanuel -> Sergiu
+Simona -> Tunde
+Radu -> Marinela
+Simona -> Iulian
+Dorina -> Claudiu
+Emil -> Raluca
+8: Dorina
+Emil -> Anisoara
+0: Dorina
+Mariana -> Emanuel
+Emanuel -> Sebastian
+Octavian -> Radu
+Eniko -> Mariana
+11: Octavian
+Simona -> Paula
+Petronela -> Simona
+Laurentiu -> Lidia
+Erika -> Katalin
+Veronica -> Emanuel
+16: Laszlo
+8: Eniko
+7: Lucian
+Lucian -> Petronela
+Erika -> Lucian
+JOC_18
+5: Laurentiu
+Ana -> Laszlo
+2: Marinela
+13: Georgeta
+Angela -> Silvia
+19: Marin
+Alin -> Emanuel
+Laurentiu -> Vasile
+Claudiu -> Ilie
+Irina -> Cosmin
+Irina -> Attila
+10: Maria
+13: Marius
+11: Szabolcs
+Ramona -> Teodora
+Emanuel -> Laura
+Rodica -> Catalin
+16: Constantin
+Robert -> Costin
+2: Silviu
+5: Dorina
+Costin -> Gabriela
+Costel -> Daniel
+12: Bogdan
+Vasilica -> Corina
+Bogdan -> Geanina
+6: Adriana
+2: Ciprian
+Gheorghe -> Rodica
+Adina -> Mihail
+18: Adriana
+Corina -> Constantin
+5: Cornel
+Oana -> Laszlo
+Silviu -> Raluca
+Tiberiu -> Simona
+Szabolcs -> Gabriel
+6: Timea
+Paula -> Gabriel
+Mihail -> Georgiana
+17: Adina
+4: Ecaterina
+Tiberiu -> Adrian
+12: George
+Istvan -> Anamaria
+Angela -> Ana
+Maria -> Petronela
+14: Razvan
+Carmen -> Vasilica
+Lavinia -> Alina
+Istvan -> Ciprian
+Viorel -> Dragos
+Constantin -> Stefania
+Monica -> Elena
+Daniela -> Alexandra
+6: Alexandra
+Cristian -> Georgeta
+18: Katalin
+8: Oana
+Andreea -> Valentin
+5: Monica
+Adelina -> Gabriela
+19: Ana
+5: Viorica
+11: Andra
+Vlad -> Stefan
+Marius -> Lidia
+Valentina -> Dragos
+Nicoleta -> Mircea
+Liviu -> Vlad
+19: Ramona
+14: Emil
+Melinda -> Claudia
+Anca -> Ecaterina
+16: Viorel
+8: Daniel
+5: Kinga
+19: Viorel
+Victor -> Razvan
+Monica -> Bianca
+11: Melinda
+0: Petru
+Dorin -> Laura
+Lucian -> Paul
+Valentin -> Sergiu
+Iulian -> Lavinia
+Raluca -> Cosmin
+Levente -> Sorina
+Georgiana -> Emil
+Timea -> Daniela
+Elena -> Laurentiu
+Radu -> Andra
+Carmen -> Andrea
+George -> Sorina
+8: Elena
+4: Simona
+Maria -> Mihaita
+Camelia -> Mihail
+Nicoleta -> Petronela
+Marin -> Constantin
+Mihaela -> Kinga
+6: Anamaria
+15: Nicoleta
+Petrica -> Elena
+Razvan -> Petrica
+Carmen -> Cornelia
+Carmen -> Ovidiu
+Ramona -> Kinga
+4: Valentina
+Costel -> Ionel
+11: Mihaita
+14: Emilia
+1: Catalin
+Ciprian -> Sergiu
+3: Paula
+Ancuta -> Mihai
+Silviu -> Mihaela
+9: Nicoleta
+Bogdan -> Vasilica
+Marius -> Lavinia
+Emanuel -> Daniela
+11: Rodica
+Roxana -> Dorina
+10: Ionel
+5: George
+Aurelia -> Ciprian
+Adriana -> Ana
+Iulia -> Lucian
+Timea -> Oana
+Radu -> Gheorghe
+4: Dan
+Andrei -> Florin
+0: Angela
+Emanuel -> Violeta
+Laurentiu -> Anamaria
+6: Ecaterina
+Cornelia -> Viorel
+5: Vasile
+Ileana -> Anca
+3: Viorica
+Marinela -> Andra
+Sorin -> Marilena
+5: Eugen
+5: Tudor
+Tudor -> Mihaela
+5: Viorica
+5: Cristina
+5: Florina
+Marinela -> Andreea
+Camelia -> Sebastian
+Liliana -> Violeta
+Claudia -> Marilena
+Diana -> Alexandru
+Luminita -> Robert
+Melinda -> Alexandra
+Bogdan -> Andreea
+Vlad -> Lenuta
+13: Roxana
+Silvia -> Ramona
+Catalina -> Csaba
+Codrin -> Anisoara
+9: Paula
+5: Roxana
+Ovidiu -> Dan
+8: Madalina
+Tudor -> Adrian
+Florentina -> Csaba
+Tudor -> Monica
+Andrea -> Matei
+19: Katalin
+16: Cornel
+18: Eniko
+6: Ileana
+13: Florian
+2: Florin
+Nicoleta -> Dorin
+Raluca -> Simona
+Cornelia -> Silvia
+Paula -> Stefania
+Catalina -> Teodora
+Timea -> Raluca
+Costel -> Irina
+Ionut -> Iuliana
+Ionel -> Valentin
+3: Cristian
+Carmen -> Petrica
+Monica -> Levente
+Ionut -> Nicusor
+Eugen -> Cristina
+Andrea -> Claudiu
+12: Cristian
+Adelina -> Irina
+11: Ionel
+8: Valentina
+Daniel -> Octavian
+Daniel -> Mirela
+5: Georgeta
+Teodor -> Iulian
+Florina -> Cornel
+19: Aurelia
+14: Vlad
+13: Georgian
+Emanuel -> Stefan
+Cornelia -> Catalin
+0: Ecaterina
+Ionut -> Mirela
+Corina -> Mircea
+19: Adriana
+Viorica -> Roxana
+3: Eniko
+Laurentiu -> Ionel
+Lidia -> Ovidiu
+Ionela -> Nicolae
+Georgian -> Mihaita
+Ecaterina -> Robert
+Florentina -> Loredana
+Mihai -> Veronica
+Dorina -> Radu
+Dorin -> Vlad
+Bogdan -> Ionela
+Tunde -> Daniel
+Gheorghita -> Bogdan
+Eniko -> Ramona
+Florina -> Melinda
+8: Sebastian
+12: Adelina
+9: Iuliana
+4: Codrin
+Ion -> Marin
+Adelina -> Ioan
+Razvan -> Lucian
+Octavian -> Cornelia
+Iuliana -> Ancuta
+Marinela -> Andrei
+Ion -> Emilia
+Alexandru -> Lenuta
+Mariana -> Timea
+5: Adelina
+Luminita -> Cristian
+Codrin -> Ionut
+14: Ionut
+Andrei -> Aurelia
+Dumitru -> Georgian
+Zoltan -> Eugen
+Aurelia -> Marian
+Marian -> Ionut
+Istvan -> Anca
+Ioana -> Tunde
+Viorica -> Luminita
+18: Teodor
+1: Dorin
+Marius -> Szabolcs
+Florin -> Teodor
+Sebastian -> Iuliana
+18: Viorica
+15: Dan
+18: Dorin
+Maria -> Costel
+11: Roxana
+Bianca -> Florian
+4: Catalina
+Ilie -> Oana
+Geanina -> Ioana
+12: Szabolcs
+6: Dorin
+16: Mihai
+Victor -> Iulian
+Tiberiu -> Dorina
+7: Marius
+Anisoara -> Adriana
+Viorica -> Marius
+Szabolcs -> Roxana
+Zoltan -> Matei
+19: Anisoara
+3: Florentina
+Erika -> Adriana
+Maria -> Ileana
+17: Adelina
+10: Paula
+Monica -> Katalin
+3: Adina
+0: Zsolt
+Rodica -> Eniko
+Iulia -> Madalina
+Gheorghe -> Paula
+7: Razvan
+Emanuel -> Veronica
+Bogdan -> Lidia
+Dorin -> Alexandru
+Ionela -> Alin
+Claudiu -> Iulia
+Viorel -> Zsolt
+Liliana -> Katalin
+Gheorghe -> Sorin
+13: Catalina
+Florina -> Andrea
+Sebastian -> Alina
+15: Alin
+14: Diana
+Tudor -> Ioana
+9: Emanuel
+Florin -> Melinda
+Marinela -> Georgian
+15: Anisoara
+Dan -> Sorin
+Catalina -> Costel
+4: Carmen
+Szabolcs -> Carmen
+Liviu -> Florentina
+10: Octavian
+2: Ioan
+Corina -> Eugen
+Florin -> Tudor
+Florentina -> Victor
+10: Tunde
+Corina -> Liliana
+Georgiana -> Zoltan
+Luminita -> Iulia
+16: Andrei
+13: Costin
+18: Maria
+Emil -> Ion
+Paul -> Liliana
+11: Claudia
+6: Radu
+Nicusor -> Silviu
+Timea -> Viorica
+15: Maria
+Ioan -> Georgeta
+Emanuel -> Carmen
+2: Gheorghita
+Monica -> Florina
+Erika -> Monica
+Codrin -> Costin
+Paul -> Ionela
+Ion -> Cornel
+Teodor -> Marius
+Danut -> Gheorghita
+Luminita -> Adelina
+Emilia -> Petru
+Mariana -> Viorel
+13: Loredana
+Mariana -> Aurelia
+Attila -> Valentina
+Nicoleta -> Tudor
+19: Timea
+Nicoleta -> Paula
+0: Madalina
+Maria -> Luminita
+Dorin -> Madalina
+Florin -> Dan
+9: Teodor
+8: Maria
+11: Anisoara
+18: Emanuel
+10: Cristian
+10: George
+9: Vasile
+Tiberiu -> Maria
+4: Vasile
+Nicusor -> Cristian
+Victor -> Diana
+13: Radu
+Eniko -> Florian
+Sebastian -> Bogdan
+17: Szabolcs
+Marian -> Liviu
+17: Ilie
+Ileana -> Marin
+Zoltan -> Loredana
+Florentina -> Viorica
+11: Marinela
+Sebastian -> Camelia
+Ecaterina -> Diana
+Rodica -> Radu
+Catalina -> Teodor
+Gheorghe -> Angela
+10: Liviu
+Florentina -> Sebastian
+Florentina -> Attila
+10: Ioan
+Petru -> Zsolt
+Zoltan -> Mihai
+17: Laurentiu
+Ioan -> Nicoleta
+14: Marian
+6: Claudia
+Florentina -> Dorin
+2: Adina
+Dumitru -> Andrei
+Tiberiu -> Gheorghe
+Ilie -> Cristina
+Catalina -> Angela
+Tiberiu -> Levente
+Ileana -> Florentina
+Emilia -> Ion
+Claudia -> Adelina
+Timea -> Octavian
+Nicolae -> Eniko
+Adina -> Nicoleta
+Victor -> Mariana
+Danut -> Emil
+Florina -> Tiberiu
+Erika -> Camelia
+Razvan -> Petru
+Laurentiu -> Georgiana
+Dumitru -> Codrin
+Erika -> Silviu
+9: Timea
+9: Emilia
+Florin -> Erika
+Marinela -> Ileana
+Nicusor -> Vasile
+Marian -> Victor
+2: Claudia
+3: Marian
+11: Marian
+Valentina -> Nicolae
+Istvan -> Razvan
+4: Marinela
+Marian -> Catalina
+Valentina -> Tiberiu
+Istvan -> Bianca
+16: Tunde
+Florin -> Timea
+Claudiu -> Laurentiu
+13: Florin
+Marian -> Marinela
+3: Ecaterina
+Claudia -> Mariana
+Adina -> George
+Ancuta -> Ioan
+Florina -> Gheorghita
+Corina -> Geanina
+Claudiu -> Nicusor
+9: Ancuta
+9: Corina
+5: Marian
+Dumitru -> Ilie
+Claudiu -> Rodica
+Paul -> Claudiu
+6: Maria
+19: Claudia
+Marian -> Liviu
+Tunde -> Dumitru
+Ancuta -> Florin
+7: Florina
+Maria -> Paul
+Tunde -> Florina
+11: Emanuel
+3: Claudia
+11: Valentina
+Valentina -> Marinela
+10: Szabolcs
+6: Adina
+Adina -> Valentina
+Ancuta -> Marian
+3: Szabolcs
+Istvan -> Zoltan
+Danut -> Catalina
+8: Claudia
+Dumitru -> Emanuel
+Danut -> Corina
+7: Danut
+14: George
+19: Codrin
+2: Ancuta
+14: Adina
+Anisoara -> Codrin
+Claudia -> Erika
+Danut -> Dumitru
+Anisoara -> Alin
+Emilia -> Ecaterina
+Adina -> Maria
+George -> Tunde
+11: George
+Danut -> Claudia
+6: Anisoara
+Danut -> Ancuta
+Szabolcs -> George
+JOC_19
+Ion -> Sorin
+12: Ionela
+15: Florian
+19: Sergiu
+Ecaterina -> Ciprian
+Andreea -> Ionel
+5: Razvan
+Anamaria -> Dan
+Ionela -> Marin
+9: Mircea
+Anca -> Tudor
+1: Attila
+6: Catalina
+8: Cristina
+Bogdan -> Violeta
+5: George
+11: Florian
+Florina -> Nicusor
+15: Madalina
+Dorina -> Georgiana
+Lucian -> Octavian
+Eniko -> Ionel
+Bogdan -> Nicoleta
+13: Kinga
+3: Alexandra
+7: Laszlo
+Matei -> Cosmin
+Stefan -> Mihai
+Eniko -> Ciprian
+15: Nicolae
+12: Valentin
+Madalina -> Emanuel
+Andrea -> Claudiu
+Ionela -> Geanina
+Florina -> Dan
+2: Ionela
+Codrin -> Tiberiu
+Lenuta -> George
+Vasilica -> Claudia
+16: Dragos
+1: Kinga
+Bianca -> Madalina
+Ioan -> Catalina
+Cosmin -> Razvan
+8: Anisoara
+Razvan -> Claudia
+Paula -> Mirela
+Istvan -> Ovidiu
+Adrian -> Marilena
+Cristina -> Zsolt
+Geanina -> Claudiu
+Razvan -> Ileana
+19: Cristian
+Mihail -> Viorel
+Valentin -> Aurelia
+Robert -> Timea
+11: Erika
+Silvia -> Georgiana
+17: Mircea
+0: Ecaterina
+18: Ancuta
+Daniel -> Liliana
+Ionut -> Teodora
+Veronica -> Iuliana
+Cristina -> Ioan
+12: Andrei
+Cristina -> Lenuta
+7: Nicusor
+12: Mircea
+Mihail -> Iulia
+3: Laszlo
+Ioan -> Mirela
+15: Teodora
+Victor -> Cristina
+7: Liviu
+Catalin -> Bianca
+Mihai -> Sorina
+Octavian -> Ramona
+4: Camelia
+7: Irina
+Nicoleta -> Bianca
+Daniela -> Adelina
+Eniko -> George
+Costel -> Anca
+9: Mihai
+Silviu -> Valentina
+Madalina -> Stefania
+Razvan -> Dorin
+0: Anisoara
+Paul -> Ioana
+Emanuel -> Teodora
+9: Nicoleta
+Octavian -> Irina
+5: Istvan
+Iulian -> Tunde
+Anamaria -> Emilia
+0: Veronica
+0: Tunde
+10: Ioan
+Simona -> Erika
+Marian -> Adriana
+Nicoleta -> Lenuta
+Liliana -> Violeta
+Ramona -> Alin
+Ioana -> Ion
+Melinda -> Diana
+13: Oana
+1: Kinga
+Ionut -> Eniko
+18: Eniko
+Ileana -> Simona
+Gheorghita -> Roxana
+Simona -> Iulian
+Silvia -> Alexandra
+Ana -> Madalina
+Cornel -> Anca
+Laura -> Tudor
+17: Valentin
+19: Eugen
+Ileana -> Radu
+7: Sorina
+Iuliana -> Georgeta
+Ovidiu -> Dorina
+Irina -> Petrica
+Robert -> Diana
+Ramona -> Georgian
+Cristina -> Aurelia
+Veronica -> Andrei
+Adina -> Loredana
+Geanina -> Iuliana
+6: Marian
+Emilia -> Lucian
+17: Camelia
+Stefan -> Mircea
+Octavian -> Ramona
+11: Dragos
+Iulia -> Lavinia
+6: Ionut
+Ioan -> Liviu
+15: Emil
+14: Luminita
+Nicoleta -> Paul
+Florian -> Ovidiu
+Sorina -> Adriana
+Sergiu -> Constantin
+2: Anamaria
+Valentin -> Radu
+Camelia -> Paula
+Rodica -> Mihai
+Liliana -> Laurentiu
+11: Alin
+1: Corina
+Maria -> Eniko
+8: Cosmin
+Razvan -> Adina
+12: Emanuel
+17: Sebastian
+Cristian -> Paula
+2: Adina
+2: Loredana
+Andra -> Carmen
+Marilena -> Ioan
+0: Nicusor
+Cornelia -> Elena
+19: Mihail
+9: Cornel
+Oana -> Rodica
+Marius -> Mihail
+11: Iulian
+Levente -> Catalin
+Petronela -> Erika
+Andreea -> Csaba
+Teodor -> Loredana
+8: Mihaela
+12: Attila
+Zoltan -> Florin
+Victor -> Nicolae
+Stefania -> Florin
+Georgeta -> Andreea
+Marius -> Petru
+Daniela -> Katalin
+Catalin -> Katalin
+5: Maria
+Nicusor -> Vasile
+16: Ancuta
+9: Victor
+1: Petronela
+Vlad -> Vasile
+12: Valentin
+Cornelia -> Alexandra
+12: Marin
+17: Lucian
+Georgian -> Gabriela
+Dorin -> Razvan
+Corina -> Luminita
+4: Matei
+Mihaela -> Szabolcs
+Laurentiu -> Georgeta
+Levente -> Florentina
+Irina -> Danut
+Elena -> Petrica
+Iulia -> Tiberiu
+Victor -> Viorel
+11: Petronela
+Ileana -> Cristian
+Carmen -> Andrea
+Cosmin -> Costin
+12: Ecaterina
+6: Marin
+Sergiu -> Nicoleta
+0: Ionela
+12: Elena
+19: Adrian
+16: Ionela
+Iulia -> Lucian
+Roxana -> Marilena
+Ancuta -> Daniel
+17: Raluca
+3: Sorina
+Mihail -> Carmen
+11: Timea
+2: Ioana
+18: Danut
+Nicolae -> Liliana
+9: Tunde
+Catalina -> Anisoara
+Emilia -> Elena
+Simona -> Emil
+0: Dorina
+3: Alina
+Alina -> Szabolcs
+0: Cristina
+6: Melinda
+Andrei -> Mariana
+11: Florian
+Zsolt -> Raluca
+Marinela -> Catalin
+3: Melinda
+19: Mircea
+Ana -> Tunde
+Ancuta -> Dumitru
+1: Liviu
+Emilia -> Marian
+Sebastian -> Cristian
+Danut -> Camelia
+Istvan -> Octavian
+Attila -> Florentina
+Timea -> Andreea
+16: Marian
+Raluca -> Dorin
+Codrin -> Levente
+Cristina -> Levente
+Andrei -> Ionut
+12: Andra
+9: Petru
+Florina -> Ecaterina
+12: Melinda
+14: Angela
+Ion -> Ancuta
+Cristina -> Ioana
+Teodor -> Gabriela
+11: Nicolae
+3: Anamaria
+Emilia -> Alin
+Ionela -> Sorina
+Cornel -> Vlad
+9: Cosmin
+Gabriel -> Istvan
+5: Matei
+Attila -> Teodor
+9: Laura
+Iulian -> Alexandru
+Costin -> Ionela
+Daniela -> Cornel
+Gheorghe -> Cornel
+4: Adina
+Dorina -> Oana
+7: Georgian
+Ecaterina -> Sorin
+Daniela -> Paul
+Kinga -> Cosmin
+Adelina -> Marius
+Rodica -> Constantin
+Valentina -> Geanina
+Sebastian -> Matei
+Vlad -> Nicusor
+3: Ion
+Ion -> Sebastian
+Kinga -> Stefan
+Csaba -> Alina
+10: Raluca
+8: Anisoara
+12: Emil
+4: Daniel
+13: Irina
+Sebastian -> Petru
+Emanuel -> Marian
+Lavinia -> Mihaela
+17: Marius
+6: Gheorghe
+14: Ileana
+Gabriel -> Kinga
+Cristina -> Eugen
+Marius -> Stefania
+Mircea -> Iulia
+4: Andra
+Simona -> Viorica
+Ionut -> Melinda
+3: Angela
+Andra -> Camelia
+Matei -> Laurentiu
+4: Adina
+Csaba -> Ionela
+Adina -> Nicolae
+Anamaria -> Rodica
+Viorica -> Ileana
+Dorina -> Zoltan
+Robert -> Cristina
+Maria -> Csaba
+Marin -> Iulian
+Kinga -> Maria
+8: Lavinia
+Silvia -> Laura
+Zsolt -> Florina
+Oana -> Adina
+Mihaela -> Victor
+Emilia -> Daniela
+18: Kinga
+0: Angela
+Marin -> Petronela
+Alexandru -> Sebastian
+Mihaela -> Ilie
+Eugen -> Andrea
+Ion -> Danut
+4: Stefan
+Laszlo -> Vlad
+Ana -> Ilie
+17: Luminita
+Catalina -> Gheorghita
+Anisoara -> Roxana
+Florina -> Mihail
+Dorina -> Georgian
+Alina -> Timea
+Lavinia -> Alexandru
+Silvia -> Vasilica
+16: Adrian
+0: Ion
+Corina -> Silviu
+Mircea -> Corina
+Lidia -> Dorina
+Mariana -> Viorica
+13: Codrin
+Mircea -> Daniela
+Codrin -> Victor
+Florina -> Florian
+Ion -> Ecaterina
+Raluca -> Sergiu
+Ionut -> Cornelia
+Emanuel -> Gheorghe
+8: Silvia
+13: Robert
+Veronica -> Dumitru
+Zsolt -> Mihaita
+Maria -> Ion
+7: Laszlo
+Mihaela -> Zsolt
+15: Valentin
+15: Silviu
+3: Maria
+9: Ana
+Oana -> Costel
+10: Alina
+4: Sergiu
+Anamaria -> Petronela
+Kinga -> Bogdan
+3: Silviu
+Simona -> Lidia
+6: Costin
+15: Daniel
+Andrei -> Florian
+Andra -> Matei
+18: Emanuel
+Robert -> Emanuel
+Silvia -> Bogdan
+Codrin -> Emil
+Costel -> Gabriel
+Gheorghe -> Oana
+Laszlo -> Ana
+Catalina -> Costel
+6: Corina
+Laura -> Mircea
+Marin -> Mihaela
+Marius -> Laura
+4: Liviu
+Maria -> Marin
+Gheorghita -> Gheorghe
+Marinela -> Mihaita
+1: Zoltan
+Daniel -> Gabriel
+Silviu -> Robert
+Ancuta -> Catalina
+Emilia -> Marius
+Lavinia -> Costin
+Raluca -> Attila
+Ana -> Veronica
+Simona -> Vasilica
+Ana -> Emilia
+Sergiu -> Cornelia
+Attila -> Corina
+5: Sergiu
+Adelina -> Eugen
+13: Kinga
+Valentina -> Lavinia
+Adrian -> Adelina
+Silviu -> Mariana
+2: Andra
+Codrin -> Liviu
+14: Attila
+19: Angela
+11: Alina
+Anamaria -> Kinga
+1: Irina
+2: Gheorghita
+Melinda -> Maria
+Gheorghita -> Ionut
+Teodor -> Simona
+13: Stefan
+1: Andra
+5: Ana
+Luminita -> Codrin
+Angela -> Melinda
+3: Anamaria
+Irina -> Angela
+Ancuta -> Andrei
+Codrin -> Ancuta
+Luminita -> Laszlo
+7: Monica
+Laszlo -> Irina
+Stefan -> Laszlo
+Anisoara -> Valentina
+7: Angela
+Daniel -> Sergiu
+Anamaria -> Lidia
+Dragos -> Stefan
+Raluca -> Marinela
+7: Luminita
+Robert -> Marinela
+Gheorghita -> Andra
+13: Adrian
+Luminita -> Anisoara
+Ana -> Veronica
+Alina -> Silvia
+0: Silvia
+Attila -> Teodor
+14: Florina
+Istvan -> Alina
+Angela -> Valentin
+9: Angela
+3: Dragos
+Andra -> Daniel
+Gheorghita -> Anamaria
+Robert -> Dragos
+Codrin -> Attila
+4: Silvia
+Monica -> Andra
+Silviu -> Florina
+Ana -> Zoltan
+Valentin -> Dragos
+4: Raluca
+Istvan -> Anamaria
+Codrin -> Ana
+14: Valentin
+18: Luminita
+Codrin -> Silvia
+Istvan -> Monica
+Valentin -> Gheorghita
+Istvan -> Angela
+Luminita -> Robert
+Codrin -> Silviu
+11: Monica
+8: Valentin
+Monica -> Istvan
+Adrian -> Monica
+Valentin -> Codrin
+5: Valentin
+3: Raluca
+Raluca -> Valentin
+10: Luminita
+0: Luminita
+7: Adrian
+Adrian -> Luminita
+JOC_20
+17: Tunde
+Andreea -> Adriana
+Nicolae -> Petronela
+7: Liliana
+Gheorghita -> Viorel
+15: Raluca
+15: Danut
+Radu -> Sorina
+Daniela -> Florian
+13: Adrian
+Danut -> Florina
+Adelina -> Ana
+Dorina -> Teodor
+Catalin -> Lenuta
+Lavinia -> Razvan
+Emanuel -> Levente
+Timea -> Alexandru
+Ana -> Tudor
+Marian -> Timea
+Cristian -> Zsolt
+Cosmin -> Gabriela
+Kinga -> Gabriel
+Mihaita -> Ramona
+Petronela -> Irina
+Cosmin -> Ovidiu
+12: Viorica
+Cosmin -> Emanuel
+Petru -> Alexandra
+Dorina -> Claudia
+16: Stefania
+17: Emanuel
+Cornelia -> Oana
+Anamaria -> Silvia
+Loredana -> Florian
+Sorin -> Attila
+Alina -> Diana
+Marinela -> Violeta
+11: Ciprian
+Eugen -> Vasile
+Corina -> Georgeta
+Alin -> Adelina
+Lidia -> Dumitru
+19: George
+Nicusor -> Ileana
+13: Nicolae
+14: Viorel
+9: Lavinia
+Claudiu -> Lenuta
+2: Andreea
+Paula -> Florin
+8: Claudiu
+19: Paul
+Eniko -> Cristina
+Vlad -> Csaba
+Cornelia -> Matei
+Gabriela -> Codrin
+Iuliana -> Cornel
+3: Emanuel
+Szabolcs -> Raluca
+Ilie -> Emil
+Ileana -> Iulia
+8: Mihaela
+10: Ionel
+Vlad -> Emil
+3: Dragos
+Matei -> Sebastian
+Alexandru -> Iuliana
+Levente -> Gheorghe
+11: Emilia
+Teodor -> Georgiana
+Octavian -> Ionela
+Ana -> Timea
+Adrian -> Zsolt
+Andrei -> Sergiu
+Ecaterina -> Ionela
+Adina -> Iulia
+Carmen -> Ioan
+Ancuta -> Daniela
+Cristian -> Danut
+Mihaita -> Daniel
+Angela -> Anca
+Costin -> Octavian
+Catalin -> Madalina
+Raluca -> Monica
+Veronica -> Nicolae
+Dan -> Florentina
+19: Alexandra
+3: Ionel
+Vasilica -> Ioan
+Elena -> Roxana
+3: Dorin
+Katalin -> Andrei
+0: Laurentiu
+Sergiu -> Cristina
+Codrin -> Mihail
+Adriana -> Paul
+Octavian -> Marinela
+Adina -> Mariana
+13: Radu
+Lavinia -> Adriana
+5: Maria
+Victor -> Ana
+9: Georgiana
+Ion -> Paula
+Zoltan -> Liliana
+14: Gheorghe
+Gabriel -> Dragos
+Laurentiu -> Lucian
+Loredana -> Madalina
+Florin -> Sorina
+8: Cornel
+9: Ovidiu
+Ramona -> Ileana
+Elena -> Sebastian
+Codrin -> Paula
+Adelina -> Cornel
+10: Istvan
+Simona -> Gabriel
+Matei -> Szabolcs
+Alexandra -> Mariana
+Attila -> Anamaria
+Adrian -> Laurentiu
+Dragos -> Florentina
+Ecaterina -> Diana
+12: Corina
+Iuliana -> Rodica
+Veronica -> Robert
+Laura -> Ilie
+Cornelia -> Levente
+12: Nicolae
+Mihail -> Ramona
+Angela -> Petrica
+Mihaela -> Iuliana
+Cornelia -> Cristian
+Erika -> Ovidiu
+Matei -> Eniko
+3: Mihaita
+Ionel -> Andrei
+Ecaterina -> Iulian
+0: Stefania
+Gabriela -> Rodica
+Geanina -> Ion
+3: Csaba
+Anca -> Marilena
+7: Mihaita
+Marian -> Simona
+Florin -> Teodor
+Veronica -> Viorel
+1: Oana
+Bogdan -> Corina
+Ioana -> Emanuel
+Costel -> Alexandra
+Adina -> Octavian
+15: Csaba
+Teodora -> Andra
+5: Georgiana
+Adrian -> Angela
+Teodora -> Marius
+Marinela -> Marin
+1: Mihai
+16: Daniela
+3: Cornelia
+6: Violeta
+Costin -> Vlad
+Dumitru -> Attila
+Gheorghe -> Eugen
+Dorin -> Florina
+7: Liliana
+1: Andreea
+Zoltan -> Paul
+Csaba -> Anamaria
+1: Mirela
+Angela -> Mihaela
+Oana -> Irina
+2: Ciprian
+Costin -> Ciprian
+10: Nicusor
+10: Bogdan
+Tiberiu -> Cristian
+Ilie -> Cosmin
+Radu -> Laurentiu
+Georgiana -> Georgeta
+Mihail -> Daniel
+Ionut -> Anca
+9: Angela
+Ancuta -> Valentina
+Costel -> Maria
+Stefania -> Gabriela
+Sorin -> Lavinia
+12: Catalina
+Anisoara -> Iulian
+Gheorghita -> Loredana
+Alexandru -> Emilia
+Lidia -> Marilena
+13: Vasilica
+Petru -> Radu
+Bogdan -> Andrea
+Lucian -> Catalin
+0: Vasile
+Valentin -> Dorin
+3: Catalin
+Marian -> Tunde
+Bogdan -> Claudia
+Zoltan -> Claudiu
+10: Alexandru
+7: Georgian
+Dan -> Maria
+Gheorghe -> Andra
+Raluca -> Csaba
+Florin -> Tudor
+Eniko -> George
+17: Bianca
+Emilia -> Angela
+Danut -> Alin
+Ilie -> Georgiana
+Ionut -> Tiberiu
+11: Eugen
+Valentin -> Anisoara
+Ilie -> Constantin
+Marin -> Valentina
+7: Florin
+Mihaela -> Alin
+Zoltan -> Marius
+Ilie -> Ciprian
+5: Cornelia
+Liliana -> Costel
+6: Luminita
+Adrian -> Eniko
+Adina -> Mihaita
+Catalin -> Nicusor
+Oana -> Vasilica
+Dan -> Marian
+Adelina -> Ilie
+8: Catalin
+6: Daniela
+4: Danut
+Luminita -> Mirela
+Marinela -> Bogdan
+Marian -> Georgian
+18: Gheorghe
+Valentin -> Danut
+12: Marian
+Ancuta -> George
+Raluca -> Bianca
+Lidia -> Gheorghe
+Mihai -> Erika
+Petronela -> Carmen
+0: Lucian
+10: Ecaterina
+Szabolcs -> Costel
+Ion -> Ionel
+5: Vlad
+3: Andrea
+Emilia -> Stefan
+9: Laszlo
+Zoltan -> Sorin
+10: Matei
+0: Melinda
+Luminita -> Cornelia
+Matei -> Aurelia
+Viorica -> Carmen
+Cornelia -> Geanina
+Gheorghita -> Alina
+Andreea -> Lidia
+Petrica -> Vlad
+2: Mihail
+1: Camelia
+Lucian -> Nicusor
+6: Dorin
+Zoltan -> Bogdan
+12: Ecaterina
+Anisoara -> Ionut
+12: Florin
+Florin -> Valentin
+Nicoleta -> Petrica
+Constantin -> Petru
+Florin -> Ancuta
+18: Claudiu
+Ioana -> Lucian
+Luminita -> Roxana
+5: Tunde
+Codrin -> Claudiu
+Stefania -> Ioana
+Cosmin -> Simona
+Silviu -> Camelia
+Kinga -> Valentin
+Catalin -> Violeta
+18: Marian
+4: Kinga
+Corina -> Dan
+Mihaita -> Dorin
+Monica -> Melinda
+19: Geanina
+1: Ion
+13: Mircea
+Szabolcs -> Florin
+16: Cornelia
+Sorin -> Ionel
+Victor -> Laszlo
+Istvan -> Gheorghita
+Ioana -> Kinga
+Marin -> Ionut
+Georgian -> Melinda
+Mihaita -> Catalin
+Zoltan -> Cosmin
+Stefania -> Sergiu
+Ioana -> Mihai
+Mihai -> Marin
+Liliana -> Dorina
+Stefan -> Emilia
+Stefania -> Vasilica
+Constantin -> Stefan
+Cornelia -> Ioana
+6: Ecaterina
+Matei -> Katalin
+Stefania -> Marian
+Robert -> Costin
+5: Silviu
+Lidia -> Ion
+5: Dragos
+Nicolae -> Tunde
+Nicoleta -> Tiberiu
+Mircea -> Camelia
+Mihai -> Anisoara
+Gheorghita -> Teodora
+Alina -> Aurelia
+18: Loredana
+8: Liliana
+Eugen -> Nicolae
+11: Razvan
+Lavinia -> Liliana
+Viorica -> Adelina
+15: Laszlo
+Constantin -> Alina
+14: Laura
+4: Mihai
+6: Liviu
+Radu -> Luminita
+Mirela -> Mircea
+18: Georgian
+Dumitru -> Lavinia
+12: Matei
+Teodora -> Luminita
+Dumitru -> Mihail
+3: Istvan
+15: Erika
+Sorin -> Szabolcs
+17: Radu
+Loredana -> Liviu
+Vasile -> Nicoleta
+Sorin -> Marinela
+15: Laura
+2: Erika
+5: Mihaita
+Matei -> Ecaterina
+Robert -> Razvan
+Istvan -> Mihaela
+Lidia -> Vasile
+9: Sorin
+Dan -> Laura
+Mihaita -> Raluca
+3: Silviu
+2: Istvan
+Costin -> Alexandru
+Mircea -> Kinga
+12: Katalin
+Daniela -> Mihaita
+Victor -> Laura
+Constantin -> Monica
+14: Liviu
+15: Costin
+Ecaterina -> Constantin
+Dragos -> Loredana
+Georgian -> Dan
+Adina -> Andreea
+Andreea -> Silviu
+12: Costin
+11: Adrian
+Catalina -> Dragos
+Ecaterina -> Victor
+Mirela -> Veronica
+Zoltan -> Mihai
+Elena -> Silviu
+7: Veronica
+Andreea -> Dorina
+Robert -> Geanina
+Teodora -> Matei
+4: Veronica
+Codrin -> Andrea
+11: Silvia
+19: Eugen
+Ancuta -> Elena
+Radu -> Ancuta
+9: Andreea
+7: Stefania
+Istvan -> Codrin
+15: Daniela
+Bianca -> Sorin
+Adrian -> Petru
+Teodora -> Oana
+Costin -> Laszlo
+Veronica -> Robert
+Eugen -> Mirela
+Bianca -> Daniela
+Viorica -> Katalin
+16: Bianca
+Bianca -> Cornelia
+2: Radu
+Adrian -> Erika
+3: Adina
+Liviu -> Andreea
+14: Istvan
+Liviu -> Elena
+Adina -> Zoltan
+11: Victor
+7: Radu
+Ecaterina -> Corina
+Silvia -> Viorica
+19: Liviu
+Radu -> Silvia
+Teodora -> Radu
+Victor -> Nicoleta
+Mircea -> Stefania
+9: Mircea
+Mircea -> Zoltan
+15: Petronela
+8: Catalina
+8: Dumitru
+15: Catalina
+Lidia -> Bianca
+Teodora -> Adina
+Istvan -> Adrian
+15: Liviu
+Gheorghita -> Stefania
+Georgian -> Ecaterina
+1: Teodora
+1: Georgian
+14: Costin
+Mircea -> Adrian
+3: Georgian
+Istvan -> Liviu
+19: Eugen
+0: Victor
+Eugen -> Petronela
+15: Mircea
+Catalina -> Lidia
+12: Costin
+Costin -> Dumitru
+9: Eugen
+Mircea -> Teodora
+Costin -> Eugen
+Veronica -> Catalina
+5: Viorica
+Istvan -> Veronica
+Catalina -> Georgian
+17: Adina
+Costin -> Gheorghita
+Viorica -> Mircea
+15: Victor
+Catalina -> Costin
+Victor -> Adina
+19: Victor
+9: Catalina
+Viorica -> Victor
+Viorica -> Catalina
+JOC_21
+12: Ion
+Liliana -> Costin
+7: Gabriel
+Adina -> Ionut
+17: Viorel
+Ionela -> Ancuta
+Florina -> Adelina
+Ionel -> Vasilica
+Eugen -> Ovidiu
+13: Marilena
+Cornel -> Dumitru
+Irina -> Marian
+Iulian -> Emilia
+Mirela -> Lenuta
+Corina -> Adina
+Lenuta -> Ionut
+17: Tiberiu
+8: Daniela
+14: Cornel
+Sorin -> Ramona
+Lavinia -> Valentina
+Dragos -> Alin
+9: Csaba
+Constantin -> Georgian
+19: Liliana
+Marinela -> Ramona
+17: Lucian
+Irina -> Anisoara
+Costel -> Claudiu
+Dragos -> Ionela
+6: Marius
+Bianca -> Ionela
+Mirela -> Paula
+Silviu -> Ana
+Geanina -> Valentin
+11: Loredana
+Ilie -> Nicoleta
+4: Dorina
+Nicoleta -> Lavinia
+8: Alina
+Madalina -> Octavian
+Roxana -> Loredana
+5: Georgian
+6: Florin
+Katalin -> Ecaterina
+Luminita -> Adrian
+Ionel -> Robert
+15: Gabriel
+1: Nicusor
+6: Oana
+2: Szabolcs
+8: Tudor
+Catalin -> Mihaita
+Valentin -> Sebastian
+Alina -> Aurelia
+17: Laura
+Adrian -> Mirela
+17: Georgeta
+2: Adina
+Anamaria -> Timea
+11: Silvia
+Adelina -> Claudiu
+8: Dan
+Bogdan -> Laurentiu
+Sorina -> Ioana
+Alexandra -> Marilena
+Paula -> Octavian
+1: Codrin
+Csaba -> Maria
+Valentin -> Ovidiu
+Iulian -> Laurentiu
+1: Attila
+Mihaela -> Stefania
+Anamaria -> Katalin
+11: Ioan
+4: Marian
+Alina -> Luminita
+Anamaria -> Cornel
+Paul -> Simona
+6: Mihaela
+Teodora -> Stefan
+Gabriela -> Melinda
+Andrea -> Florentina
+Mihaita -> Codrin
+Razvan -> Erika
+Alexandra -> Ioana
+12: Razvan
+Cosmin -> Szabolcs
+Claudia -> Iulian
+Sorin -> Ciprian
+Attila -> Raluca
+Sorina -> Ionel
+Tudor -> Viorel
+Silvia -> Iulia
+Kinga -> Florina
+Ecaterina -> Dumitru
+7: Petru
+Andreea -> Emanuel
+Cornelia -> Camelia
+Catalin -> Gheorghita
+Szabolcs -> Loredana
+6: Bianca
+Costin -> Valentin
+Roxana -> Paul
+1: Ana
+Claudia -> Sergiu
+8: Florentina
+14: Diana
+Szabolcs -> Dorin
+Costel -> Ion
+Katalin -> Mirela
+Geanina -> Anamaria
+Ana -> Gheorghita
+Veronica -> Madalina
+2: Alin
+6: Geanina
+15: Cosmin
+Marilena -> Maria
+Irina -> Liviu
+Constantin -> Petronela
+Catalina -> Paul
+Nicoleta -> Andra
+Constantin -> Gabriel
+Andreea -> Andra
+Zoltan -> Corina
+Sebastian -> Marinela
+Catalina -> Bianca
+Marius -> Florina
+Florian -> Sorin
+18: Marian
+5: Gheorghe
+Elena -> Teodora
+Adriana -> Adelina
+Cornelia -> Iulia
+5: Vlad
+7: Levente
+3: Laszlo
+14: Lucian
+Mariana -> Aurelia
+2: Marin
+7: Ioan
+17: Adina
+13: Ancuta
+Szabolcs -> Ion
+14: Kinga
+Cosmin -> Costel
+Gheorghe -> Mihail
+Gheorghe -> Vasilica
+Daniela -> Lidia
+Attila -> Marius
+1: Georgeta
+Corina -> Vlad
+13: Georgian
+Irina -> Emil
+5: Lenuta
+9: Veronica
+Razvan -> Cristian
+18: Teodora
+9: Florian
+Anamaria -> Alexandra
+Luminita -> Cornel
+Mariana -> Viorel
+14: Laura
+Florentina -> Tunde
+Stefan -> Tiberiu
+Alina -> Ileana
+Ecaterina -> Cristina
+Marius -> Szabolcs
+Geanina -> Lavinia
+7: Adriana
+Eniko -> Florentina
+11: Ileana
+Veronica -> Alin
+Elena -> Sorina
+Valentina -> Emilia
+Sebastian -> Rodica
+0: Catalin
+Bogdan -> Georgian
+14: Angela
+2: Ancuta
+5: Carmen
+Nicolae -> Bogdan
+7: Cristina
+Mihai -> Razvan
+Valentina -> Tunde
+Anca -> Petrica
+Alexandra -> Viorica
+Daniel -> Cristina
+Anca -> Cosmin
+3: Marinela
+Bianca -> Mariana
+Emil -> Nicusor
+14: Sorin
+Robert -> Teodor
+10: Gheorghe
+Iulian -> Silviu
+Adrian -> Marian
+Lenuta -> Ioan
+Alina -> Costin
+1: Constantin
+Mihail -> Gheorghe
+Florin -> Laszlo
+Mircea -> Stefan
+Levente -> Monica
+Danut -> Carmen
+Sebastian -> Nicoleta
+17: Gabriela
+Diana -> Mihaita
+10: Robert
+Csaba -> Ciprian
+11: Teodora
+5: Sorin
+7: Florian
+Dorin -> Cosmin
+11: Victor
+Matei -> Costel
+Tudor -> Oana
+2: Bogdan
+Gabriel -> Eugen
+15: Dragos
+Tudor -> Iuliana
+Irina -> Eugen
+Catalin -> Petrica
+Marin -> Anamaria
+1: Corina
+Adina -> Anca
+Liliana -> Dorina
+Claudia -> Csaba
+Alexandru -> Csaba
+Alexandra -> Violeta
+Lenuta -> Corina
+14: Alexandru
+Razvan -> Dorina
+Alexandru -> Emanuel
+Ilie -> Cristian
+10: Mihaela
+19: Emil
+Bogdan -> Lenuta
+Camelia -> Petru
+Iulian -> Mariana
+Constantin -> Eniko
+1: Matei
+Sergiu -> Vlad
+17: Iulian
+18: Daniela
+Mihai -> Marin
+Katalin -> Diana
+Andrea -> Alexandra
+16: Erika
+Lidia -> Eniko
+15: Georgeta
+Laszlo -> Liliana
+Madalina -> Rodica
+Irina -> Daniela
+19: Ana
+13: Roxana
+Claudia -> Nicusor
+Dragos -> Bogdan
+3: Viorica
+Zsolt -> Radu
+Sergiu -> Zsolt
+Sorin -> Laura
+Silvia -> Liviu
+5: Marilena
+1: Laszlo
+Irina -> Nicolae
+Kinga -> Teodora
+13: Valentina
+Attila -> Andrei
+Angela -> Laura
+Adrian -> Mihail
+Andrei -> Adina
+11: Ecaterina
+Robert -> Nicolae
+Catalin -> Petronela
+Erika -> Andrei
+11: Attila
+Lucian -> Ioan
+Mircea -> Vasile
+Danut -> Catalina
+Silvia -> Tudor
+Anisoara -> Madalina
+18: Iuliana
+17: Sorin
+Silvia -> Monica
+14: George
+Florian -> Georgiana
+Georgiana -> Angela
+Viorica -> Florin
+9: Erika
+Tiberiu -> Dorin
+Victor -> Teodor
+3: Camelia
+17: Daniela
+Ionel -> Angela
+Irina -> Iuliana
+2: Ilie
+15: Violeta
+10: Gabriela
+0: Silvia
+Anisoara -> Mihaela
+13: Levente
+1: Ana
+Catalin -> Danut
+Katalin -> Timea
+Melinda -> Valentina
+Adrian -> Dan
+Levente -> Simona
+Dan -> Georgiana
+4: Marilena
+Silvia -> Mihaela
+Robert -> Laszlo
+Geanina -> Catalin
+Melinda -> Adriana
+Tiberiu -> Oana
+Ilie -> Elena
+Robert -> Lidia
+Claudia -> Daniela
+19: Razvan
+1: Anca
+Andrea -> Carmen
+Marius -> Sergiu
+Sorin -> Erika
+George -> Marinela
+Constantin -> Andrea
+Marilena -> Daniel
+Anisoara -> Sorin
+Stefania -> Marius
+Zoltan -> Adrian
+Alina -> Anisoara
+Raluca -> Marilena
+9: Georgeta
+Constantin -> Victor
+Ionel -> Zoltan
+Lucian -> Andreea
+12: Roxana
+Georgeta -> Kinga
+Marin -> Paula
+Vasile -> Petru
+Georgeta -> Constantin
+16: Andrea
+Alina -> Ionel
+16: Matei
+Levente -> Stefania
+13: Georgeta
+Victor -> Codrin
+Ana -> Andrea
+4: Florian
+15: Gheorghe
+Tudor -> Vasile
+Luminita -> Gabriela
+Viorica -> Constantin
+Melinda -> Anca
+Ana -> Sebastian
+5: Tiberiu
+Catalin -> Silvia
+3: Istvan
+Silviu -> Gabriel
+10: Bianca
+Ana -> Emil
+Irina -> Victor
+9: Melinda
+Lucian -> Melinda
+Georgeta -> Liliana
+Veronica -> Alexandru
+Bianca -> Roxana
+9: Alexandru
+Alina -> Kinga
+1: Katalin
+9: Gheorghe
+18: Levente
+Levente -> Bianca
+Andreea -> Catalina
+Iulian -> Alina
+Ilie -> Alina
+Danut -> Alexandru
+Marin -> Raluca
+13: Camelia
+George -> Mircea
+Adriana -> Radu
+Daniel -> Gheorghe
+12: Luminita
+Cornelia -> Veronica
+Florian -> Roxana
+9: Tudor
+0: Camelia
+Mihai -> Danut
+Veronica -> Iulian
+Robert -> Ancuta
+Andreea -> Levente
+Florian -> Florin
+Tudor -> Andreea
+Mircea -> Matei
+Cornelia -> Matei
+3: Viorica
+15: Viorica
+Mihai -> Luminita
+Tudor -> Viorica
+Ecaterina -> Ana
+Silvia -> Gabriela
+Mircea -> Lucian
+14: Diana
+Geanina -> Lucian
+Ileana -> Irina
+2: Elena
+1: Levente
+Adriana -> Sorina
+Dan -> Camelia
+Geanina -> Elena
+Florian -> Ilie
+Zoltan -> Adriana
+Dan -> Catalin
+Florian -> Veronica
+Silviu -> Razvan
+Ilie -> Claudia
+Dragos -> Zoltan
+19: Geanina
+Silvia -> Daniel
+Tudor -> Tiberiu
+Attila -> George
+4: Dragos
+Mihai -> Cornelia
+Katalin -> George
+Istvan -> Marin
+Cornelia -> Ecaterina
+1: Violeta
+Diana -> Tudor
+1: Dan
+Dan -> Robert
+8: Istvan
+8: Florian
+Geanina -> Mihai
+9: Zsolt
+Ileana -> Diana
+14: Georgeta
+Dan -> Georgeta
+Mihai -> Silvia
+Levente -> Dragos
+Mihai -> Violeta
+Ileana -> Zsolt
+Claudia -> Dan
+Levente -> Claudia
+6: Katalin
+Irina -> Cornelia
+Geanina -> Attila
+Istvan -> Dragos
+15: Katalin
+Ilie -> Florian
+Mihai -> Irina
+Florian -> Mihai
+JOC_22
+13: Cornelia
+Angela -> Valentina
+1: Tiberiu
+Danut -> Irina
+Liviu -> Dumitru
+Adina -> Liliana
+Teodora -> Mirela
+Attila -> Viorel
+4: Liliana
+Victor -> Cristian
+11: Stefania
+Veronica -> Sergiu
+8: Emanuel
+George -> Emil
+Mihai -> Silviu
+Marilena -> Lucian
+4: Ciprian
+George -> Claudiu
+Petronela -> Dumitru
+12: Mihai
+19: Aurelia
+Matei -> Tiberiu
+6: Dorina
+Mihail -> Attila
+13: Alexandru
+Eniko -> Ionela
+14: Mihai
+Dan -> Corina
+8: Lucian
+Andreea -> Teodora
+Petronela -> Andreea
+Laura -> Cornelia
+Florin -> Laszlo
+Vlad -> Rodica
+Marian -> Andrea
+Nicoleta -> Rodica
+Adelina -> Stefan
+9: Cristina
+2: Claudia
+Levente -> Nicoleta
+Tunde -> Valentina
+Adina -> Adrian
+Timea -> Petronela
+Lucian -> Sebastian
+Tudor -> Ioan
+Iulian -> Ilie
+Cosmin -> Tudor
+1: Florian
+George -> Aurelia
+Marian -> Dan
+0: Ion
+14: Claudiu
+Eugen -> Vasile
+Attila -> Lidia
+Liliana -> Roxana
+Tudor -> Monica
+Veronica -> Adelina
+Silvia -> Sorin
+Alexandru -> Andrei
+13: Nicolae
+0: Ioana
+Ana -> Cristina
+Nicoleta -> Geanina
+8: Mihail
+Florin -> Tunde
+15: Andra
+Aurelia -> Nicoleta
+18: Iulian
+4: Georgeta
+4: Maria
+Vasile -> Bianca
+Nicolae -> Erika
+Daniela -> Georgiana
+19: Ciprian
+Florian -> Cristian
+18: Lenuta
+Roxana -> Sebastian
+Florentina -> Florian
+Mircea -> Adriana
+9: Claudiu
+Alexandra -> Gheorghita
+3: Dan
+Stefania -> Vlad
+2: Ciprian
+Raluca -> Alin
+Gheorghita -> Ciprian
+Vlad -> Ion
+7: Victor
+13: Gabriel
+Luminita -> Viorel
+Daniel -> Vasilica
+Eniko -> Alin
+11: Mihaita
+Costel -> Ioan
+Lavinia -> Ioana
+Eniko -> Gabriela
+Nicolae -> Zoltan
+Codrin -> Luminita
+Anamaria -> Costel
+16: Vasile
+Bogdan -> Bianca
+14: Andrei
+Tunde -> Andrei
+9: Timea
+Iulian -> Ilie
+Attila -> Bogdan
+Georgeta -> Lucian
+10: Viorica
+Iuliana -> Mihaita
+Cornelia -> Ionut
+Costel -> Mirela
+Andreea -> Anisoara
+13: Constantin
+Loredana -> Emilia
+Sorin -> Eugen
+Catalina -> Teodor
+Erika -> Ionela
+Emanuel -> Liviu
+13: Paula
+Marius -> Mihail
+Georgian -> Iulian
+Mihail -> Dorina
+11: George
+16: Radu
+Cristina -> Silvia
+Emanuel -> Claudiu
+Corina -> Anisoara
+8: Dorina
+Teodora -> Matei
+Raluca -> Levente
+Silviu -> Anamaria
+Marinela -> Ion
+Cristina -> Robert
+Andra -> Georgiana
+14: Paul
+Zoltan -> Matei
+Robert -> Stefania
+Nicolae -> Marinela
+6: Ecaterina
+Istvan -> Valentin
+Nicolae -> Cornel
+9: Paula
+8: Tiberiu
+Costel -> Eugen
+13: Petronela
+Corina -> Lavinia
+Raluca -> Florin
+11: Petrica
+Andra -> Florin
+Teodor -> Robert
+14: Nicolae
+8: Attila
+Sorina -> Corina
+George -> Veronica
+11: Daniela
+Georgian -> Constantin
+Roxana -> Madalina
+9: Adriana
+Florentina -> Silviu
+Cristina -> Ancuta
+Constantin -> Kinga
+Petrica -> George
+Dan -> Claudia
+Simona -> Dragos
+Camelia -> Ancuta
+13: Petrica
+Teodor -> Mihai
+Florina -> Aurelia
+18: Octavian
+11: Geanina
+Katalin -> Simona
+Ciprian -> Viorica
+Danut -> Razvan
+11: Teodora
+Liviu -> Ramona
+2: Mihaita
+Vasile -> Luminita
+Roxana -> Laurentiu
+Cosmin -> Gheorghe
+5: Valentin
+1: Ecaterina
+Georgian -> Anamaria
+Loredana -> Istvan
+8: Georgian
+5: Cristina
+11: Tudor
+Vasilica -> Adriana
+Dan -> Marilena
+17: Petrica
+Stefania -> Florian
+8: Ecaterina
+Marilena -> Cristina
+Ioana -> Daniela
+Valentin -> Silvia
+Mihaela -> Emil
+Emilia -> Codrin
+Viorica -> Carmen
+Emilia -> Paul
+Nicolae -> Petrica
+Paula -> Nicusor
+Mircea -> Valentin
+0: Iulia
+4: Vasilica
+Mircea -> Razvan
+Melinda -> Marius
+Mihail -> Loredana
+Erika -> Alexandra
+Monica -> Lidia
+Roxana -> Geanina
+5: Dragos
+5: Ionut
+1: Vasilica
+18: Monica
+12: Marius
+George -> Angela
+4: Daniel
+Georgeta -> Anca
+Costel -> Georgian
+Octavian -> Ciprian
+Carmen -> Costel
+Liviu -> Liliana
+Georgeta -> Ramona
+13: Mihaita
+Costin -> Simona
+15: Alexandra
+19: Andreea
+Tiberiu -> Oana
+Vlad -> Ecaterina
+Madalina -> Codrin
+Maria -> Marinela
+5: Andrea
+Adelina -> Andreea
+Dorina -> George
+Teodora -> Marius
+Veronica -> Irina
+Bogdan -> Raluca
+Ovidiu -> Angela
+2: Alina
+Mihaela -> Violeta
+1: Erika
+Daniel -> Mihaita
+Sergiu -> Anca
+Daniela -> Victor
+Teodora -> Melinda
+Diana -> Carmen
+Victor -> Teodor
+Iulian -> Loredana
+Dorin -> Ionel
+Adina -> Madalina
+Elena -> Dan
+Veronica -> Catalina
+18: Dorin
+Cosmin -> Victor
+Viorica -> Ioana
+Georgeta -> Laura
+9: Zoltan
+Costin -> Vlad
+Ovidiu -> Emilia
+Melinda -> Gabriel
+Florentina -> Catalina
+Szabolcs -> Alexandru
+Gheorghita -> Ecaterina
+Dorina -> Alexandru
+Emanuel -> Petrica
+Andrea -> Laura
+Monica -> Violeta
+Ionel -> Petronela
+Marian -> Cornelia
+Sorin -> Lavinia
+Adrian -> Marilena
+Florentina -> Melinda
+Attila -> Iulia
+Daniel -> Tiberiu
+Lenuta -> Catalin
+12: Marin
+15: Eniko
+16: Stefania
+Mihai -> Liviu
+13: Stefania
+Octavian -> Adrian
+13: Stefan
+Sergiu -> Gabriela
+Attila -> Nicolae
+Ionut -> Tudor
+0: Andrea
+5: Sergiu
+Iuliana -> Mircea
+Adina -> Sorin
+Georgeta -> Florina
+Ileana -> Diana
+16: Adina
+Gabriel -> Ovidiu
+Constantin -> Marian
+Iulia -> Georgeta
+Veronica -> Bogdan
+Florina -> Elena
+Sergiu -> Ionut
+Paul -> Stefan
+Dorin -> Georgian
+Laszlo -> Marian
+Vasile -> Mircea
+Daniel -> Paula
+10: Iulia
+Teodora -> Iulian
+3: Andra
+Tunde -> Andrea
+Andra -> Camelia
+14: Istvan
+Radu -> Eniko
+Emanuel -> Roxana
+Gheorghe -> Teodora
+14: Laszlo
+Zsolt -> Radu
+14: Adina
+Oana -> Eniko
+Mihaela -> Katalin
+Gheorghe -> Attila
+5: Ovidiu
+Iulia -> Camelia
+Csaba -> Oana
+Laurentiu -> Daniel
+Ovidiu -> Szabolcs
+14: Andra
+10: Sorina
+Tunde -> Mihai
+Nicolae -> Monica
+Adelina -> Alexandra
+Daniel -> Zoltan
+Catalin -> Gheorghe
+Gheorghita -> Mariana
+15: Mihaela
+9: Alina
+Claudia -> Adelina
+Radu -> Mariana
+Timea -> Ionel
+Petru -> Catalin
+7: Florentina
+Ovidiu -> Daniela
+Tunde -> Octavian
+3: Adina
+12: Dorin
+Elena -> Viorica
+Lenuta -> Istvan
+Danut -> Octavian
+Diana -> Andra
+3: Laurentiu
+12: Florina
+Florentina -> Andra
+18: Tunde
+Tunde -> Ovidiu
+Constantin -> Tunde
+Erika -> Claudia
+Ana -> Georgeta
+Laurentiu -> Daniel
+Gabriel -> Nicusor
+Gabriel -> Timea
+Radu -> Dorin
+0: Laurentiu
+13: Marin
+5: Lenuta
+Laszlo -> Radu
+Florentina -> Gheorghita
+11: Katalin
+7: Paula
+2: Lenuta
+Vasile -> Diana
+Danut -> Vasile
+Elena -> Paula
+Ana -> Sergiu
+Raluca -> Costin
+18: Raluca
+Marin -> Nicolae
+Marin -> Florina
+Cornel -> Mihail
+Emanuel -> Stefania
+Maria -> Adina
+19: Marin
+Cornel -> Raluca
+Elena -> Dorina
+Szabolcs -> Alina
+Iulia -> Timea
+Florentina -> Emanuel
+Ana -> Laszlo
+Katalin -> Gabriel
+Iuliana -> Costin
+Elena -> Dorin
+Alina -> Szabolcs
+Kinga -> Zsolt
+Elena -> Laurentiu
+Zsolt -> Cosmin
+Veronica -> Csaba
+6: Iuliana
+Dragos -> Alina
+Iulia -> Levente
+8: Lenuta
+7: Dragos
+Cosmin -> Dragos
+Emanuel -> Erika
+Vasilica -> Maria
+Ileana -> Ana
+Mihaela -> Ileana
+15: Danut
+Constantin -> Ana
+Cosmin -> Adina
+16: Iuliana
+15: Mihaela
+Iuliana -> Marin
+Ileana -> Petru
+15: Iulia
+Constantin -> Katalin
+6: Zsolt
+Mihaela -> Veronica
+0: Iulia
+Marin -> Florentina
+Danut -> Maria
+Csaba -> Constantin
+11: Cornel
+Vasilica -> Elena
+Cornel -> Marin
+Florentina -> Vasilica
+Lenuta -> Iuliana
+Petru -> Danut
+1: Florentina
+Csaba -> Emanuel
+8: Kinga
+Csaba -> Ileana
+2: Zsolt
+Cosmin -> Cornel
+Csaba -> Iulia
+Cosmin -> Lenuta
+Cosmin -> Csaba
+17: Danut
+7: Danut
+Zsolt -> Iuliana
+15: Sorina
+10: Danut
+Lenuta -> Mihaela
+Florentina -> Lenuta
+2: Petru
+Florentina -> Paul
+11: Cosmin
+Kinga -> Cosmin
+Mihaela -> Danut
+Sorina -> Zsolt
+17: Florentina
+Kinga -> Mihaela
+Sorina -> Florentina
+JOC_23
+18: Ioan
+Adelina -> Vasile
+Ecaterina -> Daniela
+10: Rodica
+Silviu -> Erika
+8: Florina
+Corina -> Ionel
+Florina -> Silviu
+1: Kinga
+Monica -> Codrin
+Radu -> Mirela
+17: Geanina
+Tunde -> Violeta
+Mihail -> Ovidiu
+Georgiana -> Liviu
+Andra -> George
+Viorica -> Valentin
+Andrei -> Georgeta
+19: Cornel
+12: Oana
+Stefan -> Marius
+11: Carmen
+Anca -> Levente
+16: Teodora
+Viorel -> Florin
+Eugen -> Cosmin
+18: Ilie
+Andrei -> Florian
+17: Adrian
+Vasile -> Tiberiu
+Ionut -> Teodora
+1: Petrica
+Tunde -> Simona
+Valentina -> Vlad
+16: Corina
+Stefan -> Florian
+9: Florentina
+Vlad -> Irina
+16: Gheorghe
+Danut -> Marian
+Nicusor -> Alina
+18: Danut
+Tunde -> Mihai
+12: Andrea
+1: Catalin
+16: Adina
+4: Corina
+Daniel -> Costin
+Anca -> Paula
+17: Dan
+Costel -> Maria
+Raluca -> Iulia
+Cornel -> Laurentiu
+Gheorghe -> Vasilica
+16: Liviu
+Adrian -> Melinda
+9: Nicusor
+Catalin -> Andrei
+14: Daniela
+Ana -> Sergiu
+13: Zoltan
+Monica -> Laura
+11: Dragos
+0: Veronica
+Dorin -> Laura
+Lavinia -> Claudia
+Iulian -> Mircea
+Petrica -> Cornelia
+George -> Ciprian
+1: Matei
+Claudiu -> Dragos
+Mircea -> Monica
+Matei -> Anamaria
+Sergiu -> Daniela
+Viorica -> Mirela
+16: Gabriel
+14: Laszlo
+Ecaterina -> Andreea
+Paul -> Georgiana
+Anamaria -> Petru
+Mihai -> Luminita
+19: Katalin
+4: Ovidiu
+8: Razvan
+4: Aurelia
+Stefania -> Ioan
+Istvan -> Iulia
+6: Marin
+Eugen -> Nicolae
+Ana -> Tunde
+2: Daniel
+Bogdan -> Laurentiu
+6: Alin
+Florin -> Silvia
+Ileana -> Nicoleta
+6: Emil
+Bogdan -> Gheorghita
+Cornelia -> Florina
+Ilie -> Claudiu
+Ecaterina -> Andra
+Nicoleta -> Emanuel
+7: Liliana
+Valentina -> Diana
+17: Constantin
+Aurelia -> Ana
+Mariana -> Zoltan
+Georgian -> Anamaria
+Zsolt -> Lucian
+19: Catalina
+13: Victor
+3: Emilia
+Gheorghita -> Octavian
+Dumitru -> Danut
+8: Iuliana
+5: Daniel
+Nicusor -> Andreea
+8: Iulian
+19: Eniko
+12: Sebastian
+16: Raluca
+Katalin -> Tiberiu
+2: Adelina
+Oana -> Costel
+Marinela -> Ionut
+Florin -> Ancuta
+13: Veronica
+Claudiu -> Lavinia
+Lenuta -> Alina
+Carmen -> Sorina
+Nicusor -> Ioan
+Nicusor -> Stefan
+Stefan -> Matei
+Cosmin -> Petru
+Eniko -> Gabriela
+Mihail -> Matei
+Ioana -> Octavian
+Valentina -> Alexandru
+Tunde -> Anca
+Marinela -> Rodica
+6: Szabolcs
+Luminita -> Marian
+Razvan -> Angela
+Viorel -> Teodora
+6: Zsolt
+12: Katalin
+Zsolt -> Angela
+Paula -> Catalin
+Nicusor -> Radu
+10: Istvan
+Emilia -> Nicolae
+Georgiana -> Stefan
+Elena -> Attila
+Marinela -> Razvan
+9: Ciprian
+Emilia -> Corina
+2: Georgeta
+Bogdan -> Luminita
+12: Erika
+Catalina -> Silviu
+Istvan -> Gabriel
+11: Sergiu
+1: Ancuta
+10: Dan
+13: Codrin
+Maria -> Valentin
+10: Iulian
+11: Adina
+Dan -> Florin
+7: Ecaterina
+Camelia -> Lavinia
+Georgian -> Gabriela
+12: Nicoleta
+Andra -> Adrian
+Emanuel -> Adriana
+Mihaita -> Paula
+Dorin -> Georgiana
+14: Florina
+11: Bogdan
+Gheorghita -> Valentina
+Sorina -> Gheorghe
+Ionel -> Laszlo
+Catalin -> Ileana
+Alin -> Sorina
+13: Costin
+Viorica -> Cornel
+Tudor -> Ramona
+Cornelia -> Radu
+2: Adrian
+7: Paul
+Carmen -> Cornel
+Dorina -> Anca
+Iulian -> Paul
+Paul -> Constantin
+Levente -> Monica
+Ion -> Lidia
+13: Ecaterina
+Emil -> Marius
+1: Codrin
+17: Paul
+2: Gheorghita
+Ramona -> Cornelia
+15: Aurelia
+Zsolt -> Ciprian
+Marilena -> Alexandru
+18: Silvia
+Diana -> Costel
+Stefania -> Irina
+Csaba -> Aurelia
+Silvia -> Claudia
+14: Catalin
+Robert -> Ionela
+Bogdan -> Andra
+Georgian -> Liliana
+4: Gabriel
+12: Sorin
+Viorica -> Loredana
+Alin -> Catalina
+15: Elena
+Liviu -> Loredana
+10: Laszlo
+Maria -> Petrica
+1: Vasilica
+Claudiu -> Gabriel
+Simona -> Attila
+Petronela -> Alexandra
+4: Robert
+7: Gheorghe
+Marin -> Ovidiu
+Mihail -> Iuliana
+19: Sorin
+12: Geanina
+Petrica -> Andrei
+Danut -> Elena
+Ancuta -> Eniko
+Laszlo -> Roxana
+Mariana -> Nicusor
+Teodor -> Ecaterina
+19: Marilena
+Roxana -> Ionela
+7: Ana
+Laszlo -> Catalina
+Mircea -> Elena
+Eniko -> Codrin
+15: Florina
+Iulian -> Eniko
+11: Ilie
+Vasile -> Zoltan
+Ionel -> Erika
+Ancuta -> Lucian
+Adelina -> Nicoleta
+Laszlo -> Cristina
+Ana -> Lenuta
+Vlad -> Ileana
+7: Liviu
+Cosmin -> Georgeta
+Liviu -> Sorin
+Marin -> Mihai
+Tudor -> Silvia
+Corina -> Dragos
+Robert -> Stefania
+Lenuta -> Emilia
+Ionel -> Iulian
+Laszlo -> Claudiu
+12: Maria
+Ionel -> Cristian
+13: Valentina
+Maria -> Gheorghita
+Carmen -> Mircea
+Liviu -> Levente
+Ion -> Cosmin
+19: Melinda
+Teodor -> Mariana
+Iuliana -> Camelia
+George -> Maria
+Cristian -> Florina
+Georgian -> Katalin
+Valentina -> Sergiu
+6: Emil
+Zsolt -> Ramona
+Ionel -> Simona
+5: Alin
+4: Anisoara
+Mihaela -> Csaba
+Mihaela -> Vasilica
+7: Petronela
+Gheorghe -> Adelina
+Diana -> Liviu
+Stefania -> Adrian
+Dumitru -> Anisoara
+5: Dorin
+9: Szabolcs
+Liliana -> Kinga
+Sorin -> Katalin
+8: Valentina
+Cristian -> Danut
+Iulian -> Rodica
+Diana -> Ionel
+Dan -> Corina
+Melinda -> Bogdan
+Kinga -> Daniel
+Tunde -> Ion
+Diana -> Constantin
+19: Adriana
+17: Emil
+Georgian -> Ilie
+Cristina -> Ioana
+Adriana -> Dan
+14: Emilia
+Bianca -> Petrica
+Sebastian -> Gheorghe
+19: George
+Ion -> Kinga
+Oana -> Csaba
+1: Adelina
+Mihaela -> Cristina
+5: Adelina
+Camelia -> Razvan
+Ilie -> Costin
+12: Laszlo
+Carmen -> Laszlo
+Alin -> Szabolcs
+7: Istvan
+Alexandra -> Mihail
+Adelina -> Diana
+Marin -> Marinela
+Bianca -> Liliana
+12: Ionut
+8: Petronela
+7: Dorin
+17: Ioana
+10: Marilena
+Daniel -> Petronela
+Sebastian -> Mihaela
+Marilena -> Tunde
+0: Aurelia
+Dorina -> Ana
+15: Tudor
+14: Ionut
+Szabolcs -> Viorel
+Andrea -> Oana
+Georgian -> Anisoara
+Valentina -> Alin
+14: Bogdan
+Ioana -> Dumitru
+Camelia -> Adina
+18: Bogdan
+2: Iulian
+Cristian -> Ilie
+8: Nicusor
+12: Iulian
+Violeta -> Dumitru
+Aurelia -> Daniel
+14: Robert
+Carmen -> Emilia
+Iuliana -> Valentina
+Lenuta -> Melinda
+13: Sorin
+George -> Mihail
+11: Sorin
+Marilena -> Bogdan
+3: Teodor
+17: Victor
+Marilena -> Iulian
+Lidia -> Ecaterina
+Vlad -> Ancuta
+Carmen -> Victor
+Adina -> Iuliana
+Madalina -> Mihaita
+Zsolt -> Vlad
+Madalina -> Lenuta
+Raluca -> Dorin
+4: Ionut
+7: Emanuel
+1: Mihaela
+5: Adriana
+Ioana -> Lidia
+Florentina -> Andrea
+Marilena -> Andrea
+0: Eugen
+Cristian -> Marilena
+Cristian -> Stefania
+Ioana -> Roxana
+13: Oana
+Veronica -> Adriana
+4: Bianca
+4: Viorel
+0: Tudor
+Ion -> Paul
+Petronela -> Tudor
+Istvan -> Mihaela
+10: Tudor
+Marilena -> Robert
+4: Dorin
+Marinela -> Dorina
+6: Petronela
+Eugen -> Robert
+Eugen -> Zsolt
+Eugen -> Cristian
+0: Victor
+Eugen -> Camelia
+Geanina -> Madalina
+Istvan -> Veronica
+Mariana -> Szabolcs
+Marin -> Sorin
+7: Ionut
+5: Emil
+Bianca -> Viorica
+Adelina -> Emil
+Petronela -> Ioana
+0: Emil
+Madalina -> Dorina
+Emanuel -> Dorin
+11: Victor
+Marilena -> Alin
+10: Viorica
+1: Florentina
+Vasile -> Eugen
+3: George
+16: Dan
+Ion -> Marin
+Vasile -> Istvan
+Marin -> Mariana
+11: George
+Raluca -> Nicusor
+13: Teodor
+Aurelia -> Carmen
+Alexandra -> George
+1: Raluca
+18: Mihaita
+Oana -> Carmen
+Alexandra -> Ion
+Oana -> Aurelia
+5: Ionut
+16: Istvan
+0: Adina
+Madalina -> Eugen
+Raluca -> Bianca
+11: Viorica
+Catalin -> Veronica
+Timea -> Madalina
+5: Marin
+10: Georgian
+Oana -> Emil
+Marilena -> Oana
+0: Bianca
+Petronela -> Florentina
+Georgian -> Tudor
+Adina -> Alexandra
+Ionut -> Viorica
+Raluca -> Florentina
+Zsolt -> Catalin
+Ionut -> Marin
+Viorel -> Sebastian
+Adina -> Dan
+Emanuel -> Timea
+7: Vasile
+Adelina -> Viorel
+Ionut -> Adelina
+Mihaita -> Victor
+Vasile -> Zsolt
+16: Adina
+Raluca -> Petronela
+Ionut -> Istvan
+Ionut -> Georgian
+0: Raluca
+Mihaita -> Marinela
+Violeta -> Geanina
+Ionut -> Mihaita
+Emanuel -> Ionut
+14: Teodor
+Bianca -> Vasile
+10: Bianca
+Emanuel -> Raluca
+Timea -> Emanuel
+12: Sebastian
+Geanina -> Bianca
+Violeta -> Georgian
+15: Marilena
+Geanina -> Marilena
+Raluca -> Sebastian
+Timea -> Raluca
+JOC_24
+Szabolcs -> Stefan
+13: Cornelia
+14: Diana
+5: Eugen
+Csaba -> Bianca
+Cristina -> Emil
+Attila -> Catalina
+Andrei -> Petrica
+Vasile -> Danut
+Gheorghe -> Daniela
+Dragos -> Roxana
+Sorina -> Laura
+Silvia -> Sorin
+0: Viorica
+2: Ramona
+11: Elena
+Mihaita -> Tunde
+Nicusor -> Robert
+Valentin -> Ileana
+Stefania -> Ionut
+19: Zsolt
+15: Costin
+Sergiu -> Mirela
+Catalina -> Marian
+Ana -> Emanuel
+Andreea -> Stefania
+Alina -> Geanina
+Anca -> Cristian
+Lucian -> Dan
+5: Ionut
+Levente -> Gabriel
+Sebastian -> Ionut
+Liviu -> Irina
+Sorin -> Marius
+8: Alin
+Roxana -> Florian
+Nicusor -> Laura
+6: Andreea
+Teodor -> Alexandru
+8: Petrica
+15: Vasile
+8: Alin
+19: Marius
+7: Andrea
+Sorina -> Robert
+Daniela -> Erika
+Vlad -> Alin
+Lucian -> Bianca
+Dorina -> Radu
+4: Madalina
+0: Lucian
+Lavinia -> Codrin
+7: Mircea
+4: Andrea
+Mihaita -> Valentina
+Elena -> Aurelia
+Catalin -> Aurelia
+3: Ileana
+16: Andrei
+Laszlo -> Cosmin
+11: Paul
+5: Roxana
+Camelia -> Ileana
+15: Adina
+1: Iuliana
+Sebastian -> Viorel
+Ecaterina -> Catalina
+7: Camelia
+Eniko -> Istvan
+14: Cristian
+Ciprian -> Cornelia
+Emilia -> Claudiu
+Violeta -> Marius
+2: Andrei
+Danut -> Irina
+Mihaita -> Zsolt
+Monica -> Valentina
+Dumitru -> Dan
+Marinela -> Madalina
+3: Costin
+Daniela -> Vasile
+Camelia -> Octavian
+Sebastian -> Alin
+Marinela -> Mariana
+Sorina -> Alexandra
+Ciprian -> Ilie
+Loredana -> Viorica
+Georgian -> Monica
+14: Costin
+Andreea -> Camelia
+Victor -> Laszlo
+Tunde -> Razvan
+Mihaita -> Iulian
+14: Adina
+Daniela -> Claudiu
+16: Zsolt
+16: Erika
+Silviu -> Gabriela
+Costel -> Alexandra
+11: Cornel
+Attila -> Viorica
+Florin -> Adelina
+Anisoara -> Florin
+1: Ionel
+9: Carmen
+Nicusor -> Codrin
+3: Katalin
+Lenuta -> Melinda
+Eugen -> Georgiana
+Emil -> Anca
+Alina -> Andra
+Andrea -> Raluca
+Teodor -> Marian
+0: Oana
+12: Vlad
+10: Corina
+Marin -> Nicolae
+Adrian -> Petrica
+7: Daniel
+Oana -> Camelia
+Florentina -> Cosmin
+Emil -> Alexandru
+Roxana -> Oana
+Gheorghe -> Nicusor
+Ioana -> Anamaria
+Andra -> Gheorghe
+Dorin -> Iulian
+Ion -> Raluca
+Lenuta -> Adrian
+Monica -> Veronica
+12: Loredana
+10: Gabriel
+Zoltan -> Florina
+Ionela -> Georgian
+Gabriela -> Silvia
+Laurentiu -> Istvan
+Roxana -> Violeta
+Laurentiu -> Daniel
+Csaba -> Loredana
+19: Florina
+Erika -> Diana
+16: Anca
+11: Marin
+Iuliana -> Angela
+Ilie -> Eugen
+Florian -> Razvan
+Ramona -> Laurentiu
+15: Matei
+3: Lavinia
+Gabriel -> Costin
+3: Luminita
+Ioan -> Anamaria
+Emil -> Elena
+7: Mihaela
+18: Angela
+Zsolt -> Catalin
+18: Teodor
+Emanuel -> Stefania
+8: Costel
+Ovidiu -> Lenuta
+Angela -> Iulia
+4: Florina
+Ecaterina -> Marilena
+0: Ilie
+Bogdan -> Sergiu
+Mihail -> Andreea
+Simona -> Petru
+Laurentiu -> Claudia
+Dorin -> Georgiana
+8: Ion
+Zsolt -> Eugen
+Emanuel -> Sebastian
+Viorel -> Geanina
+Csaba -> Monica
+Danut -> Mariana
+9: Anisoara
+Lenuta -> Maria
+5: Constantin
+13: Ecaterina
+Emil -> Florina
+Sorina -> Oana
+Valentin -> Mihaita
+18: Paul
+7: Vlad
+Octavian -> Vasilica
+Marilena -> George
+6: Marilena
+1: Andreea
+Teodora -> Cristina
+Ionel -> Danut
+Mihaela -> Kinga
+Sorin -> Paula
+16: Andreea
+1: Szabolcs
+10: Ramona
+17: Anca
+Teodora -> Cristian
+Victor -> Dragos
+Ionel -> Rodica
+13: Ramona
+Ioan -> Silvia
+Katalin -> Claudia
+Emilia -> Adrian
+Ana -> Andrei
+Victor -> Liliana
+Sorin -> Valentin
+7: Zsolt
+9: Marinela
+Lenuta -> Valentin
+Octavian -> Nicusor
+10: Violeta
+Ion -> Liviu
+Ion -> Angela
+Teodor -> Iulia
+Teodora -> Mirela
+Mihai -> Mircea
+Rodica -> Roxana
+Emil -> Stefan
+Maria -> Rodica
+18: Lidia
+1: Sebastian
+Catalin -> Violeta
+6: Florin
+16: Andrea
+3: Cornel
+Csaba -> Paula
+15: Constantin
+3: Ionela
+12: Corina
+Ionel -> Emil
+Andra -> Vasile
+8: Erika
+16: Tunde
+19: Petronela
+6: Radu
+9: Matei
+Adelina -> Loredana
+14: Gabriela
+1: Lavinia
+Maria -> Florentina
+13: Liliana
+Nicolae -> Ioana
+Elena -> Cornel
+12: Marinela
+10: Mihaita
+11: Sebastian
+Tunde -> Daniel
+George -> Ioan
+Marilena -> Cristina
+8: Gheorghe
+Marin -> Nicolae
+Radu -> Timea
+Ioan -> Erika
+Alina -> Marin
+Dumitru -> Kinga
+7: Gheorghita
+Florentina -> Lenuta
+Attila -> Catalin
+17: Sebastian
+Viorel -> Georgeta
+Eniko -> Daniela
+Ion -> Liviu
+Florin -> Matei
+Mihaela -> Katalin
+Florentina -> Constantin
+11: Melinda
+Gabriela -> Georgeta
+Mihaela -> Eniko
+Florin -> Paul
+Tunde -> Ionel
+Florin -> Anisoara
+Petru -> Anisoara
+Ioana -> Octavian
+11: Florin
+13: Paul
+10: Csaba
+Florin -> Cornel
+Marin -> Simona
+9: Ion
+Laurentiu -> Iuliana
+Iuliana -> Mihai
+Emanuel -> Ionela
+Florentina -> Costin
+Ioan -> Costel
+Nicoleta -> Viorel
+Iuliana -> Petru
+Mihail -> Gabriel
+18: Silviu
+1: Costel
+Constantin -> Cornelia
+Silviu -> Ilie
+10: Teodora
+Adelina -> Liliana
+13: Tiberiu
+Emilia -> Mihai
+9: Lidia
+Petronela -> Vasilica
+Gheorghita -> Corina
+Florentina -> Matei
+Marinela -> Ana
+Sebastian -> Victor
+10: Ecaterina
+Zoltan -> Radu
+Anca -> Ciprian
+5: Silviu
+Nicoleta -> Zsolt
+Nicoleta -> Dragos
+Sergiu -> Teodor
+5: Teodor
+12: Vlad
+17: Tudor
+Lidia -> Lucian
+Timea -> Bogdan
+Tudor -> Alina
+Andra -> Vlad
+Ciprian -> Teodor
+18: Costel
+Adina -> Gabriela
+Csaba -> Lavinia
+Katalin -> Nicoleta
+Costel -> Vlad
+17: Carmen
+Tunde -> Silviu
+Mihail -> Alina
+Eniko -> Ion
+Florentina -> Laurentiu
+Adelina -> Ramona
+Tunde -> Emanuel
+Florentina -> Timea
+Luminita -> Gheorghe
+6: Mihail
+0: Madalina
+Szabolcs -> Florin
+18: Ecaterina
+5: Ancuta
+Ionela -> Lavinia
+6: Marinela
+Ana -> Mihaita
+Constantin -> Gheorghita
+Mihaela -> Sorina
+5: Teodora
+Adriana -> Mihail
+Eniko -> Ovidiu
+4: Luminita
+Nicoleta -> Ion
+Ioan -> Ionel
+Andra -> Adriana
+Andrei -> Sergiu
+7: Veronica
+19: Sebastian
+Lidia -> Dumitru
+19: Iuliana
+Petronela -> Ioan
+Adina -> Costel
+Adina -> Andrei
+Sorin -> Zoltan
+9: Teodora
+8: Elena
+Andreea -> Lidia
+13: Emilia
+Corina -> Melinda
+Adina -> Petronela
+Levente -> Lidia
+14: Elena
+Dumitru -> Ecaterina
+Marinela -> Petronela
+14: Ramona
+Sorin -> Levente
+8: Mircea
+Marilena -> Tiberiu
+0: Ciprian
+Laszlo -> Ramona
+Tiberiu -> Ioana
+8: Ciprian
+1: Marilena
+Mircea -> Ancuta
+Andreea -> Marinela
+17: Carmen
+0: Teodora
+0: Lucian
+Ecaterina -> Iuliana
+Tudor -> Adriana
+12: Corina
+13: Tudor
+Madalina -> Silviu
+Bogdan -> Teodora
+15: Georgian
+18: Gheorghita
+Victor -> Corina
+2: Tudor
+14: Emilia
+6: Lucian
+11: Ana
+Szabolcs -> Ionela
+Andreea -> Laszlo
+Ana -> Andrea
+Andrea -> Elena
+Sebastian -> Carmen
+Florian -> Carmen
+Victor -> George
+Ciprian -> Ecaterina
+Tudor -> Veronica
+Tiberiu -> Victor
+Georgian -> Anca
+Andra -> Lucian
+0: Paul
+Mihail -> Simona
+14: Dumitru
+Tiberiu -> Diana
+18: Emilia
+2: Sorina
+Maria -> Attila
+Florentina -> Attila
+Ciprian -> Teodora
+Levente -> Bogdan
+Constantin -> Dorin
+5: Mihaela
+Nicoleta -> Ana
+Gheorghita -> Ovidiu
+15: Eniko
+Mihail -> Andreea
+17: Szabolcs
+Paul -> Sorin
+14: Constantin
+Maria -> Marinela
+Madalina -> Gheorghita
+18: Dorina
+15: Andrea
+18: Dorin
+Csaba -> Mircea
+Mihaela -> Marin
+Dorina -> Ancuta
+Paul -> Constantin
+Marilena -> Ciprian
+Luminita -> Maria
+Madalina -> Adina
+Madalina -> Dorin
+Dumitru -> Sorina
+Szabolcs -> Georgian
+Florentina -> Luminita
+Andrea -> Dumitru
+Szabolcs -> Nicoleta
+Luminita -> Madalina
+Mihaela -> Andrea
+Zoltan -> Marilena
+Andra -> Szabolcs
+Emilia -> Adelina
+Tiberiu -> Tunde
+Tiberiu -> Dorina
+Csaba -> Tiberiu
+Levente -> Florian
+Szabolcs -> Luminita
+2: Mihaela
+1: Adina
+11: Florentina
+Csaba -> Tudor
+Florentina -> Katalin
+Csaba -> Andra
+Florentina -> Eniko
+Emilia -> Paul
+Szabolcs -> Levente
+Mihaela -> Sebastian
+15: Csaba
+17: Mihaela
+Szabolcs -> Tudor
+Zoltan -> Szabolcs
+15: Adina
+Zoltan -> Mihaela
+15: Dorina
+Florentina -> Csaba
+Csaba -> Mihail
+Adina -> Mihaela
+Dorina -> Florentina
+JOC_25
+Tudor -> Cristian
+Andreea -> Radu
+8: Oana
+Tiberiu -> Ioan
+Vlad -> Sergiu
+Gabriel -> Kinga
+11: Iulia
+15: Florian
+Andrea -> Diana
+7: Daniela
+Nicoleta -> Camelia
+Vlad -> Costin
+17: Nicolae
+Ecaterina -> Paul
+Cornelia -> Raluca
+Octavian -> Monica
+Bianca -> Mirela
+Elena -> Zoltan
+Dragos -> Nicolae
+Csaba -> Daniela
+Valentina -> Levente
+6: Gabriel
+Costin -> Kinga
+Emanuel -> Dumitru
+Tunde -> Carmen
+Claudiu -> Marius
+Ionut -> Danut
+9: Laura
+Danut -> Gheorghe
+Paul -> Anca
+15: Ramona
+Levente -> Radu
+3: Alin
+Mihaita -> Codrin
+0: Simona
+Andrei -> Teodor
+Maria -> Ana
+Sergiu -> Raluca
+Cornelia -> Georgian
+18: Ancuta
+Liviu -> Catalina
+Eniko -> Anamaria
+Daniela -> Sergiu
+Maria -> Ecaterina
+Cornel -> Claudiu
+11: Ecaterina
+Nicolae -> Silviu
+Ramona -> Nicoleta
+Elena -> Vasile
+Marian -> Vasile
+3: Dan
+Daniel -> Viorica
+16: Lavinia
+Georgian -> Ionut
+Timea -> Elena
+Liliana -> Paul
+10: Marian
+Istvan -> Florentina
+Costel -> Roxana
+15: Iulia
+Erika -> Oana
+Vlad -> Aurelia
+3: Alin
+Ionel -> Madalina
+13: Petrica
+Dorina -> Alin
+Eniko -> Ana
+Florentina -> Sorina
+7: Danut
+10: Razvan
+Luminita -> Gabriel
+Carmen -> Marin
+14: Georgian
+19: Anamaria
+Dorina -> Viorel
+Nicolae -> Laszlo
+8: Melinda
+7: Andrea
+Veronica -> Alexandru
+Alexandra -> Zoltan
+3: Ionela
+9: Simona
+0: Timea
+11: Costel
+Roxana -> Dorin
+12: Mircea
+Adelina -> Alexandra
+Constantin -> Gheorghita
+Aurelia -> Iulian
+Diana -> Adrian
+Constantin -> Anca
+Georgeta -> Catalin
+Nicoleta -> Mircea
+Ionela -> Vlad
+9: Liliana
+Madalina -> Andrea
+Tiberiu -> Adrian
+Claudia -> Andrea
+Georgeta -> Madalina
+Dorina -> Florentina
+Ioan -> Violeta
+Sorina -> Ioan
+Valentin -> Iulian
+14: Timea
+18: Daniel
+Monica -> Mihaela
+18: Victor
+Sebastian -> Sorin
+Anisoara -> Simona
+Camelia -> Dorina
+George -> Tiberiu
+14: Silviu
+19: Emilia
+Ionela -> Cristian
+Adina -> Ileana
+Cristina -> Robert
+Florina -> Dragos
+Cristina -> Violeta
+6: Laurentiu
+9: Valentina
+Bianca -> Nicoleta
+13: Teodor
+Elena -> Dorina
+Laurentiu -> Emil
+Ionela -> Dragos
+0: Katalin
+Loredana -> Ilie
+5: Robert
+9: Szabolcs
+Mihail -> Bogdan
+Cornel -> Constantin
+Alina -> Octavian
+Carmen -> Ionel
+Teodor -> Alexandru
+Petronela -> Daniela
+8: Eniko
+Georgeta -> Dumitru
+Florin -> Emanuel
+Iulia -> Angela
+Ioana -> Angela
+Vasilica -> Codrin
+Gheorghita -> Oana
+4: Marian
+Ciprian -> Istvan
+Petrica -> Bogdan
+Alin -> Mihaita
+Iuliana -> Viorica
+Mihail -> Constantin
+5: Zsolt
+Lidia -> Iuliana
+Melinda -> Elena
+Andreea -> Nicusor
+10: Valentina
+Ilie -> Marinela
+Daniel -> Adriana
+Eugen -> Ovidiu
+Carmen -> Victor
+Ileana -> Mariana
+Roxana -> Emil
+Catalina -> Ioana
+11: Adelina
+Ancuta -> Mihai
+Istvan -> Octavian
+11: Silviu
+Alina -> Ileana
+Laurentiu -> Mircea
+0: Szabolcs
+Marin -> Maria
+Lenuta -> Gabriela
+17: Marian
+Gheorghe -> Petrica
+Alin -> Zsolt
+Valentin -> Marinela
+Ramona -> Szabolcs
+Sebastian -> Ionut
+Dan -> Luminita
+Geanina -> Ciprian
+1: Levente
+Cornel -> Florina
+8: Luminita
+9: Erika
+Florian -> Iuliana
+6: Matei
+Lavinia -> Sorin
+Lucian -> Lidia
+12: Lucian
+Emilia -> Gabriel
+Mihaela -> Viorel
+Georgian -> Sebastian
+Simona -> Adriana
+Diana -> Anisoara
+Lidia -> Ionel
+Monica -> Veronica
+0: Lavinia
+Ion -> Aurelia
+Gheorghe -> Laura
+Georgian -> Gheorghita
+Petru -> Catalina
+Petronela -> Alin
+1: Veronica
+Gheorghe -> Mihai
+Mariana -> Attila
+Liliana -> Timea
+8: Gabriela
+Silvia -> Andreea
+Roxana -> Teodora
+7: Florian
+Iulia -> Danut
+Ramona -> Cornel
+Zsolt -> Alina
+Camelia -> Petrica
+18: Carmen
+Ioana -> Levente
+Ancuta -> Irina
+12: Mariana
+19: Cornel
+2: Geanina
+Attila -> Razvan
+Matei -> Loredana
+5: Florin
+0: Catalin
+Maria -> Lucian
+Tiberiu -> Veronica
+Mihail -> Mariana
+1: Ciprian
+Monica -> Dan
+Dan -> Mirela
+15: Andra
+0: Anamaria
+Ovidiu -> Mihaela
+4: Attila
+Costel -> Cristina
+Costel -> Alina
+Cornelia -> Simona
+Szabolcs -> Daniel
+Ion -> Georgian
+Ciprian -> Zsolt
+13: Stefan
+Roxana -> Bianca
+Eniko -> Ioana
+Corina -> Roxana
+17: Nicusor
+Sorina -> Irina
+Vlad -> Laurentiu
+Attila -> Szabolcs
+Ramona -> Erika
+Florian -> Gabriela
+Lucian -> Petru
+Liliana -> Victor
+19: Ilie
+Attila -> Luminita
+7: Liliana
+17: Claudia
+4: Ancuta
+Adina -> Matei
+Ovidiu -> Georgiana
+Iulia -> Laura
+Valentin -> Anisoara
+Ion -> Razvan
+Georgiana -> Adelina
+Adina -> Florin
+Robert -> Dorin
+Nicusor -> Loredana
+16: Stefan
+Laurentiu -> Eniko
+Tiberiu -> Cristina
+Ionela -> Csaba
+16: Timea
+8: Marius
+Monica -> Ion
+Marilena -> Camelia
+9: Florina
+6: Adelina
+Robert -> Tudor
+6: Marius
+5: Dan
+Liviu -> Alexandra
+Andrei -> Tunde
+3: Ramona
+Sorina -> Florin
+Ciprian -> Valentina
+Rodica -> Stefan
+Ion -> Cosmin
+4: Vlad
+Ciprian -> Sebastian
+Valentin -> Istvan
+Marin -> Costin
+10: Marian
+Mihail -> Ion
+8: Teodora
+Iulia -> Melinda
+1: Catalin
+Liliana -> Attila
+Anamaria -> Petru
+Ovidiu -> Lidia
+18: Daniel
+Eniko -> Florina
+Maria -> Marin
+Dan -> George
+Teodor -> Andra
+5: Cosmin
+Vlad -> Valentina
+Liviu -> Ciprian
+Robert -> Ecaterina
+16: Robert
+8: Erika
+6: Valentin
+5: Marian
+Ionela -> Csaba
+0: Gheorghe
+Anamaria -> Ancuta
+2: Rodica
+Ramona -> Laszlo
+Emanuel -> Ramona
+Anamaria -> Marilena
+Lucian -> Vasilica
+Eniko -> Andreea
+Lucian -> Monica
+Georgiana -> Cornel
+17: Nicolae
+19: Lucian
+18: Adina
+Florian -> Lucian
+Florian -> Eniko
+Georgiana -> Petronela
+9: Lenuta
+12: Adina
+Anamaria -> Stefan
+Cornelia -> Corina
+Ancuta -> Silvia
+Bianca -> Matei
+Ilie -> Ramona
+18: Georgiana
+Erika -> George
+Rodica -> Silviu
+14: Lenuta
+4: Petronela
+Teodor -> Corina
+Anamaria -> Katalin
+Ilie -> Maria
+Vasilica -> Cosmin
+Timea -> Robert
+END_CHAMPIONSHIP
